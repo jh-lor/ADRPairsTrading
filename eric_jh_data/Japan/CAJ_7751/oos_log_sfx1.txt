@@ -1,0 +1,30 @@
+Country: Japan
+ADR: CAJ_7751
+Return: 0.02%
+Hit Ratio: 100.0%
+Max Drawdown: 0.0%
+
+Trades
+
+Opening positions:
+We bought 94800 shares of underlying stock at the price of 0.01001 foreign dollars on 2017-04-28
+We sold 158 shares of ADR at the price of 5.03496 on 2017-05-01
+Closing positions:
+We sold 94800 shares of underlying stock at the price of 0.00999 foreign dollars on 2017-05-05
+We bought 158 shares of ADR at the price of 4.524519999999999 on 2017-05-08
+Opening positions:
+We bought 46200 shares of underlying stock at the price of 0.0070069999999999985 foreign dollars on 2017-09-14
+We sold 77 shares of ADR at the price of 3.7490472 on 2017-09-15
+Closing positions:
+We sold 46200 shares of underlying stock at the price of 0.007992 foreign dollars on 2017-10-03
+We bought 77 shares of ADR at the price of 3.4434399999999994 on 2017-10-04
+Opening positions:
+We bought 55800 shares of underlying stock at the price of 0.012011999999999998 foreign dollars on 2018-03-07
+We sold 93 shares of ADR at the price of 5.67432 on 2018-03-08
+Closing positions:
+We sold 55800 shares of underlying stock at the price of 0.010989 foreign dollars on 2018-03-15
+We bought 93 shares of ADR at the price of 4.84484 on 2018-03-16
+
+Hyperparameters
+
+(30.0, 2.0, -0.5, 2.7)

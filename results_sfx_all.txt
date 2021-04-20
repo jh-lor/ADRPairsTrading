@@ -1,0 +1,140 @@
+Country: Australia, ADR_Stock: ATHE_ATH
+Variant 1: HPs: (100, 1, 0, 3.5), Return: 1.24%
+Variant 2: HPs: (100, 1, -0.5, 2.5), Return: 3.2%
+Variant 3a: HPs: (100, 1, -0.5, 2.5), Return: 3.29%
+Variant 3b: HPs: (100, 1, -0.5, 2.5), Return: 3.2%
+Country: Australia, ADR_Stock: GENE_GTG
+Variant 1: HPs: (30, 1, 0, 3), Return: 2.03%
+Variant 2: HPs: (100, 1, 0.5, 2.5), Return: 5.75%
+Variant 3a: HPs: (30, 1.5, 0.5, 2.5), Return: 4.98%
+Variant 3b: HPs: (60, 1, 0, 3.5), Return: 3.86%
+Country: Australia, ADR_Stock: IMMP_IMM
+Variant 1: HPs: (60, 1, -0.5, 3), Return: 2.27%
+Variant 2: HPs: (100, 1, 0.5, 3.5), Return: 4.81%
+Variant 3a: HPs: (100, 1, 0.5, 3.5), Return: 4.15%
+Variant 3b: HPs: (100, 1, 0.5, 3.5), Return: 3.67%
+Country: Australia, ADR_Stock: IMRN_IMC
+Variant 1: HPs: (60, 1, -0.5, 2.5), Return: 2.91%
+Variant 2: HPs: (30, 1, 0, 2.5), Return: 2.24%
+Variant 3a: HPs: (60, 1, 0, 2.5), Return: 5.04%
+Variant 3b: HPs: (60, 1, 0, 2.5), Return: 5.02%
+Country: Australia, ADR_Stock: JHX_JHX
+Variant 1: HPs: (30, 2, 0, 2.5), Return: 0.03%
+Variant 2: HPs: (100, 1, 0, 2.5), Return: 0.03%
+Variant 3a: HPs: (100, 1, 0.5, 3.5), Return: 0.08%
+Variant 3b: HPs: (60, 1, 0.5, 3), Return: 0.08%
+Country: Australia, ADR_Stock: KZIA_KZA
+Variant 1: HPs: (30, 1, 0, 3), Return: 0.87%
+Variant 2: HPs: (60, 1, -0.5, 3), Return: 1.15%
+Variant 3a: HPs: (60, 1, -0.5, 3.5), Return: 1.5%
+Variant 3b: HPs: (100, 1, -0.5, 3.5), Return: 1.78%
+Country: Australia, ADR_Stock: MESO_MSB
+Variant 1: HPs: (100, 1, -0.5, 2.5), Return: 1.92%
+Variant 2: HPs: (30, 1, 0, 3.5), Return: 4.72%
+Variant 3a: HPs: (30, 1, -0.5, 3.5), Return: 4.17%
+Variant 3b: HPs: (30, 1, -0.5, 3.5), Return: 4.27%
+Country: Australia, ADR_Stock: PLL_PLL
+Variant 1: HPs: (60, 1, 0, 3.5), Return: 11.18%
+Variant 2: HPs: (100, 1, 0.5, 2.5), Return: 6.22%
+Variant 3a: HPs: (60, 2, 0.5, 3), Return: 8.75%
+Variant 3b: HPs: (30, 1, 0, 3.5), Return: 14.37%
+Country: Australia, ADR_Stock: WBK_WBC
+Variant 1: HPs: (100, 2, 0, 3.5), Return: 0.33%
+Variant 2: HPs: (100, 1, -0.5, 2.5), Return: 0.44%
+Variant 3a: HPs: (30, 1, 0.5, 2.5), Return: 0.64%
+Variant 3b: HPs: (100, 1.5, 0.5, 3.5), Return: 0.7%
+Country: China, ADR_Stock: ACH_2600
+Variant 1: HPs: (30, 1.5, -0.5, 2.5), Return: 0.01%
+Variant 2: HPs: (30, 1.5, 0.5, 2.5), Return: 0.06%
+Variant 3a: HPs: (30, 1.5, -0.5, 2.5), Return: 0.06%
+Variant 3b: HPs: (100, 1, -0.5, 3), Return: 0.05%
+Country: China, ADR_Stock: BGNE_6160
+Variant 1: HPs: (60, 1, 0, 3.5), Return: 14.39%
+Variant 2: HPs: (60, 1, 0.5, 2.5), Return: 4.01%
+Variant 3a: HPs: (100, 1, -0.5, 3.5), Return: 9.25%
+Variant 3b: HPs: (30, 1, 0, 3.5), Return: 13.33%
+Country: China, ADR_Stock: CEA_670
+Variant 1: HPs: (60, 1, -0.5, 3.5), Return: 0.08%
+Variant 2: HPs: (100, 1, 0, 3), Return: 0.05%
+Variant 3a: HPs: (100, 1, 0.5, 3.5), Return: 0.08%
+Variant 3b: HPs: (100, 1, 0.5, 3), Return: 0.09%
+Country: China, ADR_Stock: HNP_902
+Variant 1: HPs: (100, 1, -0.5, 3.5), Return: 0.11%
+Variant 2: HPs: (30, 1, 0, 2.5), Return: 0.14%
+Variant 3a: HPs: (100, 1, -0.5, 2.5), Return: 0.19%
+Variant 3b: HPs: (60, 1, 0, 3.5), Return: 0.18%
+Country: China, ADR_Stock: LFC_2628
+Variant 1: HPs: (30, 1, -0.5, 3), Return: 0.16%
+Variant 2: HPs: (100, 1, -0.5, 2.5), Return: 0.24%
+Variant 3a: HPs: (60, 1.5, -0.5, 2.5), Return: 0.23%
+Variant 3b: HPs: (30, 2, -0.5, 2.5), Return: 0.11%
+Country: China, ADR_Stock: PTR_857
+Variant 1: HPs: (60, 2, 0, 2.5), Return: 0.15%
+Variant 2: HPs: (100, 1.5, 0, 2.5), Return: 0.09%
+Variant 3a: HPs: (30, 2, -0.5, 3), Return: 0.14%
+Variant 3b: HPs: (100, 2, 0.5, 2.5), Return: 0.07%
+Country: China, ADR_Stock: SHI_338
+Variant 1: HPs: (100, 1, -0.5, 2.5), Return: 0.14%
+Variant 2: HPs: (30, 1, -0.5, 2.5), Return: 0.04%
+Variant 3a: HPs: (30, 1, -0.5, 3.5), Return: 0.15%
+Variant 3b: HPs: (30, 1, -0.5, 3), Return: 0.12%
+Country: China, ADR_Stock: SNP_386
+Variant 1: HPs: (100, 1.5, 0, 3), Return: 0.43%
+Variant 2: HPs: (100, 1, 0.5, 2.5), Return: 0.8%
+Variant 3a: HPs: (60, 1, 0.5, 2.5), Return: 1.12%
+Variant 3b: HPs: (30, 1, 0, 2.5), Return: 1.1%
+Country: China, ADR_Stock: ZNH_1055
+Variant 1: HPs: (30, 2, 0.5, 2.5), Return: 0.08%
+Variant 2: HPs: (100, 1, 0, 3), Return: 0.07%
+Variant 3a: HPs: (100, 1, 0.5, 3), Return: 0.09%
+Variant 3b: HPs: (60, 2, 0.5, 3.5), Return: 0.08%
+Country: Japan, ADR_Stock: CAJ_7751
+Variant 1: HPs: (30, 2, -0.5, 2.5), Return: 0.12%
+Variant 2: HPs: (100, 1.5, -0.5, 3), Return: 0.37%
+Variant 3a: HPs: (60, 1.5, -0.5, 3.5), Return: 0.3%
+Variant 3b: HPs: (30, 1.5, -0.5, 2.5), Return: 0.58%
+Country: Japan, ADR_Stock: HMC_7267
+Variant 1: HPs: (60, 2, 0.5, 3), Return: 0.46%
+Variant 2: HPs: (60, 2, 0, 2.5), Return: 0.18%
+Variant 3a: HPs: (60, 2, 0, 3), Return: 0.45%
+Variant 3b: HPs: (60, 2, 0, 2.5), Return: 0.17%
+Country: Japan, ADR_Stock: IX_8591
+Variant 1: HPs: (30, 2, 0.5, 3), Return: 0.15%
+Variant 2: HPs: (30, 1, -0.5, 3.5), Return: 0.36%
+Variant 3a: HPs: (30, 2, -0.5, 3.5), Return: 0.39%
+Variant 3b: HPs: (60, 1.5, -0.5, 3), Return: 0.3%
+Country: Japan, ADR_Stock: MFG_8411
+Variant 1: HPs: (60, 2, -0.5, 3), Return: 0.01%
+Variant 2: HPs: (60, 1.5, 0, 2.5), Return: 0.14%
+Variant 3a: HPs: (60, 1.5, -0.5, 2.5), Return: 0.16%
+Variant 3b: HPs: (60, 1.5, 0, 3), Return: 0.14%
+Country: Japan, ADR_Stock: MUFG_8306
+Variant 1: HPs: (30, 2, 0, 3), Return: -0.04%
+Variant 2: HPs: (30, 1, -0.5, 3.5), Return: 0.96%
+Variant 3a: HPs: (30, 1, -0.5, 3), Return: 0.62%
+Variant 3b: HPs: (30, 1, -0.5, 2.5), Return: 0.8%
+Country: Japan, ADR_Stock: NMR_8604
+Variant 1: HPs: (30, 2, -0.5, 2.5), Return: -0.03%
+Variant 2: HPs: (30, 1.5, -0.5, 3.5), Return: 0.1%
+Variant 3a: HPs: (100, 1, 0, 2.5), Return: 0.1%
+Variant 3b: HPs: (30, 2, -0.5, 2.5), Return: 0.07%
+Country: Japan, ADR_Stock: SMFG_8316
+Variant 1: HPs: (100, 2, 0.5, 2.5), Return: -0.04%
+Variant 2: HPs: (30, 1.5, -0.5, 3), Return: 1.02%
+Variant 3a: HPs: (60, 1.5, 0, 2.5), Return: 0.52%
+Variant 3b: HPs: (60, 1.5, -0.5, 3.5), Return: 0.79%
+Country: Japan, ADR_Stock: SONY_6758
+Variant 1: HPs: (30, 2, 0.5, 3), Return: -0.08%
+Variant 2: HPs: (100, 1, -0.5, 3.5), Return: 2.75%
+Variant 3a: HPs: (60, 2, 0, 3), Return: 0.39%
+Variant 3b: HPs: (30, 2, 0.5, 3.5), Return: 0.41%
+Country: Japan, ADR_Stock: TAK_4502
+Variant 1: HPs: (60, 1.5, 0, 2.5), Return: 0.81%
+Variant 2: HPs: (100, 1, -0.5, 3.5), Return: 3.15%
+Variant 3a: HPs: (100, 1, 0, 3), Return: 4.49%
+Variant 3b: HPs: (100, 1, 0, 3), Return: 4.25%
+Country: Japan, ADR_Stock: TM_7203
+Variant 1: HPs: (30, 2, 0.5, 2.5), Return: 0.51%
+Variant 2: HPs: (30, 1.5, 0.5, 2.5), Return: 0.74%
+Variant 3a: HPs: (60, 1.5, -0.5, 3), Return: 1.67%
+Variant 3b: HPs: (30, 1.5, 0.5, 3), Return: 1.36%

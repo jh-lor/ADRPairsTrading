@@ -1,0 +1,18 @@
+Country: Japan
+ADR: SONY_6758
+Return: 0.01%
+Hit Ratio: 100.0%
+Max Drawdown: 0.0%
+
+Trades
+
+Opening positions:
+We bought 94800 shares of underlying stock at the price of 0.01001 foreign dollars on 2017-04-28
+We sold 158 shares of ADR at the price of 5.03496 on 2017-05-01
+Closing positions:
+We sold 94800 shares of underlying stock at the price of 0.00999 foreign dollars on 2017-05-02
+We bought 158 shares of ADR at the price of 4.644639999999999 on 2017-05-03
+
+Hyperparameters
+
+(40.0, 2.2, 0.3, 3.2)

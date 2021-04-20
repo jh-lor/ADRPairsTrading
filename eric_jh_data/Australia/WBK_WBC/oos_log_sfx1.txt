@@ -1,0 +1,24 @@
+Country: Australia
+ADR: WBK_WBC
+Return: 0.03%
+Hit Ratio: 100.0%
+Max Drawdown: 0.0%
+
+Trades
+
+Opening positions:
+We bought 46200 shares of underlying stock at the price of 0.0070069999999999985 foreign dollars on 2017-09-14
+We sold 77 shares of ADR at the price of 3.7490472 on 2017-09-15
+Closing positions:
+We sold 46200 shares of underlying stock at the price of 0.007992 foreign dollars on 2017-10-03
+We bought 77 shares of ADR at the price of 3.4434399999999994 on 2017-10-04
+Opening positions:
+We bought 250200 shares of underlying stock at the price of 0.009009 foreign dollars on 2017-10-09
+We sold 417 shares of ADR at the price of 4.75524 on 2017-10-10
+Closing positions:
+We sold 250200 shares of underlying stock at the price of 0.008991 foreign dollars on 2017-10-10
+We bought 417 shares of ADR at the price of 4.12412 on 2017-10-11
+
+Hyperparameters
+
+(105.0, 1.8, -0.1, 3.3)
