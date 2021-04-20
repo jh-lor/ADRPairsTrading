@@ -1,4 +1,4 @@
-The return of ADR_underlying pairs trading for IMMP_IMM from Australia is 4.1%
+The return of ADR_underlying pairs trading for IMMP_IMM from Australia is 3.93%
 The hit ratio is 78.95%
 The max drawdown is 0.17%
 Opening positions:
@@ -326,17 +326,17 @@ Closing positions:
 We sold 2130 shares of underlying stock at the price of 0.565 foreign dollars on 2020-12-10
 We bought 213 shares of ADR at the price of 4.39439 on 2020-12-11
 Opening positions:
-We sold 76286 shares of ADR at the price of 3.4 on 2020-12-14
-We bought 762860 shares of underlying stock at the price of 0.4004 foreign dollars on 2020-12-14
+We sold 72770 shares of ADR at the price of 3.4 on 2020-12-14
+We bought 727700 shares of underlying stock at the price of 0.4004 foreign dollars on 2020-12-14
 Closing positions:
-We bought 76286 shares of ADR at the price of 3.2732699999999997 on 2020-12-15
-We sold 762860 shares of underlying stock at the price of 0.43956 foreign dollars on 2020-12-15
+We bought 72770 shares of ADR at the price of 3.2732699999999997 on 2020-12-15
+We sold 727700 shares of underlying stock at the price of 0.43956 foreign dollars on 2020-12-15
 Opening positions:
-We sold 76286 shares of ADR at the price of 3.4 on 2020-12-16
-We bought 762860 shares of underlying stock at the price of 0.4304299999999999 foreign dollars on 2020-12-16
+We sold 72770 shares of ADR at the price of 3.4 on 2020-12-16
+We bought 727700 shares of underlying stock at the price of 0.4304299999999999 foreign dollars on 2020-12-16
 Closing positions:
-We sold 762860 shares of underlying stock at the price of 0.41 foreign dollars on 2020-12-17
-We bought 76286 shares of ADR at the price of 3.1843812 on 2020-12-18
+We sold 727700 shares of underlying stock at the price of 0.41 foreign dollars on 2020-12-17
+We bought 72770 shares of ADR at the price of 3.1843812 on 2020-12-18
 Opening positions:
 We sold 1114.884 shares of ADR at the price of 3.1 on 2021-01-22
 We bought 11160 shares of underlying stock at the price of 0.40540499999999996 foreign dollars on 2021-01-22

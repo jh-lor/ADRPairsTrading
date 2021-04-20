@@ -1,4 +1,4 @@
-The return of ADR_underlying pairs trading for IMMP_IMM from Australia is 3.39%
+The return of ADR_underlying pairs trading for IMMP_IMM from Australia is 3.24%
 The hit ratio is 78.57%
 The max drawdown is 0.29%
 Opening positions:
@@ -332,8 +332,8 @@ Closing positions:
 We sold 2130 shares of underlying stock at the price of 0.565 foreign dollars on 2020-12-10
 We bought 213 shares of ADR at the price of 4.39439 on 2020-12-11
 Opening positions:
-We sold 76183 shares of ADR at the price of 3.3966 on 2020-12-14
-We bought 761830 shares of underlying stock at the price of 0.4004 foreign dollars on 2020-12-14
+We sold 72677 shares of ADR at the price of 3.3966 on 2020-12-14
+We bought 726770 shares of underlying stock at the price of 0.4004 foreign dollars on 2020-12-14
 Closing positions:
-We bought 76183 shares of ADR at the price of 3.2732699999999997 on 2020-12-15
-We sold 761830 shares of underlying stock at the price of 0.43956 foreign dollars on 2020-12-15
+We bought 72677 shares of ADR at the price of 3.2732699999999997 on 2020-12-15
+We sold 726770 shares of underlying stock at the price of 0.43956 foreign dollars on 2020-12-15

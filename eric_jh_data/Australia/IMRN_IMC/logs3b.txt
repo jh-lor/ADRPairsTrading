@@ -1,4 +1,4 @@
-The return of ADR_underlying pairs trading for IMRN_IMC from Australia is 5.61%
+The return of ADR_underlying pairs trading for IMRN_IMC from Australia is 4.97%
 The hit ratio is 79.17%
 The max drawdown is 0.04%
 Opening positions:
@@ -266,11 +266,11 @@ Closing positions:
 We sold 12000 shares of underlying stock at the price of 0.095 foreign dollars on 2020-05-04
 We bought 300 shares of ADR at the price of 2.33233 on 2020-05-05
 Opening positions:
-We sold 22030 shares of ADR at the price of 7.00299 on 2020-06-11
-We bought 881200 shares of underlying stock at the price of 0.22522499999999998 foreign dollars on 2020-06-11
+We sold 16639 shares of ADR at the price of 7.00299 on 2020-06-11
+We bought 665560 shares of underlying stock at the price of 0.22522499999999998 foreign dollars on 2020-06-11
 Closing positions:
-We bought 22030 shares of ADR at the price of 7.557549999999999 on 2020-06-12
-We sold 881200 shares of underlying stock at the price of 0.28970999999999997 foreign dollars on 2020-06-12
+We bought 16639 shares of ADR at the price of 7.557549999999999 on 2020-06-12
+We sold 665560 shares of underlying stock at the price of 0.28970999999999997 foreign dollars on 2020-06-12
 Opening positions:
 We bought 122960 shares of underlying stock at the price of 0.47046999999999994 foreign dollars on 2020-07-20
 We sold 3074 shares of ADR at the price of 19.52046 on 2020-07-21
