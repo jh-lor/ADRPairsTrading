@@ -1,852 +1,1026 @@
-The return of ADR_underlying pairs trading for ZNH_1055 from China is 0.02%
-The hit ratio is 56.03%
-The max drawdown is 0.09%
+The return of ADR_underlying pairs trading for ZNH_1055 from China is 0.09%
+The hit ratio is 57.65%
+The max drawdown is 0.07%
 Opening positions:
 We sold 50.949 shares of ADR at the price of 35.23 on 2016-01-04
-We bought 2550 shares of underlying stock at the price of 0.7058564414801279 USD (5.465459999999999 foreign dollars) on 2016-01-04
+We bought 2550 shares of underlying stock at the price of 5.465459999999999 foreign dollars on 2016-01-04
 Closing positions:
 We bought 50.949 shares of ADR at the price of 35.18514999999999 on 2016-01-05
-We sold 2550 shares of underlying stock at the price of 0.714582949706317 USD (5.544449999999999 foreign dollars) on 2016-01-05
+We sold 2550 shares of underlying stock at the price of 5.544449999999999 foreign dollars on 2016-01-05
 Opening positions:
 We sold 73.926 shares of ADR at the price of 31.52 on 2016-01-08
-We bought 3700 shares of underlying stock at the price of 0.6119861005581255 USD (4.744739999999999 foreign dollars) on 2016-01-08
+We bought 3700 shares of underlying stock at the price of 4.744739999999999 foreign dollars on 2016-01-08
 Closing positions:
 We bought 73.926 shares of ADR at the price of 31.761729999999996 on 2016-01-12
-We sold 3700 shares of underlying stock at the price of 0.6482645561813557 USD (5.03496 foreign dollars) on 2016-01-12
+We sold 3700 shares of underlying stock at the price of 5.03496 foreign dollars on 2016-01-12
 Opening positions:
 We sold 131.868 shares of ADR at the price of 29.88 on 2016-01-15
-We bought 6600 shares of underlying stock at the price of 0.6022202245918966 USD (4.69469 foreign dollars) on 2016-01-15
+We bought 6600 shares of underlying stock at the price of 4.69469 foreign dollars on 2016-01-15
 Closing positions:
 We bought 131.868 shares of ADR at the price of 31.24121 on 2016-01-19
-We sold 6600 shares of underlying stock at the price of 0.623984126262584 USD (4.88511 foreign dollars) on 2016-01-19
+We sold 6600 shares of underlying stock at the price of 4.88511 foreign dollars on 2016-01-19
 Opening positions:
 We sold 106.893 shares of ADR at the price of 29.53 on 2016-01-20
-We bought 5350 shares of underlying stock at the price of 0.6004221918958185 USD (4.684679999999999 foreign dollars) on 2016-01-20
+We bought 5350 shares of underlying stock at the price of 4.684679999999999 foreign dollars on 2016-01-20
 Closing positions:
 We bought 106.893 shares of ADR at the price of 29.959929999999996 on 2016-01-25
-We sold 5350 shares of underlying stock at the price of 0.5923118658194372 USD (4.62537 foreign dollars) on 2016-01-25
+We sold 5350 shares of underlying stock at the price of 4.62537 foreign dollars on 2016-01-25
 Opening positions:
 We sold 89.91 shares of ADR at the price of 26.96 on 2016-02-05
-We bought 4500 shares of underlying stock at the price of 0.5236363733204437 USD (4.07407 foreign dollars) on 2016-02-05
+We bought 4500 shares of underlying stock at the price of 4.07407 foreign dollars on 2016-02-05
 Closing positions:
 We bought 89.91 shares of ADR at the price of 26.005979999999997 on 2016-02-11
-We sold 4500 shares of underlying stock at the price of 0.5330906054587224 USD (4.15584 foreign dollars) on 2016-02-11
+We sold 4500 shares of underlying stock at the price of 4.15584 foreign dollars on 2016-02-11
 Opening positions:
-We bought 2750 shares of underlying stock at the price of 0.5921556376476734 USD (4.604599999999999 foreign dollars) on 2016-02-12
+We bought 2750 shares of underlying stock at the price of 4.604599999999999 foreign dollars on 2016-02-12
 We sold 55 shares of ADR at the price of 29.41056 on 2016-02-16
 Closing positions:
-We sold 2750 shares of underlying stock at the price of 0.6029262405439503 USD (4.7 foreign dollars) on 2016-02-18
+We sold 2750 shares of underlying stock at the price of 4.7 foreign dollars on 2016-02-18
 We bought 55 shares of ADR at the price of 30.31028 on 2016-02-19
 Opening positions:
-We bought 2550 shares of underlying stock at the price of 0.6036451903178984 USD (4.684679999999999 foreign dollars) on 2016-02-25
+We sold 56.943 shares of ADR at the price of 30.1 on 2016-02-23
+We bought 2850 shares of underlying stock at the price of 4.73473 foreign dollars on 2016-02-23
+Closing positions:
+We bought 56.943 shares of ADR at the price of 29.53951 on 2016-02-24
+We sold 2850 shares of underlying stock at the price of 4.61538 foreign dollars on 2016-02-24
+Opening positions:
+We bought 2550 shares of underlying stock at the price of 4.684679999999999 foreign dollars on 2016-02-25
 We sold 51 shares of ADR at the price of 29.15082 on 2016-02-26
 Closing positions:
 We bought 51 shares of ADR at the price of 28.69867 on 2016-03-01
-We sold 2550 shares of underlying stock at the price of 0.5763870593553887 USD (4.4855100000000006 foreign dollars) on 2016-03-01
+We sold 2550 shares of underlying stock at the price of 4.4855100000000006 foreign dollars on 2016-03-01
 Opening positions:
-We bought 3300 shares of underlying stock at the price of 0.6451526098379794 USD (5.004999999999999 foreign dollars) on 2016-03-04
-We sold 66 shares of ADR at the price of 31.92804 on 2016-03-07
+We bought 3300 shares of underlying stock at the price of 4.61461 foreign dollars on 2016-03-02
+We sold 66 shares of ADR at the price of 29.480490000000003 on 2016-03-03
 Closing positions:
-We sold 3300 shares of underlying stock at the price of 0.5962509410048235 USD (4.64 foreign dollars) on 2016-03-08
-We bought 66 shares of ADR at the price of 29.94992 on 2016-03-09
+We bought 66 shares of ADR at the price of 31.411379999999994 on 2016-03-04
+We sold 3300 shares of underlying stock at the price of 4.995 foreign dollars on 2016-03-04
 Opening positions:
-We bought 3150 shares of underlying stock at the price of 0.6923230569871583 USD (5.36536 foreign dollars) on 2016-04-13
+We bought 2250 shares of underlying stock at the price of 4.804799999999999 foreign dollars on 2016-03-16
+We sold 45 shares of ADR at the price of 30.71925 on 2016-03-17
+Closing positions:
+We bought 45 shares of ADR at the price of 31.301269999999995 on 2016-03-18
+We sold 2250 shares of underlying stock at the price of 4.93506 foreign dollars on 2016-03-18
+Opening positions:
+We bought 2800 shares of underlying stock at the price of 4.65465 foreign dollars on 2016-03-29
+We sold 56 shares of ADR at the price of 30.1698 on 2016-03-30
+Closing positions:
+We sold 2800 shares of underlying stock at the price of 4.72 foreign dollars on 2016-03-30
+We bought 56 shares of ADR at the price of 31.291259999999998 on 2016-03-31
+Opening positions:
+We bought 3150 shares of underlying stock at the price of 5.36536 foreign dollars on 2016-04-13
 We sold 63 shares of ADR at the price of 34.11585 on 2016-04-14
 Closing positions:
-We sold 3150 shares of underlying stock at the price of 0.7013619334333397 USD (5.45 foreign dollars) on 2016-04-15
+We sold 3150 shares of underlying stock at the price of 5.45 foreign dollars on 2016-04-15
 We bought 63 shares of ADR at the price of 33.17314 on 2016-04-18
 Opening positions:
+We bought 2250 shares of underlying stock at the price of 5.185179999999999 foreign dollars on 2016-04-18
+We sold 45 shares of ADR at the price of 33.126839999999994 on 2016-04-19
+Closing positions:
+We sold 2250 shares of underlying stock at the price of 5.0 foreign dollars on 2016-04-21
+We bought 45 shares of ADR at the price of 32.032 on 2016-04-22
+Opening positions:
 We sold 27.972 shares of ADR at the price of 31.29 on 2016-05-13
-We bought 1400 shares of underlying stock at the price of 0.6156698294059706 USD (4.774769999999999 foreign dollars) on 2016-05-13
+We bought 1400 shares of underlying stock at the price of 4.774769999999999 foreign dollars on 2016-05-13
 Closing positions:
 We bought 27.972 shares of ADR at the price of 30.900869999999998 on 2016-05-16
-We sold 1400 shares of underlying stock at the price of 0.6196638138175228 USD (4.815180000000001 foreign dollars) on 2016-05-16
+We sold 1400 shares of underlying stock at the price of 4.815180000000001 foreign dollars on 2016-05-16
 Opening positions:
-We bought 2300 shares of underlying stock at the price of 0.6334126194873595 USD (4.91491 foreign dollars) on 2016-05-24
+We bought 2300 shares of underlying stock at the price of 4.91491 foreign dollars on 2016-05-24
 We sold 46 shares of ADR at the price of 30.7692 on 2016-05-25
 Closing positions:
 We bought 46 shares of ADR at the price of 29.749719999999996 on 2016-06-01
-We sold 2300 shares of underlying stock at the price of 0.5922357325650879 USD (4.60539 foreign dollars) on 2016-06-01
+We sold 2300 shares of underlying stock at the price of 4.60539 foreign dollars on 2016-06-01
 Opening positions:
-We bought 2750 shares of underlying stock at the price of 0.6062724769799221 USD (4.7047 foreign dollars) on 2016-06-06
+We bought 2750 shares of underlying stock at the price of 4.7047 foreign dollars on 2016-06-06
 We sold 55 shares of ADR at the price of 30.63933 on 2016-06-07
 Closing positions:
-We sold 2750 shares of underlying stock at the price of 0.5991650694334945 USD (4.66 foreign dollars) on 2016-06-08
+We sold 2750 shares of underlying stock at the price of 4.66 foreign dollars on 2016-06-08
 We bought 55 shares of ADR at the price of 29.429399999999994 on 2016-06-10
 Opening positions:
 We sold 35.964 shares of ADR at the price of 28.14 on 2016-06-13
-We bought 1800 shares of underlying stock at the price of 0.5666212972745468 USD (4.39439 foreign dollars) on 2016-06-13
+We bought 1800 shares of underlying stock at the price of 4.39439 foreign dollars on 2016-06-13
 Closing positions:
 We bought 35.964 shares of ADR at the price of 27.977949999999996 on 2016-06-14
-We sold 1800 shares of underlying stock at the price of 0.5593597765436951 USD (4.34565 foreign dollars) on 2016-06-14
+We sold 1800 shares of underlying stock at the price of 4.34565 foreign dollars on 2016-06-14
 Opening positions:
-We bought 900 shares of underlying stock at the price of 0.5683095131595729 USD (4.4044 foreign dollars) on 2016-06-23
+We bought 900 shares of underlying stock at the price of 4.4044 foreign dollars on 2016-06-23
 We sold 18 shares of ADR at the price of 27.34263 on 2016-06-24
 Closing positions:
-We sold 900 shares of underlying stock at the price of 0.5401209189624886 USD (4.2 foreign dollars) on 2016-06-24
+We sold 900 shares of underlying stock at the price of 4.2 foreign dollars on 2016-06-24
 We bought 18 shares of ADR at the price of 27.18716 on 2016-06-27
 Opening positions:
-We bought 1600 shares of underlying stock at the price of 0.5643481075079423 USD (4.37437 foreign dollars) on 2016-06-30
+We bought 1600 shares of underlying stock at the price of 4.37437 foreign dollars on 2016-06-30
 We sold 32 shares of ADR at the price of 28.40157 on 2016-07-05
 Closing positions:
-We sold 1600 shares of underlying stock at the price of 0.560801736203364 USD (4.36 foreign dollars) on 2016-07-05
+We sold 1600 shares of underlying stock at the price of 4.36 foreign dollars on 2016-07-05
 We bought 32 shares of ADR at the price of 28.098069999999996 on 2016-07-06
 Opening positions:
+We bought 850 shares of underlying stock at the price of 5.105099999999999 foreign dollars on 2016-08-11
+We sold 17 shares of ADR at the price of 33.79617 on 2016-08-12
+Closing positions:
+We sold 850 shares of underlying stock at the price of 5.24 foreign dollars on 2016-08-12
+We bought 17 shares of ADR at the price of 35.135099999999994 on 2016-08-15
+Opening positions:
 We sold 28.971 shares of ADR at the price of 35.31 on 2016-08-16
-We bought 1450 shares of underlying stock at the price of 0.7081067067345896 USD (5.48548 foreign dollars) on 2016-08-16
+We bought 1450 shares of underlying stock at the price of 5.48548 foreign dollars on 2016-08-16
 Closing positions:
 We bought 28.971 shares of ADR at the price of 34.56453 on 2016-08-18
-We sold 1450 shares of underlying stock at the price of 0.6873354049701582 USD (5.3346599999999995 foreign dollars) on 2016-08-18
+We sold 1450 shares of underlying stock at the price of 5.3346599999999995 foreign dollars on 2016-08-18
 Opening positions:
 We sold 28.971 shares of ADR at the price of 33.69 on 2016-08-19
-We bought 1450 shares of underlying stock at the price of 0.6655072976109351 USD (5.15515 foreign dollars) on 2016-08-19
+We bought 1450 shares of underlying stock at the price of 5.15515 foreign dollars on 2016-08-19
 Closing positions:
 We bought 28.971 shares of ADR at the price of 33.09306 on 2016-08-23
-We sold 1450 shares of underlying stock at the price of 0.6602993997366734 USD (5.12487 foreign dollars) on 2016-08-23
+We sold 1450 shares of underlying stock at the price of 5.12487 foreign dollars on 2016-08-23
 Opening positions:
 We sold 22.977 shares of ADR at the price of 30.35 on 2016-08-30
-We bought 1150 shares of underlying stock at the price of 0.6071142355085716 USD (4.7047 foreign dollars) on 2016-08-30
+We bought 1150 shares of underlying stock at the price of 4.7047 foreign dollars on 2016-08-30
 Closing positions:
 We bought 22.977 shares of ADR at the price of 29.659629999999996 on 2016-09-02
-We sold 1150 shares of underlying stock at the price of 0.6035472161426361 USD (4.68531 foreign dollars) on 2016-09-02
+We sold 1150 shares of underlying stock at the price of 4.68531 foreign dollars on 2016-09-02
 Opening positions:
-We bought 850 shares of underlying stock at the price of 0.5555803058107978 USD (4.3043 foreign dollars) on 2016-10-28
-We sold 17 shares of ADR at the price of 28.00197 on 2016-10-31
+We bought 1150 shares of underlying stock at the price of 4.57457 foreign dollars on 2016-09-15
+We sold 23 shares of ADR at the price of 29.51046 on 2016-09-19
 Closing positions:
-We sold 850 shares of underlying stock at the price of 0.5572230906363708 USD (4.33 foreign dollars) on 2016-11-01
-We bought 17 shares of ADR at the price of 28.118089999999995 on 2016-11-02
+We bought 23 shares of ADR at the price of 29.639609999999998 on 2016-09-20
+We sold 1150 shares of underlying stock at the price of 4.515479999999999 foreign dollars on 2016-09-20
 Opening positions:
-We bought 1150 shares of underlying stock at the price of 0.5697509488260056 USD (4.414409999999999 foreign dollars) on 2016-11-09
-We sold 23 shares of ADR at the price of 28.13184 on 2016-11-10
+We sold 21.978 shares of ADR at the price of 28.68 on 2016-09-21
+We bought 1100 shares of underlying stock at the price of 4.51451 foreign dollars on 2016-09-21
 Closing positions:
-We sold 1150 shares of underlying stock at the price of 0.5584322114388912 USD (4.34 foreign dollars) on 2016-11-10
-We bought 23 shares of ADR at the price of 27.327299999999997 on 2016-11-11
+We sold 1100 shares of underlying stock at the price of 4.48 foreign dollars on 2016-09-23
+We bought 21.978 shares of ADR at the price of 28.398369999999996 on 2016-09-26
+Opening positions:
+We bought 1700 shares of underlying stock at the price of 4.37437 foreign dollars on 2016-10-05
+We sold 34 shares of ADR at the price of 28.42155 on 2016-10-06
+Closing positions:
+We sold 1700 shares of underlying stock at the price of 4.47 foreign dollars on 2016-10-06
+We bought 34 shares of ADR at the price of 28.71869 on 2016-10-07
+Opening positions:
+We sold 20.979 shares of ADR at the price of 27.7 on 2016-10-28
+We bought 1050 shares of underlying stock at the price of 4.3043 foreign dollars on 2016-10-28
+Closing positions:
+We bought 20.979 shares of ADR at the price of 28.05803 on 2016-10-31
+We sold 1050 shares of underlying stock at the price of 4.40559 foreign dollars on 2016-10-31
+Opening positions:
+We sold 22.977 shares of ADR at the price of 28.4 on 2016-11-09
+We bought 1150 shares of underlying stock at the price of 4.414409999999999 foreign dollars on 2016-11-09
+Closing positions:
+We sold 1150 shares of underlying stock at the price of 4.34 foreign dollars on 2016-11-10
+We bought 22.977 shares of ADR at the price of 27.327299999999997 on 2016-11-11
+Opening positions:
+We bought 2200 shares of underlying stock at the price of 4.32432 foreign dollars on 2016-11-15
+We sold 44 shares of ADR at the price of 27.792180000000002 on 2016-11-16
+Closing positions:
+We sold 2200 shares of underlying stock at the price of 4.3 foreign dollars on 2016-11-16
+We bought 44 shares of ADR at the price of 28.028 on 2016-11-17
+Opening positions:
+We bought 1300 shares of underlying stock at the price of 4.344339999999999 foreign dollars on 2016-11-17
+We sold 26 shares of ADR at the price of 27.991979999999998 on 2016-11-18
+Closing positions:
+We bought 26 shares of ADR at the price of 28.178149999999995 on 2016-11-21
+We sold 1300 shares of underlying stock at the price of 4.35564 foreign dollars on 2016-11-21
 Opening positions:
 We sold 22.977 shares of ADR at the price of 27.3 on 2016-12-12
-We bought 1150 shares of underlying stock at the price of 0.5501588571991938 USD (4.264259999999999 foreign dollars) on 2016-12-12
+We bought 1150 shares of underlying stock at the price of 4.264259999999999 foreign dollars on 2016-12-12
 Closing positions:
 We bought 22.977 shares of ADR at the price of 27.317289999999996 on 2016-12-13
-We sold 1150 shares of underlying stock at the price of 0.5441970110499089 USD (4.225770000000001 foreign dollars) on 2016-12-13
+We sold 1150 shares of underlying stock at the price of 4.225770000000001 foreign dollars on 2016-12-13
 Opening positions:
-We bought 1700 shares of underlying stock at the price of 0.5345174393250559 USD (4.144139999999999 foreign dollars) on 2016-12-15
-We sold 34 shares of ADR at the price of 26.483490000000003 on 2016-12-16
+We sold 24.975 shares of ADR at the price of 26.77 on 2016-12-14
+We bought 1250 shares of underlying stock at the price of 4.13413 foreign dollars on 2016-12-14
 Closing positions:
-We sold 1700 shares of underlying stock at the price of 0.5205820156729521 USD (4.05 foreign dollars) on 2016-12-16
-We bought 34 shares of ADR at the price of 26.116089999999996 on 2016-12-19
-Opening positions:
-We bought 2350 shares of underlying stock at the price of 0.5439736253008995 USD (4.21421 foreign dollars) on 2017-01-04
-We sold 47 shares of ADR at the price of 27.25272 on 2017-01-05
-Closing positions:
-We bought 47 shares of ADR at the price of 27.157129999999995 on 2017-01-09
-We sold 2350 shares of underlying stock at the price of 0.5391635352296898 USD (4.18581 foreign dollars) on 2017-01-09
+We sold 1250 shares of underlying stock at the price of 4.05 foreign dollars on 2016-12-16
+We bought 24.975 shares of ADR at the price of 26.116089999999996 on 2016-12-19
 Opening positions:
 We sold 53.946 shares of ADR at the price of 28.18 on 2017-01-11
-We bought 2700 shares of underlying stock at the price of 0.5620818546857093 USD (4.354349999999999 foreign dollars) on 2017-01-11
+We bought 2700 shares of underlying stock at the price of 4.354349999999999 foreign dollars on 2017-01-11
 Closing positions:
 We bought 53.946 shares of ADR at the price of 28.028 on 2017-01-17
-We sold 2700 shares of underlying stock at the price of 0.5623380178540321 USD (4.36563 foreign dollars) on 2017-01-17
+We sold 2700 shares of underlying stock at the price of 4.36563 foreign dollars on 2017-01-17
+Opening positions:
+We bought 1700 shares of underlying stock at the price of 4.48448 foreign dollars on 2017-01-23
+We sold 34 shares of ADR at the price of 29.180790000000002 on 2017-01-24
+Closing positions:
+We bought 34 shares of ADR at the price of 29.37935 on 2017-01-26
+We sold 1700 shares of underlying stock at the price of 4.57542 foreign dollars on 2017-01-26
 Opening positions:
 We sold 23.976 shares of ADR at the price of 28.35 on 2017-02-02
-We bought 1200 shares of underlying stock at the price of 0.5681901294829631 USD (4.4044 foreign dollars) on 2017-02-02
+We bought 1200 shares of underlying stock at the price of 4.4044 foreign dollars on 2017-02-02
 Closing positions:
 We bought 23.976 shares of ADR at the price of 28.668639999999996 on 2017-02-08
-We sold 1200 shares of underlying stock at the price of 0.5762403597176121 USD (4.47552 foreign dollars) on 2017-02-08
+We sold 1200 shares of underlying stock at the price of 4.47552 foreign dollars on 2017-02-08
 Opening positions:
-We bought 2200 shares of underlying stock at the price of 0.6585432758809375 USD (5.105099999999999 foreign dollars) on 2017-02-23
+We bought 800 shares of underlying stock at the price of 4.63463 foreign dollars on 2017-02-09
+We sold 16 shares of ADR at the price of 29.660310000000003 on 2017-02-10
+Closing positions:
+We bought 16 shares of ADR at the price of 30.49046 on 2017-02-13
+We sold 800 shares of underlying stock at the price of 4.7951999999999995 foreign dollars on 2017-02-13
+Opening positions:
+We bought 2200 shares of underlying stock at the price of 5.105099999999999 foreign dollars on 2017-02-23
 We sold 44 shares of ADR at the price of 32.81715 on 2017-02-24
 Closing positions:
-We sold 2200 shares of underlying stock at the price of 0.6429248758616325 USD (5.0 foreign dollars) on 2017-02-27
+We sold 2200 shares of underlying stock at the price of 5.0 foreign dollars on 2017-02-27
 We bought 44 shares of ADR at the price of 32.55252 on 2017-02-28
 Opening positions:
-We bought 1050 shares of underlying stock at the price of 0.6902972920640127 USD (5.355349999999999 foreign dollars) on 2017-03-15
+We bought 950 shares of underlying stock at the price of 5.12512 foreign dollars on 2017-03-01
+We sold 19 shares of ADR at the price of 31.80816 on 2017-03-02
+Closing positions:
+We sold 950 shares of underlying stock at the price of 4.92 foreign dollars on 2017-03-02
+We bought 19 shares of ADR at the price of 31.771739999999994 on 2017-03-03
+Opening positions:
+We bought 1050 shares of underlying stock at the price of 5.355349999999999 foreign dollars on 2017-03-15
 We sold 21 shares of ADR at the price of 34.335629999999995 on 2017-03-16
 Closing positions:
-We sold 1050 shares of underlying stock at the price of 0.682766864913937 USD (5.31 foreign dollars) on 2017-03-16
+We sold 1050 shares of underlying stock at the price of 5.31 foreign dollars on 2017-03-16
 We bought 21 shares of ADR at the price of 33.5335 on 2017-03-17
 Opening positions:
-We bought 1900 shares of underlying stock at the price of 0.7249424231707638 USD (5.62562 foreign dollars) on 2017-03-27
+We bought 2550 shares of underlying stock at the price of 5.255249999999999 foreign dollars on 2017-03-17
+We sold 51 shares of ADR at the price of 33.916050000000006 on 2017-03-20
+Closing positions:
+We bought 51 shares of ADR at the price of 34.654619999999994 on 2017-03-21
+We sold 2550 shares of underlying stock at the price of 5.32467 foreign dollars on 2017-03-21
+Opening positions:
+We bought 1900 shares of underlying stock at the price of 5.62562 foreign dollars on 2017-03-27
 We sold 38 shares of ADR at the price of 34.565400000000004 on 2017-03-28
 Closing positions:
 We bought 38 shares of ADR at the price of 34.904869999999995 on 2017-03-29
-We sold 1900 shares of underlying stock at the price of 0.7026147804689953 USD (5.46453 foreign dollars) on 2017-03-29
+We sold 1900 shares of underlying stock at the price of 5.46453 foreign dollars on 2017-03-29
 Opening positions:
 We sold 37.962 shares of ADR at the price of 33.62 on 2017-03-30
-We bought 1900 shares of underlying stock at the price of 0.6846283925789197 USD (5.315309999999999 foreign dollars) on 2017-03-30
+We bought 1900 shares of underlying stock at the price of 5.315309999999999 foreign dollars on 2017-03-30
 Closing positions:
 We bought 37.962 shares of ADR at the price of 34.56453 on 2017-03-31
-We sold 1900 shares of underlying stock at the price of 0.6947710398151644 USD (5.40459 foreign dollars) on 2017-03-31
+We sold 1900 shares of underlying stock at the price of 5.40459 foreign dollars on 2017-03-31
 Opening positions:
 We sold 31.968 shares of ADR at the price of 35.21 on 2017-04-10
-We bought 1600 shares of underlying stock at the price of 0.7065840925694358 USD (5.48548 foreign dollars) on 2017-04-10
+We bought 1600 shares of underlying stock at the price of 5.48548 foreign dollars on 2017-04-10
 Closing positions:
-We sold 1600 shares of underlying stock at the price of 0.6948130620227508 USD (5.41 foreign dollars) on 2017-04-11
+We sold 1600 shares of underlying stock at the price of 5.41 foreign dollars on 2017-04-11
 We bought 31.968 shares of ADR at the price of 35.5355 on 2017-04-12
 Opening positions:
 We sold 21.978 shares of ADR at the price of 34.07 on 2017-04-18
-We bought 1100 shares of underlying stock at the price of 0.6727492431194421 USD (5.225219999999999 foreign dollars) on 2017-04-18
+We bought 1100 shares of underlying stock at the price of 5.225219999999999 foreign dollars on 2017-04-18
 Closing positions:
 We bought 21.978 shares of ADR at the price of 34.064029999999995 on 2017-04-20
-We sold 1100 shares of underlying stock at the price of 0.680280295062414 USD (5.2947 foreign dollars) on 2017-04-20
+We sold 1100 shares of underlying stock at the price of 5.2947 foreign dollars on 2017-04-20
+Opening positions:
+We bought 1300 shares of underlying stock at the price of 5.48548 foreign dollars on 2017-05-19
+We sold 26 shares of ADR at the price of 35.63433 on 2017-05-22
+Closing positions:
+We sold 1300 shares of underlying stock at the price of 5.45 foreign dollars on 2017-05-23
+We bought 26 shares of ADR at the price of 35.16513 on 2017-05-24
 Opening positions:
 We sold 25.974 shares of ADR at the price of 39.56 on 2017-06-02
-We bought 1300 shares of underlying stock at the price of 0.8026048576736936 USD (6.246239999999999 foreign dollars) on 2017-06-02
+We bought 1300 shares of underlying stock at the price of 6.246239999999999 foreign dollars on 2017-06-02
 Closing positions:
-We sold 1300 shares of underlying stock at the price of 0.7889748854841256 USD (6.16 foreign dollars) on 2017-06-05
+We sold 1300 shares of underlying stock at the price of 6.16 foreign dollars on 2017-06-05
 We bought 25.974 shares of ADR at the price of 40.29024999999999 on 2017-06-06
 Opening positions:
 We sold 26.973 shares of ADR at the price of 39.79 on 2017-06-07
-We bought 1350 shares of underlying stock at the price of 0.8072761875928595 USD (6.28628 foreign dollars) on 2017-06-07
+We bought 1350 shares of underlying stock at the price of 6.28628 foreign dollars on 2017-06-07
 Closing positions:
 We bought 26.973 shares of ADR at the price of 40.56052 on 2017-06-08
-We sold 1350 shares of underlying stock at the price of 0.8319339105705523 USD (6.4935 foreign dollars) on 2017-06-08
+We sold 1350 shares of underlying stock at the price of 6.4935 foreign dollars on 2017-06-08
 Opening positions:
 We sold 27.972 shares of ADR at the price of 40.32 on 2017-06-13
-We bought 1400 shares of underlying stock at the price of 0.8159604495503503 USD (6.356349999999999 foreign dollars) on 2017-06-13
+We bought 1400 shares of underlying stock at the price of 6.356349999999999 foreign dollars on 2017-06-13
 Closing positions:
 We bought 27.972 shares of ADR at the price of 40.92088 on 2017-06-14
-We sold 1400 shares of underlying stock at the price of 0.8305261981831568 USD (6.48351 foreign dollars) on 2017-06-14
+We sold 1400 shares of underlying stock at the price of 6.48351 foreign dollars on 2017-06-14
 Opening positions:
 We sold 27.972 shares of ADR at the price of 40.23 on 2017-06-15
-We bought 1400 shares of underlying stock at the price of 0.8078040987003026 USD (6.296289999999999 foreign dollars) on 2017-06-15
+We bought 1400 shares of underlying stock at the price of 6.296289999999999 foreign dollars on 2017-06-15
 Closing positions:
 We bought 27.972 shares of ADR at the price of 41.081039999999994 on 2017-06-16
-We sold 1400 shares of underlying stock at the price of 0.8305432377856098 USD (6.48351 foreign dollars) on 2017-06-16
+We sold 1400 shares of underlying stock at the price of 6.48351 foreign dollars on 2017-06-16
 Opening positions:
 We sold 16.983 shares of ADR at the price of 40.14 on 2017-07-05
-We bought 850 shares of underlying stock at the price of 0.8149654956377861 USD (6.356349999999999 foreign dollars) on 2017-07-05
+We bought 850 shares of underlying stock at the price of 6.356349999999999 foreign dollars on 2017-07-05
 Closing positions:
 We bought 16.983 shares of ADR at the price of 40.120079999999994 on 2017-07-07
-We sold 850 shares of underlying stock at the price of 0.8074522178817798 USD (6.313680000000001 foreign dollars) on 2017-07-07
+We sold 850 shares of underlying stock at the price of 6.313680000000001 foreign dollars on 2017-07-07
 Opening positions:
 We sold 16.983 shares of ADR at the price of 40.06 on 2017-07-10
-We bought 850 shares of underlying stock at the price of 0.8131061559571185 USD (6.346339999999999 foreign dollars) on 2017-07-10
+We bought 850 shares of underlying stock at the price of 6.346339999999999 foreign dollars on 2017-07-10
 Closing positions:
-We sold 850 shares of underlying stock at the price of 0.7973017308856588 USD (6.24 foreign dollars) on 2017-07-11
+We sold 850 shares of underlying stock at the price of 6.24 foreign dollars on 2017-07-11
 We bought 16.983 shares of ADR at the price of 39.71968 on 2017-07-12
 Opening positions:
-We bought 1000 shares of underlying stock at the price of 0.7955645498369678 USD (6.2062 foreign dollars) on 2017-07-12
+We bought 1000 shares of underlying stock at the price of 6.2062 foreign dollars on 2017-07-12
 We sold 20 shares of ADR at the price of 39.61035 on 2017-07-13
 Closing positions:
 We bought 20 shares of ADR at the price of 40.03999999999999 on 2017-07-17
-We sold 1000 shares of underlying stock at the price of 0.7993736367438791 USD (6.24375 foreign dollars) on 2017-07-17
+We sold 1000 shares of underlying stock at the price of 6.24375 foreign dollars on 2017-07-17
 Opening positions:
 We sold 15.984 shares of ADR at the price of 40.97 on 2017-07-20
-We bought 800 shares of underlying stock at the price of 0.8301346245291583 USD (6.476469999999999 foreign dollars) on 2017-07-20
+We bought 800 shares of underlying stock at the price of 6.476469999999999 foreign dollars on 2017-07-20
 Closing positions:
-We sold 800 shares of underlying stock at the price of 0.795142282063417 USD (6.22 foreign dollars) on 2017-07-24
+We sold 800 shares of underlying stock at the price of 6.22 foreign dollars on 2017-07-24
 We bought 15.984 shares of ADR at the price of 38.90886999999999 on 2017-07-25
 Opening positions:
-We bought 1350 shares of underlying stock at the price of 0.7724833424538238 USD (6.026019999999999 foreign dollars) on 2017-07-26
+We bought 1350 shares of underlying stock at the price of 6.026019999999999 foreign dollars on 2017-07-26
 We sold 27 shares of ADR at the price of 38.871089999999995 on 2017-07-27
 Closing positions:
-We sold 1350 shares of underlying stock at the price of 0.7645265623642095 USD (5.99 foreign dollars) on 2017-08-02
+We sold 1350 shares of underlying stock at the price of 5.99 foreign dollars on 2017-08-02
 We bought 27 shares of ADR at the price of 37.777739999999994 on 2017-08-03
 Opening positions:
-We bought 450 shares of underlying stock at the price of 0.767067922024284 USD (5.99599 foreign dollars) on 2017-08-21
+We bought 800 shares of underlying stock at the price of 6.056049999999999 foreign dollars on 2017-08-08
+We sold 16 shares of ADR at the price of 38.551410000000004 on 2017-08-09
+Closing positions:
+We sold 800 shares of underlying stock at the price of 6.0 foreign dollars on 2017-08-09
+We bought 16 shares of ADR at the price of 38.078039999999994 on 2017-08-10
+Opening positions:
+We bought 450 shares of underlying stock at the price of 5.99599 foreign dollars on 2017-08-21
 We sold 9 shares of ADR at the price of 37.6623 on 2017-08-22
 Closing positions:
 We bought 9 shares of ADR at the price of 39.24921 on 2017-08-30
-We sold 450 shares of underlying stock at the price of 0.8008920154841422 USD (6.27372 foreign dollars) on 2017-08-30
+We sold 450 shares of underlying stock at the price of 6.27372 foreign dollars on 2017-08-30
 Opening positions:
 We sold 28.971 shares of ADR at the price of 40.4 on 2017-09-12
-We bought 1450 shares of underlying stock at the price of 0.8079699437487102 USD (6.306299999999999 foreign dollars) on 2017-09-12
+We bought 1450 shares of underlying stock at the price of 6.306299999999999 foreign dollars on 2017-09-12
 Closing positions:
-We sold 1450 shares of underlying stock at the price of 0.7855859452767648 USD (6.15 foreign dollars) on 2017-09-13
+We sold 1450 shares of underlying stock at the price of 6.15 foreign dollars on 2017-09-13
 We bought 28.971 shares of ADR at the price of 39.02899 on 2017-09-14
 Opening positions:
 We sold 14.985 shares of ADR at the price of 37.92 on 2017-09-20
-We bought 750 shares of underlying stock at the price of 0.767858951643622 USD (5.98598 foreign dollars) on 2017-09-20
+We bought 750 shares of underlying stock at the price of 5.98598 foreign dollars on 2017-09-20
 Closing positions:
-We sold 750 shares of underlying stock at the price of 0.7440448996694579 USD (5.82 foreign dollars) on 2017-09-21
+We sold 750 shares of underlying stock at the price of 5.82 foreign dollars on 2017-09-21
 We bought 14.985 shares of ADR at the price of 36.67664 on 2017-09-22
 Opening positions:
 We sold 15.984 shares of ADR at the price of 34.46 on 2017-09-28
-We bought 800 shares of underlying stock at the price of 0.678537261061881 USD (5.29529 foreign dollars) on 2017-09-28
+We bought 800 shares of underlying stock at the price of 5.29529 foreign dollars on 2017-09-28
 Closing positions:
 We bought 15.984 shares of ADR at the price of 34.44440999999999 on 2017-09-29
-We sold 800 shares of underlying stock at the price of 0.6848494679602493 USD (5.354640000000001 foreign dollars) on 2017-09-29
+We sold 800 shares of underlying stock at the price of 5.354640000000001 foreign dollars on 2017-09-29
+Opening positions:
+We bought 1600 shares of underlying stock at the price of 5.5055 foreign dollars on 2017-10-06
+We sold 32 shares of ADR at the price of 35.34462 on 2017-10-09
+Closing positions:
+We sold 1600 shares of underlying stock at the price of 5.42 foreign dollars on 2017-10-10
+We bought 32 shares of ADR at the price of 35.37534 on 2017-10-11
 Opening positions:
 We sold 13.986 shares of ADR at the price of 35.17 on 2017-10-17
-We bought 700 shares of underlying stock at the price of 0.7019813380863761 USD (5.475469999999999 foreign dollars) on 2017-10-17
+We bought 700 shares of underlying stock at the price of 5.475469999999999 foreign dollars on 2017-10-17
 Closing positions:
 We bought 13.986 shares of ADR at the price of 34.58454999999999 on 2017-10-20
-We sold 700 shares of underlying stock at the price of 0.6997301772273318 USD (5.46453 foreign dollars) on 2017-10-20
+We sold 700 shares of underlying stock at the price of 5.46453 foreign dollars on 2017-10-20
 Opening positions:
-We bought 1650 shares of underlying stock at the price of 0.7847486428583446 USD (6.11611 foreign dollars) on 2017-11-01
+We bought 1650 shares of underlying stock at the price of 6.11611 foreign dollars on 2017-11-01
 We sold 33 shares of ADR at the price of 39.53043 on 2017-11-02
 Closing positions:
-We sold 1650 shares of underlying stock at the price of 0.7699764223063552 USD (6.02 foreign dollars) on 2017-11-03
+We sold 1650 shares of underlying stock at the price of 6.02 foreign dollars on 2017-11-03
 We bought 33 shares of ADR at the price of 38.58854999999999 on 2017-11-06
 Opening positions:
 We sold 22.977 shares of ADR at the price of 37.5 on 2017-11-08
-We bought 1150 shares of underlying stock at the price of 0.7441391506816742 USD (5.795789999999999 foreign dollars) on 2017-11-08
+We bought 1150 shares of underlying stock at the price of 5.795789999999999 foreign dollars on 2017-11-08
 Closing positions:
 We bought 22.977 shares of ADR at the price of 37.717679999999994 on 2017-11-09
-We sold 1150 shares of underlying stock at the price of 0.7497089008482145 USD (5.85414 foreign dollars) on 2017-11-09
+We sold 1150 shares of underlying stock at the price of 5.85414 foreign dollars on 2017-11-09
 Opening positions:
-We bought 800 shares of underlying stock at the price of 0.834118358381126 USD (6.506499999999999 foreign dollars) on 2017-11-16
+We bought 800 shares of underlying stock at the price of 6.506499999999999 foreign dollars on 2017-11-16
 We sold 16 shares of ADR at the price of 42.20775 on 2017-11-17
 Closing positions:
-We sold 800 shares of underlying stock at the price of 0.8520650922473666 USD (6.67 foreign dollars) on 2017-11-17
+We sold 800 shares of underlying stock at the price of 6.67 foreign dollars on 2017-11-17
 We bought 16 shares of ADR at the price of 42.832789999999996 on 2017-11-20
 Opening positions:
-We bought 1800 shares of underlying stock at the price of 0.8594093206070683 USD (6.7067 foreign dollars) on 2017-11-20
+We bought 1800 shares of underlying stock at the price of 6.7067 foreign dollars on 2017-11-20
 We sold 36 shares of ADR at the price of 43.186769999999996 on 2017-11-21
 Closing positions:
 We bought 36 shares of ADR at the price of 46.58653999999999 on 2017-11-22
-We sold 1800 shares of underlying stock at the price of 0.9187775596908528 USD (7.182810000000001 foreign dollars) on 2017-11-22
+We sold 1800 shares of underlying stock at the price of 7.182810000000001 foreign dollars on 2017-11-22
 Opening positions:
-We bought 2500 shares of underlying stock at the price of 0.956043881814841 USD (7.45745 foreign dollars) on 2017-11-24
+We bought 2500 shares of underlying stock at the price of 7.45745 foreign dollars on 2017-11-24
 We sold 50 shares of ADR at the price of 45.3546 on 2017-11-27
 Closing positions:
-We sold 2500 shares of underlying stock at the price of 0.8863704790028485 USD (6.93 foreign dollars) on 2017-11-27
+We sold 2500 shares of underlying stock at the price of 6.93 foreign dollars on 2017-11-27
 We bought 50 shares of ADR at the price of 45.50546 on 2017-11-28
 Opening positions:
-We sold 62.937 shares of ADR at the price of 45.1 on 2017-11-30
-We bought 3150 shares of underlying stock at the price of 0.8954877153549667 USD (6.98698 foreign dollars) on 2017-11-30
+We bought 3150 shares of underlying stock at the price of 7.117109999999999 foreign dollars on 2017-11-28
+We sold 63 shares of ADR at the price of 45.71424 on 2017-11-29
 Closing positions:
-We sold 3150 shares of underlying stock at the price of 0.8812255624534557 USD (6.9 foreign dollars) on 2017-12-01
-We bought 62.937 shares of ADR at the price of 46.05600999999999 on 2017-12-04
+We sold 3150 shares of underlying stock at the price of 6.9 foreign dollars on 2017-12-01
+We bought 63 shares of ADR at the price of 46.05600999999999 on 2017-12-04
 Opening positions:
 We sold 27.972 shares of ADR at the price of 43.88 on 2017-12-06
-We bought 1400 shares of underlying stock at the price of 0.8939209332926246 USD (6.976969999999999 foreign dollars) on 2017-12-06
+We bought 1400 shares of underlying stock at the price of 6.976969999999999 foreign dollars on 2017-12-06
 Closing positions:
 We bought 27.972 shares of ADR at the price of 44.34429999999999 on 2017-12-07
-We sold 1400 shares of underlying stock at the price of 0.8858119351606552 USD (6.92307 foreign dollars) on 2017-12-07
+We sold 1400 shares of underlying stock at the price of 6.92307 foreign dollars on 2017-12-07
 Opening positions:
-We bought 2600 shares of underlying stock at the price of 0.9585576540303145 USD (7.4774699999999985 foreign dollars) on 2017-12-13
+We bought 800 shares of underlying stock at the price of 7.167159999999999 foreign dollars on 2017-12-08
+We sold 16 shares of ADR at the price of 49.180769999999995 on 2017-12-11
+Closing positions:
+We bought 16 shares of ADR at the price of 46.546499999999995 on 2017-12-12
+We sold 800 shares of underlying stock at the price of 7.24275 foreign dollars on 2017-12-12
+Opening positions:
+We bought 2600 shares of underlying stock at the price of 7.4774699999999985 foreign dollars on 2017-12-13
 We sold 52 shares of ADR at the price of 48.91104 on 2017-12-14
 Closing positions:
 We bought 52 shares of ADR at the price of 49.39935 on 2017-12-19
-We sold 2600 shares of underlying stock at the price of 0.9879425979830005 USD (7.73226 foreign dollars) on 2017-12-19
+We sold 2600 shares of underlying stock at the price of 7.73226 foreign dollars on 2017-12-19
 Opening positions:
-We bought 1800 shares of underlying stock at the price of 1.0836280480191203 USD (8.45845 foreign dollars) on 2017-12-22
+We bought 1800 shares of underlying stock at the price of 8.45845 foreign dollars on 2017-12-22
 We sold 36 shares of ADR at the price of 52.20774 on 2017-12-27
 Closing positions:
 We bought 36 shares of ADR at the price of 51.351299999999995 on 2017-12-29
-We sold 1800 shares of underlying stock at the price of 1.0415425615556582 USD (8.15184 foreign dollars) on 2017-12-29
+We sold 1800 shares of underlying stock at the price of 8.15184 foreign dollars on 2017-12-29
 Opening positions:
 We sold 49.95 shares of ADR at the price of 51.36 on 2018-01-02
-We bought 2500 shares of underlying stock at the price of 1.025401668067298 USD (8.008 foreign dollars) on 2018-01-02
+We bought 2500 shares of underlying stock at the price of 8.008 foreign dollars on 2018-01-02
 Closing positions:
 We bought 49.95 shares of ADR at the price of 53.623569999999994 on 2018-01-03
-We sold 2500 shares of underlying stock at the price of 1.0837469319386057 USD (8.48151 foreign dollars) on 2018-01-03
+We sold 2500 shares of underlying stock at the price of 8.48151 foreign dollars on 2018-01-03
 Opening positions:
-We bought 2700 shares of underlying stock at the price of 1.0675806762173252 USD (8.33833 foreign dollars) on 2018-01-04
+We bought 2700 shares of underlying stock at the price of 8.33833 foreign dollars on 2018-01-04
 We sold 54 shares of ADR at the price of 55.49445 on 2018-01-05
 Closing positions:
-We sold 2700 shares of underlying stock at the price of 1.1766679183556101 USD (9.22 foreign dollars) on 2018-01-05
+We sold 2700 shares of underlying stock at the price of 9.22 foreign dollars on 2018-01-05
 We bought 54 shares of ADR at the price of 57.63757999999999 on 2018-01-08
 Opening positions:
-We bought 2850 shares of underlying stock at the price of 1.1400039651443912 USD (8.9089 foreign dollars) on 2018-01-08
+We bought 2850 shares of underlying stock at the price of 8.9089 foreign dollars on 2018-01-08
 We sold 57 shares of ADR at the price of 56.683260000000004 on 2018-01-09
 Closing positions:
-We sold 2850 shares of underlying stock at the price of 1.0998659137289557 USD (8.62 foreign dollars) on 2018-01-09
+We sold 2850 shares of underlying stock at the price of 8.62 foreign dollars on 2018-01-09
 We bought 57 shares of ADR at the price of 54.39434 on 2018-01-10
 Opening positions:
-We bought 3400 shares of underlying stock at the price of 1.08779702764146 USD (8.498489999999999 foreign dollars) on 2018-01-18
+We bought 4300 shares of underlying stock at the price of 8.66866 foreign dollars on 2018-01-12
+We sold 86 shares of ADR at the price of 54.0459 on 2018-01-16
+Closing positions:
+We bought 86 shares of ADR at the price of 55.305249999999994 on 2018-01-17
+We sold 4300 shares of underlying stock at the price of 8.56143 foreign dollars on 2018-01-17
+Opening positions:
+We bought 3400 shares of underlying stock at the price of 8.498489999999999 foreign dollars on 2018-01-18
 We sold 68 shares of ADR at the price of 56.283660000000005 on 2018-01-19
 Closing positions:
-We sold 3400 shares of underlying stock at the price of 1.0877378143071903 USD (8.52 foreign dollars) on 2018-01-24
+We sold 3400 shares of underlying stock at the price of 8.52 foreign dollars on 2018-01-24
 We bought 68 shares of ADR at the price of 58.608549999999994 on 2018-01-25
 Opening positions:
 We sold 60.939 shares of ADR at the price of 62.75 on 2018-02-01
-We bought 3050 shares of underlying stock at the price of 1.269878437530672 USD (9.91991 foreign dollars) on 2018-02-01
+We bought 3050 shares of underlying stock at the price of 9.91991 foreign dollars on 2018-02-01
 Closing positions:
 We bought 60.939 shares of ADR at the price of 64.76469999999999 on 2018-02-02
-We sold 3050 shares of underlying stock at the price of 1.2504547829658519 USD (9.7902 foreign dollars) on 2018-02-02
+We sold 3050 shares of underlying stock at the price of 9.7902 foreign dollars on 2018-02-02
 Opening positions:
 We sold 60.939 shares of ADR at the price of 63.2 on 2018-02-06
-We bought 3050 shares of underlying stock at the price of 1.3147429595943105 USD (10.270259999999999 foreign dollars) on 2018-02-06
+We bought 3050 shares of underlying stock at the price of 10.270259999999999 foreign dollars on 2018-02-06
 Closing positions:
 We bought 60.939 shares of ADR at the price of 60.81074999999999 on 2018-02-07
-We sold 3050 shares of underlying stock at the price of 1.2126608369298655 USD (9.4905 foreign dollars) on 2018-02-07
+We sold 3050 shares of underlying stock at the price of 9.4905 foreign dollars on 2018-02-07
 Opening positions:
 We sold 126.873 shares of ADR at the price of 60.0 on 2018-02-08
-We bought 6350 shares of underlying stock at the price of 1.089145145790299 USD (8.5085 foreign dollars) on 2018-02-08
+We bought 6350 shares of underlying stock at the price of 8.5085 foreign dollars on 2018-02-08
 Closing positions:
 We bought 126.873 shares of ADR at the price of 58.078019999999995 on 2018-02-12
-We sold 6350 shares of underlying stock at the price of 1.1842721890059742 USD (9.270719999999999 foreign dollars) on 2018-02-12
+We sold 6350 shares of underlying stock at the price of 9.270719999999999 foreign dollars on 2018-02-12
 Opening positions:
-We bought 3750 shares of underlying stock at the price of 1.2041599635406766 USD (9.4094 foreign dollars) on 2018-02-15
+We bought 3750 shares of underlying stock at the price of 9.4094 foreign dollars on 2018-02-15
 We sold 75 shares of ADR at the price of 61.37856 on 2018-02-20
 Closing positions:
 We bought 75 shares of ADR at the price of 62.06199999999999 on 2018-02-21
-We sold 3750 shares of underlying stock at the price of 1.2435041533785571 USD (9.74025 foreign dollars) on 2018-02-21
+We sold 3750 shares of underlying stock at the price of 9.74025 foreign dollars on 2018-02-21
 Opening positions:
-We bought 4200 shares of underlying stock at the price of 1.3191432501659208 USD (10.3103 foreign dollars) on 2018-02-23
+We bought 4200 shares of underlying stock at the price of 10.3103 foreign dollars on 2018-02-23
 We sold 84 shares of ADR at the price of 69.71022 on 2018-02-26
 Closing positions:
-We sold 4200 shares of underlying stock at the price of 1.3384963474055882 USD (10.5 foreign dollars) on 2018-02-27
+We sold 4200 shares of underlying stock at the price of 10.5 foreign dollars on 2018-02-27
 We bought 84 shares of ADR at the price of 67.09702999999999 on 2018-02-28
 Opening positions:
-We bought 4050 shares of underlying stock at the price of 1.3023164256041668 USD (10.190179999999998 foreign dollars) on 2018-03-05
+We bought 4050 shares of underlying stock at the price of 10.190179999999998 foreign dollars on 2018-03-05
 We sold 81 shares of ADR at the price of 64.29564 on 2018-03-06
 Closing positions:
 We bought 81 shares of ADR at the price of 65.71565 on 2018-03-12
-We sold 4050 shares of underlying stock at the price of 1.3137048857939937 USD (10.30968 foreign dollars) on 2018-03-12
+We sold 4050 shares of underlying stock at the price of 10.30968 foreign dollars on 2018-03-12
 Opening positions:
 We sold 49.95 shares of ADR at the price of 58.76 on 2018-03-22
-We bought 2500 shares of underlying stock at the price of 1.1248436058703288 USD (8.81881 foreign dollars) on 2018-03-22
+We bought 2500 shares of underlying stock at the price of 8.81881 foreign dollars on 2018-03-22
 Closing positions:
 We bought 49.95 shares of ADR at the price of 56.156099999999995 on 2018-03-23
-We sold 2500 shares of underlying stock at the price of 1.1152565348247023 USD (8.76123 foreign dollars) on 2018-03-23
+We sold 2500 shares of underlying stock at the price of 8.76123 foreign dollars on 2018-03-23
 Opening positions:
 We sold 84.915 shares of ADR at the price of 50.31 on 2018-03-28
-We bought 4250 shares of underlying stock at the price of 1.0241541236770972 USD (8.028019999999998 foreign dollars) on 2018-03-28
+We bought 4250 shares of underlying stock at the price of 8.028019999999998 foreign dollars on 2018-03-28
 Closing positions:
 We bought 84.915 shares of ADR at the price of 51.73168 on 2018-03-29
-We sold 4250 shares of underlying stock at the price of 1.0300085603017448 USD (8.091899999999999 foreign dollars) on 2018-03-29
+We sold 4250 shares of underlying stock at the price of 8.091899999999999 foreign dollars on 2018-03-29
 Opening positions:
 We sold 92.907 shares of ADR at the price of 49.6 on 2018-04-04
-We bought 4650 shares of underlying stock at the price of 1.00851136841663 USD (7.9079 foreign dollars) on 2018-04-04
+We bought 4650 shares of underlying stock at the price of 7.9079 foreign dollars on 2018-04-04
 Closing positions:
 We bought 92.907 shares of ADR at the price of 50.78072999999999 on 2018-04-06
-We sold 4650 shares of underlying stock at the price of 1.0299416324023876 USD (8.091899999999999 foreign dollars) on 2018-04-06
+We sold 4650 shares of underlying stock at the price of 8.091899999999999 foreign dollars on 2018-04-06
 Opening positions:
-We bought 2800 shares of underlying stock at the price of 0.9956299701927681 USD (7.8077999999999985 foreign dollars) on 2018-04-17
+We bought 2800 shares of underlying stock at the price of 7.8077999999999985 foreign dollars on 2018-04-17
 We sold 56 shares of ADR at the price of 48.31164 on 2018-04-18
 Closing positions:
 We bought 56 shares of ADR at the price of 47.047 on 2018-04-23
-We sold 2800 shares of underlying stock at the price of 0.9353846753091593 USD (7.34265 foreign dollars) on 2018-04-23
+We sold 2800 shares of underlying stock at the price of 7.34265 foreign dollars on 2018-04-23
 Opening positions:
-We bought 3300 shares of underlying stock at the price of 1.1042167275406207 USD (8.65865 foreign dollars) on 2018-05-04
+We bought 4200 shares of underlying stock at the price of 8.13813 foreign dollars on 2018-04-27
+We sold 84 shares of ADR at the price of 54.05589 on 2018-04-30
+Closing positions:
+We sold 4200 shares of underlying stock at the price of 8.68 foreign dollars on 2018-04-30
+We bought 84 shares of ADR at the price of 54.27421999999999 on 2018-05-02
+Opening positions:
+We bought 3300 shares of underlying stock at the price of 8.65865 foreign dollars on 2018-05-04
 We sold 66 shares of ADR at the price of 55.03491 on 2018-05-07
 Closing positions:
-We sold 3300 shares of underlying stock at the price of 1.0679515533773154 USD (8.4 foreign dollars) on 2018-05-07
+We sold 3300 shares of underlying stock at the price of 8.4 foreign dollars on 2018-05-07
 We bought 66 shares of ADR at the price of 53.753699999999995 on 2018-05-08
 Opening positions:
 We sold 70.929 shares of ADR at the price of 52.0 on 2018-05-18
-We bought 3550 shares of underlying stock at the price of 1.0454261181348838 USD (8.198189999999999 foreign dollars) on 2018-05-18
+We bought 3550 shares of underlying stock at the price of 8.198189999999999 foreign dollars on 2018-05-18
 Closing positions:
 We bought 70.929 shares of ADR at the price of 50.36031 on 2018-05-25
-We sold 3550 shares of underlying stock at the price of 1.025329706124793 USD (8.05194 foreign dollars) on 2018-05-25
+We sold 3550 shares of underlying stock at the price of 8.05194 foreign dollars on 2018-05-25
+Opening positions:
+We bought 3600 shares of underlying stock at the price of 8.27827 foreign dollars on 2018-06-04
+We sold 72 shares of ADR at the price of 52.70724 on 2018-06-05
+Closing positions:
+We sold 3600 shares of underlying stock at the price of 8.23 foreign dollars on 2018-06-05
+We bought 72 shares of ADR at the price of 55.53547999999999 on 2018-06-06
 Opening positions:
 We sold 44.955 shares of ADR at the price of 53.46 on 2018-06-19
-We bought 2250 shares of underlying stock at the price of 1.0722892883162662 USD (8.4084 foreign dollars) on 2018-06-19
+We bought 2250 shares of underlying stock at the price of 8.4084 foreign dollars on 2018-06-19
 Closing positions:
-We sold 2250 shares of underlying stock at the price of 1.0076523044786019 USD (7.92 foreign dollars) on 2018-06-21
+We sold 2250 shares of underlying stock at the price of 7.92 foreign dollars on 2018-06-21
 We bought 44.955 shares of ADR at the price of 49.679629999999996 on 2018-06-22
 Opening positions:
 We sold 56.943 shares of ADR at the price of 45.23 on 2018-06-25
-We bought 2850 shares of underlying stock at the price of 0.8950869894478667 USD (7.017009999999999 foreign dollars) on 2018-06-25
+We bought 2850 shares of underlying stock at the price of 7.017009999999999 foreign dollars on 2018-06-25
 Closing positions:
 We bought 56.943 shares of ADR at the price of 39.42939 on 2018-06-29
-We sold 2850 shares of underlying stock at the price of 0.7441425404663822 USD (5.84415 foreign dollars) on 2018-06-29
+We sold 2850 shares of underlying stock at the price of 5.84415 foreign dollars on 2018-06-29
 Opening positions:
 We sold 122.877 shares of ADR at the price of 32.84 on 2018-07-19
-We bought 6150 shares of underlying stock at the price of 0.6536091671858657 USD (5.12512 foreign dollars) on 2018-07-19
+We bought 6150 shares of underlying stock at the price of 5.12512 foreign dollars on 2018-07-19
 Closing positions:
 We bought 122.877 shares of ADR at the price of 34.20417 on 2018-07-20
-We sold 6150 shares of underlying stock at the price of 0.6764735913883533 USD (5.31468 foreign dollars) on 2018-07-20
+We sold 6150 shares of underlying stock at the price of 5.31468 foreign dollars on 2018-07-20
 Opening positions:
 We sold 87.912 shares of ADR at the price of 30.02 on 2018-08-15
-We bought 4400 shares of underlying stock at the price of 0.5936015692399129 USD (4.65465 foreign dollars) on 2018-08-15
+We bought 4400 shares of underlying stock at the price of 4.65465 foreign dollars on 2018-08-15
 Closing positions:
 We bought 87.912 shares of ADR at the price of 31.42139 on 2018-08-16
-We sold 4400 shares of underlying stock at the price of 0.6357024549034334 USD (4.995 foreign dollars) on 2018-08-16
+We sold 4400 shares of underlying stock at the price of 4.995 foreign dollars on 2018-08-16
 Opening positions:
-We bought 5800 shares of underlying stock at the price of 0.6855524999746139 USD (5.375369999999999 foreign dollars) on 2018-08-29
+We bought 5800 shares of underlying stock at the price of 5.375369999999999 foreign dollars on 2018-08-29
 We sold 116 shares of ADR at the price of 34.21575 on 2018-08-30
 Closing positions:
-We sold 5800 shares of underlying stock at the price of 0.6700858751132991 USD (5.27 foreign dollars) on 2018-08-30
+We sold 5800 shares of underlying stock at the price of 5.27 foreign dollars on 2018-08-30
 We bought 116 shares of ADR at the price of 33.37334 on 2018-08-31
 Opening positions:
-We bought 4500 shares of underlying stock at the price of 0.6064452288495732 USD (4.75475 foreign dollars) on 2018-09-12
+We bought 4500 shares of underlying stock at the price of 4.75475 foreign dollars on 2018-09-12
 We sold 90 shares of ADR at the price of 30.969 on 2018-09-13
 Closing positions:
-We sold 4500 shares of underlying stock at the price of 0.5951243981923668 USD (4.68 foreign dollars) on 2018-09-14
+We sold 4500 shares of underlying stock at the price of 4.68 foreign dollars on 2018-09-14
 We bought 90 shares of ADR at the price of 30.140109999999996 on 2018-09-17
 Opening positions:
-We bought 5150 shares of underlying stock at the price of 0.6374091040037008 USD (4.99499 foreign dollars) on 2018-09-19
+We bought 5150 shares of underlying stock at the price of 4.99499 foreign dollars on 2018-09-19
 We sold 103 shares of ADR at the price of 32.587379999999996 on 2018-09-20
 Closing positions:
 We bought 103 shares of ADR at the price of 34.38435 on 2018-09-21
-We sold 5150 shares of underlying stock at the price of 0.6803501116586403 USD (5.31468 foreign dollars) on 2018-09-21
+We sold 5150 shares of underlying stock at the price of 5.31468 foreign dollars on 2018-09-21
 Opening positions:
-We bought 4600 shares of underlying stock at the price of 0.5292345116898461 USD (4.144139999999999 foreign dollars) on 2018-10-16
-We sold 92 shares of ADR at the price of 26.31366 on 2018-10-18
+We sold 102.897 shares of ADR at the price of 32.37 on 2018-09-24
+We bought 5150 shares of underlying stock at the price of 5.075069999999999 foreign dollars on 2018-09-24
 Closing positions:
-We sold 4600 shares of underlying stock at the price of 0.5155600231520149 USD (4.05 foreign dollars) on 2018-10-18
-We bought 92 shares of ADR at the price of 26.506479999999996 on 2018-10-19
+We bought 102.897 shares of ADR at the price of 32.24221 on 2018-09-26
+We sold 5150 shares of underlying stock at the price of 5.04495 foreign dollars on 2018-09-26
 Opening positions:
-We bought 4300 shares of underlying stock at the price of 0.523639467797194 USD (4.104099999999999 foreign dollars) on 2018-10-30
+We bought 4450 shares of underlying stock at the price of 4.224219999999999 foreign dollars on 2018-10-11
+We sold 89 shares of ADR at the price of 27.65232 on 2018-10-12
+Closing positions:
+We sold 4450 shares of underlying stock at the price of 4.05 foreign dollars on 2018-10-18
+We bought 89 shares of ADR at the price of 26.506479999999996 on 2018-10-19
+Opening positions:
+We bought 4300 shares of underlying stock at the price of 4.104099999999999 foreign dollars on 2018-10-30
 We sold 86 shares of ADR at the price of 27.29268 on 2018-10-31
 Closing positions:
 We bought 86 shares of ADR at the price of 28.1281 on 2018-11-01
-We sold 4300 shares of underlying stock at the price of 0.617702382252873 USD (4.845149999999999 foreign dollars) on 2018-11-01
+We sold 4300 shares of underlying stock at the price of 4.845149999999999 foreign dollars on 2018-11-01
 Opening positions:
-We bought 4150 shares of underlying stock at the price of 0.6875831566590103 USD (5.375369999999999 foreign dollars) on 2018-11-28
+We bought 4800 shares of underlying stock at the price of 5.435429999999999 foreign dollars on 2018-11-23
+We sold 96 shares of ADR at the price of 34.4655 on 2018-11-26
+Closing positions:
+We sold 4800 shares of underlying stock at the price of 5.41 foreign dollars on 2018-11-26
+We bought 96 shares of ADR at the price of 33.87384 on 2018-11-27
+Opening positions:
+We bought 4150 shares of underlying stock at the price of 5.375369999999999 foreign dollars on 2018-11-28
 We sold 83 shares of ADR at the price of 33.985980000000005 on 2018-11-29
 Closing positions:
-We sold 4150 shares of underlying stock at the price of 0.6866286622748803 USD (5.38 foreign dollars) on 2018-11-29
+We sold 4150 shares of underlying stock at the price of 5.38 foreign dollars on 2018-11-29
 We bought 83 shares of ADR at the price of 33.91388 on 2018-11-30
 Opening positions:
 We sold 82.917 shares of ADR at the price of 34.67 on 2018-12-06
-We bought 4150 shares of underlying stock at the price of 0.6925465524811224 USD (5.4054 foreign dollars) on 2018-12-06
+We bought 4150 shares of underlying stock at the price of 5.4054 foreign dollars on 2018-12-06
 Closing positions:
 We bought 82.917 shares of ADR at the price of 34.39436 on 2018-12-07
-We sold 4150 shares of underlying stock at the price of 0.6691417926843914 USD (5.2347600000000005 foreign dollars) on 2018-12-07
+We sold 4150 shares of underlying stock at the price of 5.2347600000000005 foreign dollars on 2018-12-07
 Opening positions:
-We bought 2450 shares of underlying stock at the price of 0.6846823774662717 USD (5.36536 foreign dollars) on 2019-01-17
+We sold 47.952 shares of ADR at the price of 31.16 on 2018-12-20
+We bought 2400 shares of underlying stock at the price of 4.894889999999999 foreign dollars on 2018-12-20
+Closing positions:
+We sold 2400 shares of underlying stock at the price of 4.76 foreign dollars on 2018-12-21
+We bought 47.952 shares of ADR at the price of 29.809779999999996 on 2018-12-24
+Opening positions:
+We bought 2450 shares of underlying stock at the price of 5.36536 foreign dollars on 2019-01-17
 We sold 49 shares of ADR at the price of 35.03493 on 2019-01-18
 Closing positions:
-We sold 2450 shares of underlying stock at the price of 0.6677597993360637 USD (5.25 foreign dollars) on 2019-01-22
+We sold 2450 shares of underlying stock at the price of 5.25 foreign dollars on 2019-01-22
 We bought 49 shares of ADR at the price of 33.693659999999994 on 2019-01-23
 Opening positions:
 We sold 49.95 shares of ADR at the price of 36.1 on 2019-02-15
-We bought 2500 shares of underlying stock at the price of 0.725230720885482 USD (5.685679999999999 foreign dollars) on 2019-02-15
+We bought 2500 shares of underlying stock at the price of 5.685679999999999 foreign dollars on 2019-02-15
 Closing positions:
 We bought 49.95 shares of ADR at the price of 36.20617 on 2019-02-20
-We sold 2500 shares of underlying stock at the price of 0.7349909532921716 USD (5.774220000000001 foreign dollars) on 2019-02-20
+We sold 2500 shares of underlying stock at the price of 5.774220000000001 foreign dollars on 2019-02-20
 Opening positions:
 We sold 128.871 shares of ADR at the price of 40.66 on 2019-02-28
-We bought 6450 shares of underlying stock at the price of 0.818221323332951 USD (6.416409999999999 foreign dollars) on 2019-02-28
+We bought 6450 shares of underlying stock at the price of 6.416409999999999 foreign dollars on 2019-02-28
 Closing positions:
 We bought 128.871 shares of ADR at the price of 41.151109999999996 on 2019-03-01
-We sold 6450 shares of underlying stock at the price of 0.8264942656437949 USD (6.4935 foreign dollars) on 2019-03-01
+We sold 6450 shares of underlying stock at the price of 6.4935 foreign dollars on 2019-03-01
 Opening positions:
 We sold 49.95 shares of ADR at the price of 39.74 on 2019-03-07
-We bought 2500 shares of underlying stock at the price of 0.7875868948974555 USD (6.176169999999999 foreign dollars) on 2019-03-07
+We bought 2500 shares of underlying stock at the price of 6.176169999999999 foreign dollars on 2019-03-07
 Closing positions:
-We sold 2500 shares of underlying stock at the price of 0.7615531075394335 USD (5.99 foreign dollars) on 2019-03-08
+We sold 2500 shares of underlying stock at the price of 5.99 foreign dollars on 2019-03-08
 We bought 49.95 shares of ADR at the price of 38.17814 on 2019-03-11
 Opening positions:
 We sold 61.938 shares of ADR at the price of 49.75 on 2019-04-04
-We bought 3100 shares of underlying stock at the price of 0.9842033670515483 USD (7.717709999999999 foreign dollars) on 2019-04-04
+We bought 3100 shares of underlying stock at the price of 7.717709999999999 foreign dollars on 2019-04-04
 Closing positions:
 We bought 61.938 shares of ADR at the price of 49.079029999999996 on 2019-04-08
-We sold 3100 shares of underlying stock at the price of 0.9895955239432057 USD (7.77222 foreign dollars) on 2019-04-08
+We sold 3100 shares of underlying stock at the price of 7.77222 foreign dollars on 2019-04-08
 Opening positions:
 We sold 75.924 shares of ADR at the price of 46.93 on 2019-04-11
-We bought 3800 shares of underlying stock at the price of 0.9449632538152892 USD (7.4074 foreign dollars) on 2019-04-11
+We bought 3800 shares of underlying stock at the price of 7.4074 foreign dollars on 2019-04-11
 Closing positions:
 We bought 75.924 shares of ADR at the price of 48.047999999999995 on 2019-04-12
-We sold 3800 shares of underlying stock at the price of 0.9579646723658422 USD (7.52247 foreign dollars) on 2019-04-12
+We sold 3800 shares of underlying stock at the price of 7.52247 foreign dollars on 2019-04-12
 Opening positions:
 We sold 45.954 shares of ADR at the price of 47.23 on 2019-04-15
-We bought 2300 shares of underlying stock at the price of 0.9329960783547045 USD (7.307299999999999 foreign dollars) on 2019-04-15
+We bought 2300 shares of underlying stock at the price of 7.307299999999999 foreign dollars on 2019-04-15
 Closing positions:
 We bought 45.954 shares of ADR at the price of 46.546499999999995 on 2019-04-16
-We sold 2300 shares of underlying stock at the price of 0.9288864815392993 USD (7.2927 foreign dollars) on 2019-04-16
+We sold 2300 shares of underlying stock at the price of 7.2927 foreign dollars on 2019-04-16
 Opening positions:
-We bought 4450 shares of underlying stock at the price of 0.8134470248392928 USD (6.37637 foreign dollars) on 2019-05-06
+We bought 4450 shares of underlying stock at the price of 6.37637 foreign dollars on 2019-05-06
 We sold 89 shares of ADR at the price of 39.18078 on 2019-05-07
 Closing positions:
-We sold 4450 shares of underlying stock at the price of 0.7705528519617861 USD (6.06 foreign dollars) on 2019-05-07
+We sold 4450 shares of underlying stock at the price of 6.06 foreign dollars on 2019-05-07
 We bought 89 shares of ADR at the price of 38.27824 on 2019-05-08
 Opening positions:
 We sold 81.918 shares of ADR at the price of 37.03 on 2019-05-09
-We bought 4100 shares of underlying stock at the price of 0.7430673045702453 USD (5.825819999999999 foreign dollars) on 2019-05-09
+We bought 4100 shares of underlying stock at the price of 5.825819999999999 foreign dollars on 2019-05-09
 Closing positions:
 We bought 81.918 shares of ADR at the price of 37.68765 on 2019-05-10
-We sold 4100 shares of underlying stock at the price of 0.6891620402286215 USD (5.41458 foreign dollars) on 2019-05-10
+We sold 4100 shares of underlying stock at the price of 5.41458 foreign dollars on 2019-05-10
 Opening positions:
 We sold 81.918 shares of ADR at the price of 35.01 on 2019-05-14
-We bought 4100 shares of underlying stock at the price of 0.703387737735187 USD (5.515509999999999 foreign dollars) on 2019-05-14
+We bought 4100 shares of underlying stock at the price of 5.515509999999999 foreign dollars on 2019-05-14
 Closing positions:
-We sold 4100 shares of underlying stock at the price of 0.7069335513872821 USD (5.56 foreign dollars) on 2019-05-15
+We sold 4100 shares of underlying stock at the price of 5.56 foreign dollars on 2019-05-15
 We bought 81.918 shares of ADR at the price of 35.445409999999995 on 2019-05-16
 Opening positions:
-We sold 70.929 shares of ADR at the price of 32.76 on 2019-05-20
-We bought 3550 shares of underlying stock at the price of 0.6484978883334378 USD (5.08508 foreign dollars) on 2019-05-20
+We sold 70.929 shares of ADR at the price of 34.4 on 2019-05-17
+We bought 3550 shares of underlying stock at the price of 5.41541 foreign dollars on 2019-05-17
 Closing positions:
+We sold 3550 shares of underlying stock at the price of 5.08 foreign dollars on 2019-05-20
 We bought 70.929 shares of ADR at the price of 32.90286999999999 on 2019-05-21
-We sold 3550 shares of underlying stock at the price of 0.6725809087994754 USD (5.2847100000000005 foreign dollars) on 2019-05-21
 Opening positions:
-We bought 2350 shares of underlying stock at the price of 0.6719185129447369 USD (5.255249999999999 foreign dollars) on 2019-06-18
+We bought 2700 shares of underlying stock at the price of 5.03503 foreign dollars on 2019-06-04
+We sold 54 shares of ADR at the price of 32.02794 on 2019-06-05
+Closing positions:
+We sold 2700 shares of underlying stock at the price of 5.04 foreign dollars on 2019-06-06
+We bought 54 shares of ADR at the price of 31.961929999999995 on 2019-06-10
+Opening positions:
+We bought 2350 shares of underlying stock at the price of 5.255249999999999 foreign dollars on 2019-06-18
 We sold 47 shares of ADR at the price of 33.966 on 2019-06-19
 Closing positions:
-We sold 2350 shares of underlying stock at the price of 0.6817424441592626 USD (5.34 foreign dollars) on 2019-06-19
+We sold 2350 shares of underlying stock at the price of 5.34 foreign dollars on 2019-06-19
 We bought 47 shares of ADR at the price of 35.80577 on 2019-06-20
 Opening positions:
-We bought 2000 shares of underlying stock at the price of 0.6865299585109479 USD (5.36536 foreign dollars) on 2019-07-15
+We bought 2000 shares of underlying stock at the price of 5.36536 foreign dollars on 2019-07-15
 We sold 40 shares of ADR at the price of 34.71525 on 2019-07-16
 Closing positions:
-We sold 2000 shares of underlying stock at the price of 0.6924039995559268 USD (5.42 foreign dollars) on 2019-07-17
+We sold 2000 shares of underlying stock at the price of 5.42 foreign dollars on 2019-07-17
 We bought 40 shares of ADR at the price of 34.33429999999999 on 2019-07-18
 Opening positions:
-We bought 1200 shares of underlying stock at the price of 0.6900831400272628 USD (5.38538 foreign dollars) on 2019-07-23
+We bought 1200 shares of underlying stock at the price of 5.38538 foreign dollars on 2019-07-23
 We sold 24 shares of ADR at the price of 34.24572 on 2019-07-24
 Closing positions:
-We sold 1200 shares of underlying stock at the price of 0.6504541450822668 USD (5.1 foreign dollars) on 2019-07-30
+We sold 1200 shares of underlying stock at the price of 5.1 foreign dollars on 2019-07-30
 We bought 24 shares of ADR at the price of 32.60257 on 2019-07-31
 Opening positions:
 We sold 31.968 shares of ADR at the price of 29.0 on 2019-08-05
-We bought 1600 shares of underlying stock at the price of 0.566046518037622 USD (4.434429999999999 foreign dollars) on 2019-08-05
+We bought 1600 shares of underlying stock at the price of 4.434429999999999 foreign dollars on 2019-08-05
 Closing positions:
 We bought 31.968 shares of ADR at the price of 29.359329999999996 on 2019-08-06
-We sold 1600 shares of underlying stock at the price of 0.5908057130373057 USD (4.6353599999999995 foreign dollars) on 2019-08-06
+We sold 1600 shares of underlying stock at the price of 4.6353599999999995 foreign dollars on 2019-08-06
 Opening positions:
-We bought 2200 shares of underlying stock at the price of 0.5713783206655246 USD (4.474469999999999 foreign dollars) on 2019-08-07
+We bought 2200 shares of underlying stock at the price of 4.474469999999999 foreign dollars on 2019-08-07
 We sold 44 shares of ADR at the price of 28.891080000000002 on 2019-08-08
 Closing positions:
-We sold 2200 shares of underlying stock at the price of 0.5596855396430969 USD (4.4 foreign dollars) on 2019-08-12
+We sold 2200 shares of underlying stock at the price of 4.4 foreign dollars on 2019-08-12
 We bought 44 shares of ADR at the price of 28.358329999999995 on 2019-08-13
 Opening positions:
-We bought 1950 shares of underlying stock at the price of 0.598987120025771 USD (4.69469 foreign dollars) on 2019-08-13
+We bought 1950 shares of underlying stock at the price of 4.69469 foreign dollars on 2019-08-13
 We sold 39 shares of ADR at the price of 29.180790000000002 on 2019-08-14
 Closing positions:
-We sold 1950 shares of underlying stock at the price of 0.5728941609826806 USD (4.5 foreign dollars) on 2019-08-14
+We sold 1950 shares of underlying stock at the price of 4.5 foreign dollars on 2019-08-14
 We bought 39 shares of ADR at the price of 28.858829999999994 on 2019-08-15
 Opening positions:
-We bought 1450 shares of underlying stock at the price of 0.5657146731870683 USD (4.434429999999999 foreign dollars) on 2019-08-29
-We sold 29 shares of ADR at the price of 28.371599999999997 on 2019-08-30
+We sold 16.983 shares of ADR at the price of 28.62 on 2019-08-28
+We bought 850 shares of underlying stock at the price of 4.45445 foreign dollars on 2019-08-28
 Closing positions:
-We bought 29 shares of ADR at the price of 28.258229999999998 on 2019-09-03
-We sold 1450 shares of underlying stock at the price of 0.5649183143879623 USD (4.435560000000001 foreign dollars) on 2019-09-03
+We bought 16.983 shares of ADR at the price of 28.258229999999998 on 2019-09-03
+We sold 850 shares of underlying stock at the price of 4.435560000000001 foreign dollars on 2019-09-03
 Opening positions:
-We sold 18.981 shares of ADR at the price of 31.7 on 2019-09-16
-We bought 950 shares of underlying stock at the price of 0.6280038947739112 USD (4.9049 foreign dollars) on 2019-09-16
+We bought 1300 shares of underlying stock at the price of 4.78478 foreign dollars on 2019-09-06
+We sold 26 shares of ADR at the price of 30.78918 on 2019-09-09
 Closing positions:
-We bought 18.981 shares of ADR at the price of 31.481449999999995 on 2019-09-18
-We sold 950 shares of underlying stock at the price of 0.631081999247559 USD (4.94505 foreign dollars) on 2019-09-18
+We bought 26 shares of ADR at the price of 31.051019999999998 on 2019-09-11
+We sold 1300 shares of underlying stock at the price of 4.8951 foreign dollars on 2019-09-11
 Opening positions:
-We bought 1300 shares of underlying stock at the price of 0.616249188118881 USD (4.82482 foreign dollars) on 2019-09-23
+We bought 950 shares of underlying stock at the price of 5.105099999999999 foreign dollars on 2019-09-12
+We sold 19 shares of ADR at the price of 32.667300000000004 on 2019-09-13
+Closing positions:
+We sold 950 shares of underlying stock at the price of 4.9 foreign dollars on 2019-09-16
+We bought 19 shares of ADR at the price of 30.870839999999998 on 2019-09-17
+Opening positions:
+We bought 1900 shares of underlying stock at the price of 4.87487 foreign dollars on 2019-09-17
+We sold 38 shares of ADR at the price of 31.41855 on 2019-09-18
+Closing positions:
+We bought 38 shares of ADR at the price of 31.271239999999995 on 2019-09-20
+We sold 1900 shares of underlying stock at the price of 4.82517 foreign dollars on 2019-09-20
+Opening positions:
+We bought 1300 shares of underlying stock at the price of 4.82482 foreign dollars on 2019-09-23
 We sold 26 shares of ADR at the price of 30.529439999999997 on 2019-09-24
 Closing positions:
-We sold 1300 shares of underlying stock at the price of 0.6071826100753711 USD (4.77 foreign dollars) on 2019-09-24
+We sold 1300 shares of underlying stock at the price of 4.77 foreign dollars on 2019-09-24
 We bought 26 shares of ADR at the price of 30.250219999999995 on 2019-09-25
 Opening positions:
-We bought 800 shares of underlying stock at the price of 0.6132140647292471 USD (4.804799999999999 foreign dollars) on 2019-10-04
+We bought 800 shares of underlying stock at the price of 4.804799999999999 foreign dollars on 2019-10-04
 We sold 16 shares of ADR at the price of 29.61036 on 2019-10-08
 Closing positions:
-We sold 800 shares of underlying stock at the price of 0.5738063957691729 USD (4.51 foreign dollars) on 2019-10-08
+We sold 800 shares of underlying stock at the price of 4.51 foreign dollars on 2019-10-08
 We bought 16 shares of ADR at the price of 29.119089999999996 on 2019-10-09
 Opening positions:
 We sold 28.971 shares of ADR at the price of 32.68 on 2019-11-11
-We bought 1450 shares of underlying stock at the price of 0.6566677359657771 USD (5.135129999999999 foreign dollars) on 2019-11-11
+We bought 1450 shares of underlying stock at the price of 5.135129999999999 foreign dollars on 2019-11-11
 Closing positions:
-We sold 1450 shares of underlying stock at the price of 0.6514248537478539 USD (5.11 foreign dollars) on 2019-11-12
+We sold 1450 shares of underlying stock at the price of 5.11 foreign dollars on 2019-11-12
 We bought 28.971 shares of ADR at the price of 31.781749999999995 on 2019-11-13
 Opening positions:
-We bought 450 shares of underlying stock at the price of 0.6803041430512052 USD (5.305299999999999 foreign dollars) on 2019-12-12
+We bought 450 shares of underlying stock at the price of 5.305299999999999 foreign dollars on 2019-12-12
 We sold 9 shares of ADR at the price of 33.54642 on 2019-12-13
 Closing positions:
-We sold 450 shares of underlying stock at the price of 0.6695551243402261 USD (5.23 foreign dollars) on 2019-12-13
+We sold 450 shares of underlying stock at the price of 5.23 foreign dollars on 2019-12-13
 We bought 9 shares of ADR at the price of 34.034 on 2019-12-16
 Opening positions:
-We bought 1000 shares of underlying stock at the price of 0.7050951737092196 USD (5.48548 foreign dollars) on 2020-01-02
+We bought 1000 shares of underlying stock at the price of 5.48548 foreign dollars on 2020-01-02
 We sold 20 shares of ADR at the price of 34.345620000000004 on 2020-01-03
 Closing positions:
-We sold 1000 shares of underlying stock at the price of 0.6810899475488364 USD (5.31 foreign dollars) on 2020-01-03
+We sold 1000 shares of underlying stock at the price of 5.31 foreign dollars on 2020-01-03
 We bought 20 shares of ADR at the price of 33.01297999999999 on 2020-01-06
 Opening positions:
-We bought 1100 shares of underlying stock at the price of 0.6575070071422408 USD (5.105099999999999 foreign dollars) on 2020-01-06
+We bought 1100 shares of underlying stock at the price of 5.105099999999999 foreign dollars on 2020-01-06
 We sold 22 shares of ADR at the price of 33.03693 on 2020-01-07
 Closing positions:
+We sold 1100 shares of underlying stock at the price of 5.15 foreign dollars on 2020-01-08
 We bought 22 shares of ADR at the price of 33.78375 on 2020-01-09
-We sold 1100 shares of underlying stock at the price of 0.6773460981027931 USD (5.264729999999999 foreign dollars) on 2020-01-09
 Opening positions:
 We sold 28.971 shares of ADR at the price of 34.8 on 2020-01-15
-We bought 1450 shares of underlying stock at the price of 0.6937955707384675 USD (5.38538 foreign dollars) on 2020-01-15
+We bought 1450 shares of underlying stock at the price of 5.38538 foreign dollars on 2020-01-15
 Closing positions:
 We bought 28.971 shares of ADR at the price of 34.354319999999994 on 2020-01-17
-We sold 1450 shares of underlying stock at the price of 0.6471960542275575 USD (5.03496 foreign dollars) on 2020-01-17
+We sold 1450 shares of underlying stock at the price of 5.03496 foreign dollars on 2020-01-17
 Opening positions:
-We bought 4200 shares of underlying stock at the price of 0.5968333606842626 USD (4.63463 foreign dollars) on 2020-01-23
+We bought 4200 shares of underlying stock at the price of 4.63463 foreign dollars on 2020-01-23
 We sold 84 shares of ADR at the price of 30.1698 on 2020-01-24
 Closing positions:
-We sold 4200 shares of underlying stock at the price of 0.5646999929539686 USD (4.4 foreign dollars) on 2020-01-24
+We sold 4200 shares of underlying stock at the price of 4.4 foreign dollars on 2020-01-24
 We bought 84 shares of ADR at the price of 28.458429999999996 on 2020-01-29
 Opening positions:
-We bought 4500 shares of underlying stock at the price of 0.5597906252093331 USD (4.344339999999999 foreign dollars) on 2020-01-30
+We bought 4500 shares of underlying stock at the price of 4.344339999999999 foreign dollars on 2020-01-30
 We sold 90 shares of ADR at the price of 28.03194 on 2020-01-31
 Closing positions:
-We sold 4500 shares of underlying stock at the price of 0.5551366195789811 USD (4.32 foreign dollars) on 2020-01-31
+We sold 4500 shares of underlying stock at the price of 4.32 foreign dollars on 2020-01-31
 We bought 90 shares of ADR at the price of 27.647619999999996 on 2020-02-03
 Opening positions:
 We sold 160.839 shares of ADR at the price of 29.18 on 2020-02-05
-We bought 8050 shares of underlying stock at the price of 0.585941176353259 USD (4.54454 foreign dollars) on 2020-02-05
+We bought 8050 shares of underlying stock at the price of 4.54454 foreign dollars on 2020-02-05
 Closing positions:
 We bought 160.839 shares of ADR at the price of 30.019989999999996 on 2020-02-06
-We sold 8050 shares of underlying stock at the price of 0.6054370978971312 USD (4.70529 foreign dollars) on 2020-02-06
+We sold 8050 shares of underlying stock at the price of 4.70529 foreign dollars on 2020-02-06
 Opening positions:
 We sold 97.902 shares of ADR at the price of 29.19 on 2020-02-10
-We bought 4900 shares of underlying stock at the price of 0.5690539133249063 USD (4.414409999999999 foreign dollars) on 2020-02-10
+We bought 4900 shares of underlying stock at the price of 4.414409999999999 foreign dollars on 2020-02-10
 Closing positions:
 We bought 97.902 shares of ADR at the price of 29.529499999999995 on 2020-02-11
-We sold 4900 shares of underlying stock at the price of 0.5821396675739082 USD (4.52547 foreign dollars) on 2020-02-11
+We sold 4900 shares of underlying stock at the price of 4.52547 foreign dollars on 2020-02-11
 Opening positions:
-We bought 4050 shares of underlying stock at the price of 0.599667599675322 USD (4.65465 foreign dollars) on 2020-02-12
+We bought 4050 shares of underlying stock at the price of 4.65465 foreign dollars on 2020-02-12
 We sold 81 shares of ADR at the price of 29.82015 on 2020-02-13
 Closing positions:
-We sold 4050 shares of underlying stock at the price of 0.5910781206783186 USD (4.6 foreign dollars) on 2020-02-13
+We sold 4050 shares of underlying stock at the price of 4.6 foreign dollars on 2020-02-13
 We bought 81 shares of ADR at the price of 28.87885 on 2020-02-14
 Opening positions:
 We sold 56.943 shares of ADR at the price of 28.26 on 2020-02-24
-We bought 2850 shares of underlying stock at the price of 0.5543561750920853 USD (4.314309999999999 foreign dollars) on 2020-02-24
+We bought 2850 shares of underlying stock at the price of 4.314309999999999 foreign dollars on 2020-02-24
 Closing positions:
 We bought 56.943 shares of ADR at the price of 27.907879999999995 on 2020-02-25
-We sold 2850 shares of underlying stock at the price of 0.5519759636106837 USD (4.305689999999999 foreign dollars) on 2020-02-25
+We sold 2850 shares of underlying stock at the price of 4.305689999999999 foreign dollars on 2020-02-25
 Opening positions:
-We bought 4200 shares of underlying stock at the price of 0.5453293124526001 USD (4.23423 foreign dollars) on 2020-03-04
-We sold 84 shares of ADR at the price of 27.02295 on 2020-03-05
+We bought 4750 shares of underlying stock at the price of 4.144139999999999 foreign dollars on 2020-02-28
+We sold 95 shares of ADR at the price of 26.673299999999998 on 2020-03-02
 Closing positions:
-We sold 4200 shares of underlying stock at the price of 0.5367549005077665 USD (4.18 foreign dollars) on 2020-03-05
-We bought 84 shares of ADR at the price of 26.086059999999996 on 2020-03-06
+We bought 95 shares of ADR at the price of 27.1271 on 2020-03-04
+We sold 4750 shares of underlying stock at the price of 4.225770000000001 foreign dollars on 2020-03-04
 Opening positions:
 We sold 84.915 shares of ADR at the price of 26.01 on 2020-03-12
-We bought 4250 shares of underlying stock at the price of 0.4962064863793614 USD (3.8538499999999996 foreign dollars) on 2020-03-12
+We bought 4250 shares of underlying stock at the price of 3.8538499999999996 foreign dollars on 2020-03-12
 Closing positions:
 We bought 84.915 shares of ADR at the price of 26.37635 on 2020-03-13
-We sold 4250 shares of underlying stock at the price of 0.5142398542828536 USD (3.996 foreign dollars) on 2020-03-13
+We sold 4250 shares of underlying stock at the price of 3.996 foreign dollars on 2020-03-13
 Opening positions:
 We sold 93.906 shares of ADR at the price of 22.0 on 2020-03-16
-We bought 4700 shares of underlying stock at the price of 0.49779307284375 USD (3.8638599999999994 foreign dollars) on 2020-03-16
+We bought 4700 shares of underlying stock at the price of 3.8638599999999994 foreign dollars on 2020-03-16
 Closing positions:
 We bought 93.906 shares of ADR at the price of 23.063039999999997 on 2020-03-17
-We sold 4700 shares of underlying stock at the price of 0.46154691668788017 USD (3.58641 foreign dollars) on 2020-03-17
+We sold 4700 shares of underlying stock at the price of 3.58641 foreign dollars on 2020-03-17
 Opening positions:
 We sold 92.907 shares of ADR at the price of 21.0 on 2020-03-18
-We bought 4650 shares of underlying stock at the price of 0.4232702572625557 USD (3.2832799999999995 foreign dollars) on 2020-03-18
+We bought 4650 shares of underlying stock at the price of 3.2832799999999995 foreign dollars on 2020-03-18
 Closing positions:
 We bought 92.907 shares of ADR at the price of 19.669649999999997 on 2020-03-19
-We sold 4650 shares of underlying stock at the price of 0.41019399835676046 USD (3.18681 foreign dollars) on 2020-03-19
+We sold 4650 shares of underlying stock at the price of 3.18681 foreign dollars on 2020-03-19
 Opening positions:
 We sold 96.903 shares of ADR at the price of 19.62 on 2020-03-23
-We bought 4850 shares of underlying stock at the price of 0.3811588456432784 USD (2.95295 foreign dollars) on 2020-03-23
+We bought 4850 shares of underlying stock at the price of 2.95295 foreign dollars on 2020-03-23
 Closing positions:
 We bought 96.903 shares of ADR at the price of 20.05003 on 2020-03-24
-We sold 4850 shares of underlying stock at the price of 0.4235040079229426 USD (3.2867100000000002 foreign dollars) on 2020-03-24
+We sold 4850 shares of underlying stock at the price of 3.2867100000000002 foreign dollars on 2020-03-24
 Opening positions:
-We bought 6300 shares of underlying stock at the price of 0.46141555322405486 USD (3.5735699999999992 foreign dollars) on 2020-03-26
-We sold 126 shares of ADR at the price of 21.3786 on 2020-03-27
+We bought 6300 shares of underlying stock at the price of 3.3833799999999994 foreign dollars on 2020-03-25
+We sold 126 shares of ADR at the price of 22.33764 on 2020-03-26
 Closing positions:
 We bought 126 shares of ADR at the price of 21.8218 on 2020-03-31
-We sold 6300 shares of underlying stock at the price of 0.42481097966713205 USD (3.2967 foreign dollars) on 2020-03-31
+We sold 6300 shares of underlying stock at the price of 3.2967 foreign dollars on 2020-03-31
 Opening positions:
-We bought 4450 shares of underlying stock at the price of 0.48992532763122687 USD (3.7937899999999996 foreign dollars) on 2020-04-29
+We bought 4450 shares of underlying stock at the price of 3.7937899999999996 foreign dollars on 2020-04-29
 We sold 89 shares of ADR at the price of 23.2767 on 2020-05-04
 Closing positions:
-We sold 4450 shares of underlying stock at the price of 0.46326105223889635 USD (3.6 foreign dollars) on 2020-05-04
+We sold 4450 shares of underlying stock at the price of 3.6 foreign dollars on 2020-05-04
 We bought 89 shares of ADR at the price of 23.513489999999997 on 2020-05-05
 Opening positions:
-We bought 2400 shares of underlying stock at the price of 0.4472830788647423 USD (3.4634599999999995 foreign dollars) on 2020-05-18
+We bought 2400 shares of underlying stock at the price of 3.4634599999999995 foreign dollars on 2020-05-18
 We sold 48 shares of ADR at the price of 22.6773 on 2020-05-19
 Closing positions:
-We sold 2400 shares of underlying stock at the price of 0.4558321492712823 USD (3.54 foreign dollars) on 2020-05-19
+We sold 2400 shares of underlying stock at the price of 3.54 foreign dollars on 2020-05-19
 We bought 48 shares of ADR at the price of 22.94292 on 2020-05-20
 Opening positions:
 We sold 43.956 shares of ADR at the price of 21.0 on 2020-05-22
-We bought 2200 shares of underlying stock at the price of 0.42132583081406566 USD (3.2632599999999994 foreign dollars) on 2020-05-22
+We bought 2200 shares of underlying stock at the price of 3.2632599999999994 foreign dollars on 2020-05-22
 Closing positions:
 We bought 43.956 shares of ADR at the price of 21.18116 on 2020-05-26
-We sold 2200 shares of underlying stock at the price of 0.4235449802865715 USD (3.2867100000000002 foreign dollars) on 2020-05-26
+We sold 2200 shares of underlying stock at the price of 3.2867100000000002 foreign dollars on 2020-05-26
 Opening positions:
-We bought 4800 shares of underlying stock at the price of 0.43568339772694087 USD (3.3733699999999995 foreign dollars) on 2020-06-02
+We bought 4800 shares of underlying stock at the price of 3.3733699999999995 foreign dollars on 2020-06-02
 We sold 96 shares of ADR at the price of 22.4775 on 2020-06-03
 Closing positions:
 We bought 96 shares of ADR at the price of 24.894869999999997 on 2020-06-05
-We sold 4800 shares of underlying stock at the price of 0.5022074000939063 USD (3.8961 foreign dollars) on 2020-06-05
+We sold 4800 shares of underlying stock at the price of 3.8961 foreign dollars on 2020-06-05
 Opening positions:
-We bought 6550 shares of underlying stock at the price of 0.5300715467689864 USD (4.104099999999999 foreign dollars) on 2020-06-08
+We bought 6550 shares of underlying stock at the price of 4.104099999999999 foreign dollars on 2020-06-08
 We sold 131 shares of ADR at the price of 26.39358 on 2020-06-09
 Closing positions:
-We sold 6550 shares of underlying stock at the price of 0.5318199561754948 USD (4.13 foreign dollars) on 2020-06-09
+We sold 6550 shares of underlying stock at the price of 4.13 foreign dollars on 2020-06-09
 We bought 131 shares of ADR at the price of 25.995969999999996 on 2020-06-10
 Opening positions:
 We sold 97.902 shares of ADR at the price of 23.21 on 2020-06-15
-We bought 4900 shares of underlying stock at the price of 0.47189600674395976 USD (3.6536499999999994 foreign dollars) on 2020-06-15
+We bought 4900 shares of underlying stock at the price of 3.6536499999999994 foreign dollars on 2020-06-15
 Closing positions:
 We bought 97.902 shares of ADR at the price of 24.21419 on 2020-06-16
-We sold 4900 shares of underlying stock at the price of 0.47645010065577154 USD (3.6963000000000004 foreign dollars) on 2020-06-16
+We sold 4900 shares of underlying stock at the price of 3.6963000000000004 foreign dollars on 2020-06-16
 Opening positions:
-We bought 2750 shares of underlying stock at the price of 0.5145745200944986 USD (3.9839799999999994 foreign dollars) on 2020-07-06
+We bought 2750 shares of underlying stock at the price of 3.9839799999999994 foreign dollars on 2020-07-06
 We sold 55 shares of ADR at the price of 24.54543 on 2020-07-07
 Closing positions:
-We sold 2750 shares of underlying stock at the price of 0.48418194108089546 USD (3.76 foreign dollars) on 2020-07-07
+We sold 2750 shares of underlying stock at the price of 3.76 foreign dollars on 2020-07-07
 We bought 55 shares of ADR at the price of 24.474449999999997 on 2020-07-08
 Opening positions:
-We bought 1800 shares of underlying stock at the price of 0.5339494301211911 USD (4.13413 foreign dollars) on 2020-08-28
+We bought 1550 shares of underlying stock at the price of 3.6536499999999994 foreign dollars on 2020-08-10
+We sold 31 shares of ADR at the price of 24.335639999999998 on 2020-08-11
+Closing positions:
+We sold 1550 shares of underlying stock at the price of 3.77 foreign dollars on 2020-08-11
+We bought 31 shares of ADR at the price of 24.924899999999997 on 2020-08-12
+Opening positions:
+We bought 1800 shares of underlying stock at the price of 4.13413 foreign dollars on 2020-08-28
 We sold 36 shares of ADR at the price of 26.19378 on 2020-08-31
 Closing positions:
-We sold 1800 shares of underlying stock at the price of 0.5253895926979675 USD (4.08 foreign dollars) on 2020-08-31
+We sold 1800 shares of underlying stock at the price of 4.08 foreign dollars on 2020-08-31
 We bought 36 shares of ADR at the price of 26.836809999999996 on 2020-09-01
 Opening positions:
-We bought 5300 shares of underlying stock at the price of 0.6283165510254555 USD (4.86486 foreign dollars) on 2020-09-09
+We bought 5300 shares of underlying stock at the price of 4.86486 foreign dollars on 2020-09-09
 We sold 106 shares of ADR at the price of 30.2697 on 2020-09-10
 Closing positions:
-We sold 5300 shares of underlying stock at the price of 0.5923349613191117 USD (4.6 foreign dollars) on 2020-09-10
+We sold 5300 shares of underlying stock at the price of 4.6 foreign dollars on 2020-09-10
 We bought 106 shares of ADR at the price of 29.529499999999995 on 2020-09-11
 Opening positions:
 We sold 35.964 shares of ADR at the price of 29.65 on 2020-09-21
-We bought 1800 shares of underlying stock at the price of 0.5830967579601459 USD (4.51451 foreign dollars) on 2020-09-21
+We bought 1800 shares of underlying stock at the price of 4.51451 foreign dollars on 2020-09-21
 Closing positions:
-We sold 1800 shares of underlying stock at the price of 0.5550064271432604 USD (4.31 foreign dollars) on 2020-09-22
+We sold 1800 shares of underlying stock at the price of 4.31 foreign dollars on 2020-09-22
 We bought 35.964 shares of ADR at the price of 27.407379999999996 on 2020-09-23
 Opening positions:
 We sold 66.933 shares of ADR at the price of 25.53 on 2020-09-24
-We bought 3350 shares of underlying stock at the price of 0.5210323011443766 USD (4.03403 foreign dollars) on 2020-09-24
+We bought 3350 shares of underlying stock at the price of 4.03403 foreign dollars on 2020-09-24
 Closing positions:
 We bought 66.933 shares of ADR at the price of 26.836809999999996 on 2020-09-28
-We sold 3350 shares of underlying stock at the price of 0.5511489625202002 USD (4.275720000000001 foreign dollars) on 2020-09-28
+We sold 3350 shares of underlying stock at the price of 4.275720000000001 foreign dollars on 2020-09-28
 Opening positions:
 We sold 29.97 shares of ADR at the price of 27.78 on 2020-10-09
-We bought 1500 shares of underlying stock at the price of 0.5533615442222246 USD (4.28428 foreign dollars) on 2020-10-09
+We bought 1500 shares of underlying stock at the price of 4.28428 foreign dollars on 2020-10-09
 Closing positions:
-We sold 1500 shares of underlying stock at the price of 0.5369846119671605 USD (4.17 foreign dollars) on 2020-10-14
+We sold 1500 shares of underlying stock at the price of 4.17 foreign dollars on 2020-10-14
 We bought 29.97 shares of ADR at the price of 26.37635 on 2020-10-15
 Opening positions:
 We sold 17.982 shares of ADR at the price of 27.63 on 2020-10-27
-We bought 900 shares of underlying stock at the price of 0.554655876390945 USD (4.294289999999999 foreign dollars) on 2020-10-27
+We bought 900 shares of underlying stock at the price of 4.294289999999999 foreign dollars on 2020-10-27
 Closing positions:
-We sold 900 shares of underlying stock at the price of 0.5214800062842341 USD (4.05 foreign dollars) on 2020-10-28
+We sold 900 shares of underlying stock at the price of 4.05 foreign dollars on 2020-10-28
 We bought 17.982 shares of ADR at the price of 26.246219999999997 on 2020-10-29
 Opening positions:
-We bought 1350 shares of underlying stock at the price of 0.516900205187306 USD (4.004 foreign dollars) on 2020-10-30
+We bought 1350 shares of underlying stock at the price of 4.004 foreign dollars on 2020-10-30
 We sold 27 shares of ADR at the price of 26.4735 on 2020-11-02
 Closing positions:
 We bought 27 shares of ADR at the price of 27.507479999999997 on 2020-11-03
-We sold 1350 shares of underlying stock at the price of 0.548420651513435 USD (4.255739999999999 foreign dollars) on 2020-11-03
+We sold 1350 shares of underlying stock at the price of 4.255739999999999 foreign dollars on 2020-11-03
 Opening positions:
-We bought 850 shares of underlying stock at the price of 0.5633122507364167 USD (4.36436 foreign dollars) on 2020-11-04
+We bought 850 shares of underlying stock at the price of 4.36436 foreign dollars on 2020-11-04
 We sold 17 shares of ADR at the price of 28.431540000000002 on 2020-11-05
 Closing positions:
 We bought 17 shares of ADR at the price of 31.81178 on 2020-11-09
-We sold 850 shares of underlying stock at the price of 0.6410287763631658 USD (4.975020000000001 foreign dollars) on 2020-11-09
+We sold 850 shares of underlying stock at the price of 4.975020000000001 foreign dollars on 2020-11-09
 Opening positions:
 We sold 32.967 shares of ADR at the price of 30.33 on 2020-11-12
-We bought 1650 shares of underlying stock at the price of 0.5854038269363003 USD (4.53453 foreign dollars) on 2020-11-12
+We bought 1650 shares of underlying stock at the price of 4.53453 foreign dollars on 2020-11-12
 Closing positions:
 We bought 32.967 shares of ADR at the price of 30.460429999999995 on 2020-11-16
-We sold 1650 shares of underlying stock at the price of 0.6204310736462978 USD (4.815180000000001 foreign dollars) on 2020-11-16
+We sold 1650 shares of underlying stock at the price of 4.815180000000001 foreign dollars on 2020-11-16
 Opening positions:
-We bought 2100 shares of underlying stock at the price of 0.6307744404057488 USD (4.884879999999999 foreign dollars) on 2020-11-18
+We bought 2100 shares of underlying stock at the price of 4.884879999999999 foreign dollars on 2020-11-18
 We sold 42 shares of ADR at the price of 31.738229999999998 on 2020-11-19
 Closing positions:
 We bought 42 shares of ADR at the price of 31.271239999999995 on 2020-11-24
-We sold 2100 shares of underlying stock at the price of 0.6411627440522047 USD (4.975020000000001 foreign dollars) on 2020-11-24
+We sold 2100 shares of underlying stock at the price of 4.975020000000001 foreign dollars on 2020-11-24
 Opening positions:
 We sold 59.94 shares of ADR at the price of 31.99 on 2020-11-25
-We bought 3000 shares of underlying stock at the price of 0.6256905213676909 USD (4.84484 foreign dollars) on 2020-11-25
+We bought 3000 shares of underlying stock at the price of 4.84484 foreign dollars on 2020-11-25
 Closing positions:
 We bought 59.94 shares of ADR at the price of 31.891859999999998 on 2020-12-01
-We sold 3000 shares of underlying stock at the price of 0.6346844282789548 USD (4.92507 foreign dollars) on 2020-12-01
+We sold 3000 shares of underlying stock at the price of 4.92507 foreign dollars on 2020-12-01
 Opening positions:
-We bought 1800 shares of underlying stock at the price of 0.6708995171679834 USD (5.19519 foreign dollars) on 2020-12-03
+We bought 1800 shares of underlying stock at the price of 5.19519 foreign dollars on 2020-12-03
 We sold 36 shares of ADR at the price of 33.53643 on 2020-12-04
 Closing positions:
-We sold 1800 shares of underlying stock at the price of 0.6463693474559254 USD (5.02 foreign dollars) on 2020-12-07
+We sold 1800 shares of underlying stock at the price of 5.02 foreign dollars on 2020-12-07
 We bought 36 shares of ADR at the price of 31.701669999999996 on 2020-12-08
 Opening positions:
 We sold 18.981 shares of ADR at the price of 30.52 on 2020-12-21
-We bought 950 shares of underlying stock at the price of 0.6074078758061945 USD (4.7047 foreign dollars) on 2020-12-21
+We bought 950 shares of underlying stock at the price of 4.7047 foreign dollars on 2020-12-21
 Closing positions:
-We sold 950 shares of underlying stock at the price of 0.5857317847968654 USD (4.55 foreign dollars) on 2020-12-22
+We sold 950 shares of underlying stock at the price of 4.55 foreign dollars on 2020-12-22
 We bought 18.981 shares of ADR at the price of 29.249219999999994 on 2020-12-23
 Opening positions:
-We sold 32.967 shares of ADR at the price of 27.5 on 2021-01-11
-We bought 1650 shares of underlying stock at the price of 0.5478548671963821 USD (4.24424 foreign dollars) on 2021-01-11
+We sold 28.971 shares of ADR at the price of 29.0 on 2020-12-28
+We bought 1450 shares of underlying stock at the price of 4.554549999999999 foreign dollars on 2020-12-28
 Closing positions:
-We sold 1650 shares of underlying stock at the price of 0.5559856690689786 USD (4.32 foreign dollars) on 2021-01-12
+We bought 28.971 shares of ADR at the price of 29.73971 on 2020-12-29
+We sold 1450 shares of underlying stock at the price of 4.6353599999999995 foreign dollars on 2020-12-29
+Opening positions:
+We sold 32.967 shares of ADR at the price of 28.78 on 2021-01-08
+We bought 1650 shares of underlying stock at the price of 4.434429999999999 foreign dollars on 2021-01-08
+Closing positions:
+We sold 1650 shares of underlying stock at the price of 4.32 foreign dollars on 2021-01-12
 We bought 32.967 shares of ADR at the price of 28.548519999999996 on 2021-01-13
 Opening positions:
 We sold 35.964 shares of ADR at the price of 27.57 on 2021-01-22
-We bought 1800 shares of underlying stock at the price of 0.5506450093369121 USD (4.264259999999999 foreign dollars) on 2021-01-22
+We bought 1800 shares of underlying stock at the price of 4.264259999999999 foreign dollars on 2021-01-22
 Closing positions:
-We sold 1800 shares of underlying stock at the price of 0.5459029458472142 USD (4.24 foreign dollars) on 2021-01-25
+We sold 1800 shares of underlying stock at the price of 4.24 foreign dollars on 2021-01-25
 We bought 35.964 shares of ADR at the price of 27.39737 on 2021-01-26
 Opening positions:
-We bought 2000 shares of underlying stock at the price of 0.5389400544761763 USD (4.174169999999999 foreign dollars) on 2021-01-28
+We bought 1800 shares of underlying stock at the price of 4.2042 foreign dollars on 2021-01-26
+We sold 36 shares of ADR at the price of 27.322650000000003 on 2021-01-27
+Closing positions:
+We sold 1800 shares of underlying stock at the price of 4.2 foreign dollars on 2021-01-27
+We bought 36 shares of ADR at the price of 27.157129999999995 on 2021-01-28
+Opening positions:
+We bought 2000 shares of underlying stock at the price of 4.174169999999999 foreign dollars on 2021-01-28
 We sold 40 shares of ADR at the price of 27.84213 on 2021-01-29
