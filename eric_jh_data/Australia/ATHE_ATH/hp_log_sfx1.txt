@@ -72,12 +72,12 @@ Best HPs: (100, 1, 0, 3.5), Return: 1.55%, Hit Ratio: 90.32%, Max Drawdown: 1.07
 (100, 1.5, 0.5, 2.5): Return: 0.07%, Hit Ratio: 100.0%, Max Drawdown: 0.0%
 (100, 1.5, 0.5, 3): Return: 0.11%, Hit Ratio: 95.0%, Max Drawdown: 1.35%
 (100, 1.5, 0.5, 3.5): Return: 0.12%, Hit Ratio: 95.45%, Max Drawdown: 1.35%
-(100, 2, -0.5, 2.5): Return: 0.02%, Hit Ratio: 100.0%, Max Drawdown: 0.0%
+(100, 2, -0.5, 2.5): Return: 0.02%, Hit Ratio: 95.45%, Max Drawdown: 0.0%
 (100, 2, -0.5, 3): Return: 0.53%, Hit Ratio: 90.0%, Max Drawdown: 2.02%
 (100, 2, -0.5, 3.5): Return: 0.54%, Hit Ratio: 91.67%, Max Drawdown: 2.02%
-(100, 2, 0, 2.5): Return: 0.02%, Hit Ratio: 100.0%, Max Drawdown: 0.0%
+(100, 2, 0, 2.5): Return: 0.02%, Hit Ratio: 91.67%, Max Drawdown: 0.0%
 (100, 2, 0, 3): Return: 1.47%, Hit Ratio: 90.0%, Max Drawdown: 1.07%
 (100, 2, 0, 3.5): Return: 1.48%, Hit Ratio: 91.67%, Max Drawdown: 1.07%
-(100, 2, 0.5, 2.5): Return: 0.02%, Hit Ratio: 100.0%, Max Drawdown: 0.0%
+(100, 2, 0.5, 2.5): Return: 0.02%, Hit Ratio: 91.67%, Max Drawdown: 0.0%
 (100, 2, 0.5, 3): Return: 0.06%, Hit Ratio: 90.91%, Max Drawdown: 1.35%
 (100, 2, 0.5, 3.5): Return: 0.07%, Hit Ratio: 92.31%, Max Drawdown: 1.35%
