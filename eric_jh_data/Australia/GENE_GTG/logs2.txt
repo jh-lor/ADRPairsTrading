@@ -1,6 +1,6 @@
-The return of ADR_underlying pairs trading for GENE_GTG from Australia is 23.36%
+The return of ADR_underlying pairs trading for GENE_GTG from Australia is 4.0%
 The hit ratio is 79.17%
-The max drawdown is 6.48%
+The max drawdown is 0.69%
 Opening positions:
 We sold 176 shares of ADR at the price of 9.630360000000001 on 2016-02-23
 We bought 105600 shares of underlying stock at the price of 0.015140801351351351 USD (0.021020999999999998 foreign dollars) on 2016-02-23
@@ -350,11 +350,11 @@ Closing positions:
 We bought 3027 shares of ADR at the price of 2.3223199999999995 on 2020-07-02
 We sold 1816200 shares of underlying stock at the price of 0.004160291088911089 USD (0.005994 foreign dollars) on 2020-07-02
 Opening positions:
-We sold 9378 shares of ADR at the price of 4.980015000000001 on 2020-07-20
-We bought 5626800 shares of underlying stock at the price of 0.007038162262262263 USD (0.01001 foreign dollars) on 2020-07-20
+We sold 24453 shares of ADR at the price of 4.980015000000001 on 2020-07-20
+We bought 14671800 shares of underlying stock at the price of 0.007038162262262263 USD (0.01001 foreign dollars) on 2020-07-20
 Closing positions:
-We bought 9378 shares of ADR at the price of 4.12412 on 2020-07-27
-We sold 5626800 shares of underlying stock at the price of 0.007143598501498502 USD (0.00999 foreign dollars) on 2020-07-27
+We bought 24453 shares of ADR at the price of 4.12412 on 2020-07-27
+We sold 14671800 shares of underlying stock at the price of 0.007143598501498502 USD (0.00999 foreign dollars) on 2020-07-27
 Opening positions:
 We sold 2588 shares of ADR at the price of 4.095899999999999 on 2020-08-10
 We bought 1552800 shares of underlying stock at the price of 0.006453203513513513 USD (0.009009 foreign dollars) on 2020-08-10
@@ -434,5 +434,5 @@ Closing positions:
 We bought 1849 shares of ADR at the price of 5.395389999999999 on 2021-01-22
 We sold 1109400 shares of underlying stock at the price of 0.00924058033966034 USD (0.011988 foreign dollars) on 2021-01-22
 Opening positions:
-We sold 10666 shares of ADR at the price of 5.50449 on 2021-01-25
-We bought 6399600 shares of underlying stock at the price of 0.008545924774774774 USD (0.011011 foreign dollars) on 2021-01-25
+We sold 16743 shares of ADR at the price of 5.50449 on 2021-01-25
+We bought 10045800 shares of underlying stock at the price of 0.008545924774774774 USD (0.011011 foreign dollars) on 2021-01-25

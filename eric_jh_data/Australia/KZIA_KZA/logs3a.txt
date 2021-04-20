@@ -1,6 +1,6 @@
-The return of ADR_underlying pairs trading for KZIA_KZA from Australia is 10.38%
+The return of ADR_underlying pairs trading for KZIA_KZA from Australia is 1.34%
 The hit ratio is 70.11%
-The max drawdown is 1.29%
+The max drawdown is 0.14%
 Opening positions:
 We bought 200 shares of underlying stock at the price of 0.8000550115115113 USD (1.1511499999999997 foreign dollars) on 2016-01-20
 We sold 20 shares of ADR at the price of 8.23176 on 2016-01-21
@@ -500,11 +500,11 @@ Closing positions:
 We bought 1140.858 shares of ADR at the price of 11.711699999999999 on 2020-11-18
 We sold 11420 shares of underlying stock at the price of 1.2740219055944058 USD (1.74825 foreign dollars) on 2020-11-18
 Opening positions:
-We sold 4110.885 shares of ADR at the price of 12.78 on 2020-11-19
-We bought 41150 shares of underlying stock at the price of 1.2020011006006004 USD (1.6516499999999996 foreign dollars) on 2020-11-19
+We sold 6403.59 shares of ADR at the price of 12.78 on 2020-11-19
+We bought 64100 shares of underlying stock at the price of 1.2020011006006004 USD (1.6516499999999996 foreign dollars) on 2020-11-19
 Closing positions:
-We sold 41150 shares of underlying stock at the price of 1.0581650514485517 USD (1.45 foreign dollars) on 2020-11-20
-We bought 4110.885 shares of ADR at the price of 10.009999999999998 on 2020-11-23
+We sold 64100 shares of underlying stock at the price of 1.0581650514485517 USD (1.45 foreign dollars) on 2020-11-20
+We bought 6403.59 shares of ADR at the price of 10.009999999999998 on 2020-11-23
 Opening positions:
 We sold 535.464 shares of ADR at the price of 9.41 on 2020-12-15
 We bought 5360 shares of underlying stock at the price of 0.946466041041041 USD (1.2512499999999998 foreign dollars) on 2020-12-15
