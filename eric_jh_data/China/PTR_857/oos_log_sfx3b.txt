@@ -1,0 +1,18 @@
+Country: China
+ADR: PTR_857
+Return: 0.0%
+Hit Ratio: 100.0%
+Max Drawdown: 0.0%
+
+Trades
+
+Opening positions:
+We bought 46200 shares of underlying stock at the price of 0.0070069999999999985 foreign dollars on 2017-09-14
+We sold 77 shares of ADR at the price of 3.7490472 on 2017-09-15
+Closing positions:
+We sold 46200 shares of underlying stock at the price of 0.006999999999999999 foreign dollars on 2017-09-18
+We bought 77 shares of ADR at the price of 3.6076039999999994 on 2017-09-19
+
+Hyperparameters
+
+(110.0, 2.2, 0.6, 2.3)
