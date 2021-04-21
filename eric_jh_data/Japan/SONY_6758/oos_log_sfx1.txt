@@ -1,17 +1,29 @@
 Country: Japan
 ADR: SONY_6758
-Return: 0.01%
-Hit Ratio: 100.0%
-Max Drawdown: 0.0%
+Return: -1.56%
+Hit Ratio: 66.67%
+Max Drawdown: 3.38%
 
 Trades
 
 Opening positions:
-We bought 35400 shares of underlying stock at the price of 0.01001 foreign dollars on 2017-04-28
-We sold 59 shares of ADR at the price of 5.03496 on 2017-05-01
+We bought 1596 shares of underlying stock at the price of 3823.8199999999997 foreign dollars on 2017-04-28
+We sold 1596 shares of ADR at the price of 34.60536 on 2017-05-01
 Closing positions:
-We sold 35400 shares of underlying stock at the price of 0.00999 foreign dollars on 2017-05-02
-We bought 59 shares of ADR at the price of 4.644639999999999 on 2017-05-03
+We sold 1596 shares of underlying stock at the price of 3856.14 foreign dollars on 2017-05-01
+We bought 1596 shares of ADR at the price of 34.46442999999999 on 2017-05-02
+Opening positions:
+We bought 908 shares of underlying stock at the price of 4363.3589999999995 foreign dollars on 2017-10-30
+We sold 908 shares of ADR at the price of 43.16679 on 2017-10-31
+Closing positions:
+We sold 908 shares of underlying stock at the price of 4895.1 foreign dollars on 2017-10-31
+We bought 908 shares of ADR at the price of 43.613569999999996 on 2017-11-01
+Opening positions:
+We bought 4460 shares of underlying stock at the price of 5612.606999999999 foreign dollars on 2018-02-06
+We sold 4460 shares of ADR at the price of 50.4495 on 2018-02-07
+Closing positions:
+We sold 4460 shares of underlying stock at the price of 5088.906 foreign dollars on 2018-02-08
+We bought 4460 shares of ADR at the price of 47.49745 on 2018-02-09
 
 Hyperparameters
 
