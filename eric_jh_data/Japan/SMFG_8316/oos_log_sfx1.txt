@@ -1,11 +1,17 @@
 Country: Japan
 ADR: SMFG_8316
-Return: 0.0%
-Hit Ratio: 0%
-Max Drawdown: 0%
+Return: -0.22%
+Hit Ratio: 0.0%
+Max Drawdown: 0.22%
 
 Trades
 
+Opening positions:
+We bought 619 shares of underlying stock at the price of 4431.427 foreign dollars on 2017-06-28
+We sold 3095 shares of ADR at the price of 7.85214 on 2017-06-29
+Closing positions:
+We sold 619 shares of underlying stock at the price of 4363.632 foreign dollars on 2017-06-29
+We bought 3095 shares of ADR at the price of 7.9079 on 2017-06-30
 
 Hyperparameters
 

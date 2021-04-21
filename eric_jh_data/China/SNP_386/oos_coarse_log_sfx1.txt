@@ -1,0 +1,75 @@
+Country: China
+ADR: SNP_386
+Return: 0.13%
+Hit Ratio: 70.0%
+Max Drawdown: 0.48%
+
+Trades
+
+Opening positions:
+We bought 17300 shares of underlying stock at the price of 6.096089999999999 foreign dollars on 2017-05-05
+We sold 173 shares of ADR at the price of 78.53139 on 2017-05-08
+Closing positions:
+We sold 17300 shares of underlying stock at the price of 6.5234700000000005 foreign dollars on 2017-05-15
+We bought 173 shares of ADR at the price of 82.41232999999998 on 2017-05-16
+Opening positions:
+We bought 18500 shares of underlying stock at the price of 6.266259999999999 foreign dollars on 2017-05-19
+We sold 185 shares of ADR at the price of 81.15876 on 2017-05-22
+Closing positions:
+We sold 18500 shares of underlying stock at the price of 6.35364 foreign dollars on 2017-05-25
+We bought 185 shares of ADR at the price of 82.01192999999999 on 2017-05-26
+Opening positions:
+We bought 16300 shares of underlying stock at the price of 6.13613 foreign dollars on 2017-06-28
+We sold 163 shares of ADR at the price of 78.84108 on 2017-06-29
+Closing positions:
+We sold 16300 shares of underlying stock at the price of 6.05394 foreign dollars on 2017-06-29
+We bought 163 shares of ADR at the price of 78.63856 on 2017-06-30
+Opening positions:
+We bought 18400 shares of underlying stock at the price of 5.805799999999999 foreign dollars on 2017-08-24
+We sold 184 shares of ADR at the price of 75.57435000000001 on 2017-08-25
+Closing positions:
+We sold 18400 shares of underlying stock at the price of 5.88411 foreign dollars on 2017-08-25
+We bought 184 shares of ADR at the price of 74.75468 on 2017-08-28
+Opening positions:
+We bought 31500 shares of underlying stock at the price of 6.066059999999999 foreign dollars on 2017-09-12
+We sold 315 shares of ADR at the price of 78.74118 on 2017-09-13
+Closing positions:
+We sold 31500 shares of underlying stock at the price of 5.91408 foreign dollars on 2017-09-18
+We bought 315 shares of ADR at the price of 76.37629999999999 on 2017-09-19
+Opening positions:
+We bought 23500 shares of underlying stock at the price of 5.845839999999999 foreign dollars on 2017-11-06
+We sold 235 shares of ADR at the price of 76.28364 on 2017-11-07
+Closing positions:
+We sold 23500 shares of underlying stock at the price of 5.95404 foreign dollars on 2017-11-07
+We bought 235 shares of ADR at the price of 75.3753 on 2017-11-08
+Opening positions:
+We bought 28200 shares of underlying stock at the price of 6.576569999999999 foreign dollars on 2018-02-06
+We sold 282 shares of ADR at the price of 82.44747 on 2018-02-07
+Closing positions:
+We sold 28200 shares of underlying stock at the price of 6.26373 foreign dollars on 2018-02-07
+We bought 282 shares of ADR at the price of 81.50142 on 2018-02-08
+Opening positions:
+We bought 32000 shares of underlying stock at the price of 6.2062 foreign dollars on 2018-02-14
+We sold 320 shares of ADR at the price of 80.43947999999999 on 2018-02-15
+Closing positions:
+We sold 32000 shares of underlying stock at the price of 6.33366 foreign dollars on 2018-02-20
+We bought 320 shares of ADR at the price of 82.30221999999999 on 2018-02-21
+Opening positions:
+We bought 22900 shares of underlying stock at the price of 6.216209999999999 foreign dollars on 2018-03-05
+We sold 229 shares of ADR at the price of 80.44947 on 2018-03-06
+Closing positions:
+We sold 22900 shares of underlying stock at the price of 6.133859999999999 foreign dollars on 2018-03-06
+We bought 229 shares of ADR at the price of 79.25918 on 2018-03-07
+Opening positions:
+We bought 32500 shares of underlying stock at the price of 7.107099999999999 foreign dollars on 2018-04-04
+We sold 325 shares of ADR at the price of 91.66824000000001 on 2018-04-06
+Closing positions:
+We sold 32500 shares of underlying stock at the price of 7.2127799999999995 foreign dollars on 2018-04-06
+We bought 325 shares of ADR at the price of 92.84275 on 2018-04-09
+Opening positions:
+We bought 36500 shares of underlying stock at the price of 7.48748 foreign dollars on 2018-04-10
+We sold 365 shares of ADR at the price of 94.61528999999999 on 2018-04-11
+
+Hyperparameters
+
+(100.0, 1.5, 0.0, 3.0)
