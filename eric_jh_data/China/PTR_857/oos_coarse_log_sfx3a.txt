@@ -1,0 +1,36 @@
+Country: China
+ADR: PTR_857
+Return: 0.23%
+Hit Ratio: 75.0%
+Max Drawdown: 0.08%
+
+Trades
+
+Opening positions:
+We bought 15700 shares of underlying stock at the price of 5.305299999999999 foreign dollars on 2017-05-19
+We sold 157 shares of ADR at the price of 68.28165 on 2017-05-22
+Closing positions:
+We sold 15700 shares of underlying stock at the price of 5.2947 foreign dollars on 2017-05-25
+We bought 157 shares of ADR at the price of 68.08801999999999 on 2017-05-26
+Opening positions:
+We sold 134 shares of ADR at the price of 66.7332 on 2017-05-31
+We bought 13400 shares of underlying stock at the price of 5.225219999999999 foreign dollars on 2017-05-31
+Closing positions:
+We sold 13400 shares of underlying stock at the price of 5.0949 foreign dollars on 2017-06-07
+We bought 134 shares of ADR at the price of 65.4654 on 2017-06-08
+Opening positions:
+We sold 71 shares of ADR at the price of 71.0289 on 2018-01-03
+We bought 7100 shares of underlying stock at the price of 5.59559 foreign dollars on 2018-01-03
+Closing positions:
+We bought 71 shares of ADR at the price of 73.55348 on 2018-01-04
+We sold 7100 shares of underlying stock at the price of 5.82417 foreign dollars on 2018-01-04
+Opening positions:
+We sold 360 shares of ADR at the price of 73.05686999999999 on 2018-02-07
+We bought 36000 shares of underlying stock at the price of 5.59559 foreign dollars on 2018-02-07
+Closing positions:
+We sold 36000 shares of underlying stock at the price of 5.3946000000000005 foreign dollars on 2018-02-08
+We bought 360 shares of ADR at the price of 68.78872 on 2018-02-09
+
+Hyperparameters
+
+(30.0, 2.0, -0.5, 3.0)

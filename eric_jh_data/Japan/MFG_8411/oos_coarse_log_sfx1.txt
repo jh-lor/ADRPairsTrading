@@ -1,0 +1,30 @@
+Country: Japan
+ADR: MFG_8411
+Return: -0.03%
+Hit Ratio: 33.33%
+Max Drawdown: 0.03%
+
+Trades
+
+Opening positions:
+We bought 60 shares of underlying stock at the price of 2095.093 foreign dollars on 2017-05-02
+We sold 300 shares of ADR at the price of 3.7562399999999996 on 2017-05-08
+Closing positions:
+We sold 60 shares of underlying stock at the price of 1998.999 foreign dollars on 2017-05-16
+We bought 300 shares of ADR at the price of 3.5435399999999997 on 2017-05-17
+Opening positions:
+We bought 69 shares of underlying stock at the price of 1991.9899999999998 foreign dollars on 2017-09-27
+We sold 345 shares of ADR at the price of 3.5264699999999998 on 2017-09-28
+Closing positions:
+We sold 69 shares of underlying stock at the price of 2065.932 foreign dollars on 2017-10-30
+We bought 345 shares of ADR at the price of 3.6736699999999995 on 2017-10-31
+Opening positions:
+We bought 213 shares of underlying stock at the price of 2045.0429999999997 foreign dollars on 2018-02-06
+We sold 1065 shares of ADR at the price of 3.7162800000000002 on 2018-02-07
+Closing positions:
+We sold 213 shares of underlying stock at the price of 1965.033 foreign dollars on 2018-02-08
+We bought 1065 shares of ADR at the price of 3.6336299999999997 on 2018-02-09
+
+Hyperparameters
+
+(60.0, 2.0, -0.5, 3.0)

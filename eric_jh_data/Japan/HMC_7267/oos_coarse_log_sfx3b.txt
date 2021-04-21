@@ -1,0 +1,42 @@
+Country: Japan
+ADR: HMC_7267
+Return: -0.17%
+Hit Ratio: 20.0%
+Max Drawdown: 0.61%
+
+Trades
+
+Opening positions:
+We sold 1339 shares of ADR at the price of 31.888080000000002 on 2017-11-15
+We bought 1339 shares of underlying stock at the price of 3643.6399999999994 foreign dollars on 2017-11-15
+Closing positions:
+We bought 1339 shares of ADR at the price of 32.55252 on 2017-11-16
+We sold 1339 shares of underlying stock at the price of 3715.281 foreign dollars on 2017-11-16
+Opening positions:
+We sold 1019 shares of ADR at the price of 35.734230000000004 on 2018-01-12
+We bought 1019 shares of underlying stock at the price of 3986.9829999999997 foreign dollars on 2018-01-12
+Closing positions:
+We bought 1019 shares of ADR at the price of 36.08604999999999 on 2018-01-16
+We sold 1019 shares of underlying stock at the price of 3985.011 foreign dollars on 2018-01-16
+Opening positions:
+We sold 1282 shares of ADR at the price of 35.834129999999995 on 2018-01-18
+We bought 1282 shares of underlying stock at the price of 3996.9929999999995 foreign dollars on 2018-01-18
+Closing positions:
+We bought 1282 shares of ADR at the price of 36.1361 on 2018-01-19
+We sold 1282 shares of underlying stock at the price of 3996.0 foreign dollars on 2018-01-19
+Opening positions:
+We bought 1388 shares of underlying stock at the price of 3703.7 foreign dollars on 2018-03-05
+We sold 1388 shares of ADR at the price of 34.95501 on 2018-03-06
+Closing positions:
+We bought 1388 shares of ADR at the price of 35.04500999999999 on 2018-03-12
+We sold 1388 shares of underlying stock at the price of 3683.313 foreign dollars on 2018-03-12
+Opening positions:
+We sold 983 shares of ADR at the price of 33.34662 on 2018-03-23
+We bought 983 shares of underlying stock at the price of 3437.4339999999997 foreign dollars on 2018-03-23
+Closing positions:
+We bought 983 shares of ADR at the price of 33.403369999999995 on 2018-03-26
+We sold 983 shares of underlying stock at the price of 3531.465 foreign dollars on 2018-03-26
+
+Hyperparameters
+
+(60.0, 2.0, 0.0, 2.5)

@@ -1,0 +1,54 @@
+Country: Japan
+ADR: IX_8591
+Return: -0.29%
+Hit Ratio: 28.57%
+Max Drawdown: 0.32%
+
+Trades
+
+Opening positions:
+We sold 76 shares of ADR at the price of 78.17175 on 2017-07-07
+We bought 380 shares of underlying stock at the price of 1792.7909999999997 foreign dollars on 2017-07-07
+Closing positions:
+We bought 76 shares of ADR at the price of 78.31823999999999 on 2017-07-10
+We sold 380 shares of underlying stock at the price of 1790.208 foreign dollars on 2017-07-10
+Opening positions:
+We sold 43 shares of ADR at the price of 79.04088 on 2017-09-13
+We bought 215 shares of underlying stock at the price of 1756.2544999999998 foreign dollars on 2017-09-13
+Closing positions:
+We bought 43 shares of ADR at the price of 80.04996999999999 on 2017-09-14
+We sold 215 shares of underlying stock at the price of 1758.24 foreign dollars on 2017-09-14
+Opening positions:
+We bought 140 shares of underlying stock at the price of 1821.8199999999997 foreign dollars on 2017-09-27
+We sold 28 shares of ADR at the price of 80.30961 on 2017-09-28
+Closing positions:
+We sold 140 shares of underlying stock at the price of 1803.6945 foreign dollars on 2017-09-28
+We bought 28 shares of ADR at the price of 80.77068999999999 on 2017-09-29
+Opening positions:
+We bought 510 shares of underlying stock at the price of 2144.6425 foreign dollars on 2018-01-17
+We sold 102 shares of ADR at the price of 94.74516 on 2018-01-18
+Closing positions:
+We sold 510 shares of underlying stock at the price of 2107.89 foreign dollars on 2018-01-18
+We bought 102 shares of ADR at the price of 96.37628 on 2018-01-19
+Opening positions:
+We sold 38 shares of ADR at the price of 94.49541 on 2018-01-31
+We bought 190 shares of underlying stock at the price of 2030.5284999999997 foreign dollars on 2018-01-31
+Closing positions:
+We bought 38 shares of ADR at the price of 93.68359 on 2018-02-01
+We sold 190 shares of underlying stock at the price of 2064.4335 foreign dollars on 2018-02-01
+Opening positions:
+We bought 395 shares of underlying stock at the price of 1982.9809999999998 foreign dollars on 2018-02-06
+We sold 79 shares of ADR at the price of 88.70121 on 2018-02-07
+Closing positions:
+We bought 79 shares of ADR at the price of 88.82873999999998 on 2018-02-08
+We sold 395 shares of underlying stock at the price of 1860.138 foreign dollars on 2018-02-08
+Opening positions:
+We sold 38 shares of ADR at the price of 87.68222999999999 on 2018-04-02
+We bought 190 shares of underlying stock at the price of 1834.3324999999998 foreign dollars on 2018-04-02
+Closing positions:
+We bought 38 shares of ADR at the price of 86.93684999999998 on 2018-04-03
+We sold 190 shares of underlying stock at the price of 1859.139 foreign dollars on 2018-04-03
+
+Hyperparameters
+
+(30.0, 2.0, 0.5, 3.5)

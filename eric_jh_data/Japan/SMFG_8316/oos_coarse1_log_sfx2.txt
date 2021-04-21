@@ -1,0 +1,75 @@
+Country: Japan
+ADR: SMFG_8316
+Return: 0.25%
+Hit Ratio: 50.0%
+Max Drawdown: 0.21%
+
+Trades
+
+Opening positions:
+We sold 1940 shares of ADR at the price of 7.01298 on 2019-03-07
+We bought 388 shares of underlying stock at the price of 3854.8509999999997 foreign dollars on 2019-03-07
+Closing positions:
+We bought 1940 shares of ADR at the price of 6.966959999999999 on 2019-03-11
+We sold 388 shares of underlying stock at the price of 3876.12 foreign dollars on 2019-03-11
+Opening positions:
+We sold 2100 shares of ADR at the price of 7.1928 on 2019-03-27
+We bought 420 shares of underlying stock at the price of 3882.8789999999995 foreign dollars on 2019-03-27
+Closing positions:
+We bought 2100 shares of ADR at the price of 7.117109999999999 on 2019-04-01
+We sold 420 shares of underlying stock at the price of 4010.985 foreign dollars on 2019-04-01
+Opening positions:
+We sold 2165 shares of ADR at the price of 7.062930000000001 on 2019-04-11
+We bought 433 shares of underlying stock at the price of 3935.932 foreign dollars on 2019-04-11
+Closing positions:
+We bought 2165 shares of ADR at the price of 7.15715 on 2019-04-16
+We sold 433 shares of underlying stock at the price of 4014.981 foreign dollars on 2019-04-16
+Opening positions:
+We sold 1730 shares of ADR at the price of 7.01298 on 2019-07-09
+We bought 346 shares of underlying stock at the price of 3833.8299999999995 foreign dollars on 2019-07-09
+Closing positions:
+We bought 1730 shares of ADR at the price of 7.03703 on 2019-07-10
+We sold 346 shares of underlying stock at the price of 3826.17 foreign dollars on 2019-07-10
+Opening positions:
+We sold 1735 shares of ADR at the price of 7.08291 on 2019-07-24
+We bought 347 shares of underlying stock at the price of 3846.8429999999994 foreign dollars on 2019-07-24
+Closing positions:
+We bought 1735 shares of ADR at the price of 6.976969999999999 on 2019-07-30
+We sold 347 shares of underlying stock at the price of 3792.204 foreign dollars on 2019-07-30
+Opening positions:
+We sold 3515 shares of ADR at the price of 6.84315 on 2019-08-08
+We bought 703 shares of underlying stock at the price of 3647.644 foreign dollars on 2019-08-08
+Closing positions:
+We bought 3515 shares of ADR at the price of 6.46646 on 2019-08-15
+We sold 703 shares of underlying stock at the price of 3436.56 foreign dollars on 2019-08-15
+Opening positions:
+We sold 1140 shares of ADR at the price of 7.2927 on 2019-11-29
+We bought 228 shares of underlying stock at the price of 4009.0049999999997 foreign dollars on 2019-11-29
+Closing positions:
+We bought 1140 shares of ADR at the price of 7.227219999999999 on 2019-12-03
+We sold 228 shares of underlying stock at the price of 3956.04 foreign dollars on 2019-12-03
+Opening positions:
+We sold 1580 shares of ADR at the price of 7.2927 on 2019-12-05
+We bought 316 shares of underlying stock at the price of 3992.9889999999996 foreign dollars on 2019-12-05
+Closing positions:
+We bought 1580 shares of ADR at the price of 7.377369999999999 on 2019-12-13
+We sold 316 shares of underlying stock at the price of 4038.957 foreign dollars on 2019-12-13
+Opening positions:
+We sold 1325 shares of ADR at the price of 7.4325600000000005 on 2019-12-23
+We bought 265 shares of underlying stock at the price of 4055.0509999999995 foreign dollars on 2019-12-23
+Closing positions:
+We bought 1325 shares of ADR at the price of 7.217209999999999 on 2020-01-22
+We sold 265 shares of underlying stock at the price of 3935.061 foreign dollars on 2020-01-22
+Opening positions:
+We sold 1810 shares of ADR at the price of 7.23276 on 2020-02-05
+We bought 362 shares of underlying stock at the price of 3971.9679999999994 foreign dollars on 2020-02-05
+Closing positions:
+We bought 1810 shares of ADR at the price of 7.19719 on 2020-02-10
+We sold 362 shares of underlying stock at the price of 3956.04 foreign dollars on 2020-02-10
+Opening positions:
+We sold 1515 shares of ADR at the price of 7.092899999999999 on 2020-02-13
+We bought 303 shares of underlying stock at the price of 3862.8589999999995 foreign dollars on 2020-02-13
+
+Hyperparameters
+
+(30.0, 1.5, -0.5, 3.0)
