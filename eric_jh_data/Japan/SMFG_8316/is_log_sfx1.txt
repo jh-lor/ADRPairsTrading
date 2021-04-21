@@ -1,23 +1,23 @@
 Country: Japan
 ADR: SMFG_8316
-Return: 0.46%
-Hit Ratio: 100.0%
-Max Drawdown: 0.13%
+Return: 0.11%
+Hit Ratio: 50.0%
+Max Drawdown: 0.08%
 
 Trades
 
 Opening positions:
-We bought 845400 shares of underlying stock at the price of 0.005005 foreign dollars on 2020-06-29
-We sold 1409 shares of ADR at the price of 2.3476500000000002 on 2020-06-30
+We bought 256 shares of underlying stock at the price of 2927.9249999999997 foreign dollars on 2016-07-11
+We sold 1280 shares of ADR at the price of 5.87412 on 2016-07-12
 Closing positions:
-We sold 845400 shares of underlying stock at the price of 0.005994 foreign dollars on 2020-07-02
-We bought 1409 shares of ADR at the price of 2.39239 on 2020-07-06
+We sold 256 shares of underlying stock at the price of 3136.86 foreign dollars on 2016-07-12
+We bought 1280 shares of ADR at the price of 6.005999999999999 on 2016-07-13
 Opening positions:
-We bought 733800 shares of underlying stock at the price of 0.008008 foreign dollars on 2021-01-12
-We sold 1223 shares of ADR at the price of 4.275720000000001 on 2021-01-13
+We bought 702 shares of underlying stock at the price of 3783.7799999999997 foreign dollars on 2019-10-15
+We sold 3510 shares of ADR at the price of 6.97302 on 2019-10-16
 Closing positions:
-We sold 733800 shares of underlying stock at the price of 0.008991 foreign dollars on 2021-01-15
-We bought 1223 shares of ADR at the price of 4.21421 on 2021-01-19
+We sold 702 shares of underlying stock at the price of 3746.25 foreign dollars on 2019-10-18
+We bought 3510 shares of ADR at the price of 6.91691 on 2019-10-21
 
 Hyperparameters
 
