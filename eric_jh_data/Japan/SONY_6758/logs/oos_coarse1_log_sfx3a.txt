@@ -1,0 +1,36 @@
+Country: Japan
+ADR: SONY_6758
+Return: -0.57%
+Hit Ratio: 25.0%
+Max Drawdown: 1.28%
+
+Trades
+
+Opening positions:
+We sold 1998 shares of ADR at the price of 46.51344 on 2019-04-24
+We bought 1998 shares of underlying stock at the price of 5224.218999999999 foreign dollars on 2019-04-24
+Closing positions:
+We bought 1998 shares of ADR at the price of 46.87682999999999 on 2019-04-25
+We sold 1998 shares of underlying stock at the price of 5145.849 foreign dollars on 2019-04-25
+Opening positions:
+We sold 3424 shares of ADR at the price of 48.43152 on 2019-05-23
+We bought 3424 shares of underlying stock at the price of 5282.276999999999 foreign dollars on 2019-05-23
+Closing positions:
+We bought 3424 shares of ADR at the price of 48.718669999999996 on 2019-05-24
+We sold 3424 shares of underlying stock at the price of 5427.567 foreign dollars on 2019-05-24
+Opening positions:
+We sold 1334 shares of ADR at the price of 55.114830000000005 on 2019-08-22
+We bought 1334 shares of underlying stock at the price of 5860.855 foreign dollars on 2019-08-22
+Closing positions:
+We bought 1334 shares of ADR at the price of 54.85479999999999 on 2019-08-23
+We sold 1334 shares of underlying stock at the price of 5792.202 foreign dollars on 2019-08-23
+Opening positions:
+We sold 994 shares of ADR at the price of 70.55937 on 2020-01-30
+We bought 994 shares of underlying stock at the price of 7814.806999999999 foreign dollars on 2020-01-30
+Closing positions:
+We sold 994 shares of underlying stock at the price of 7544.448 foreign dollars on 2020-01-31
+We bought 994 shares of ADR at the price of 70.36028999999999 on 2020-02-03
+
+Hyperparameters
+
+(60.0, 2.0, 0.5, 3.0)
