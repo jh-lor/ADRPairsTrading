@@ -147,7 +147,7 @@ def report_and_store_statistics(pairs_trade_strategy, filename, list_pairs, fx_d
         else:
             print("Country: {}, ADR_Stock: {}, Return: {}%, Hit Ratio: None, Max Drawdown: 0.00%".format(country, adr, ret))
         logs = logs + trade_records 
-        fname = f'eric_jh_data/{country}/{adr}/' + filename
+        fname = f'eric_jh_data/{country}/{adr}/logs/' + filename
         f = open(fname, 'w')
         f.writelines(logs)
         f.close()
