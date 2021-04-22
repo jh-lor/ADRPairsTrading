@@ -1,0 +1,36 @@
+Country: Japan
+ADR: TM_7203
+Return: 0.12%
+Hit Ratio: 75.0%
+Max Drawdown: 0.1%
+
+Trades
+
+Opening positions:
+We sold 164 shares of ADR at the price of 117.3825 on 2019-05-31
+We bought 328 shares of underlying stock at the price of 6315.308999999999 foreign dollars on 2019-05-31
+Closing positions:
+We bought 164 shares of ADR at the price of 120.62049999999999 on 2019-06-05
+We sold 328 shares of underlying stock at the price of 6528.465 foreign dollars on 2019-06-05
+Opening positions:
+We sold 138 shares of ADR at the price of 129.33054 on 2019-07-31
+We bought 276 shares of underlying stock at the price of 7025.017999999999 foreign dollars on 2019-07-31
+Closing positions:
+We bought 138 shares of ADR at the price of 130.33019999999996 on 2019-08-01
+We sold 276 shares of underlying stock at the price of 6993.0 foreign dollars on 2019-08-01
+Opening positions:
+We sold 165 shares of ADR at the price of 127.33254 on 2019-08-06
+We bought 330 shares of underlying stock at the price of 6731.724999999999 foreign dollars on 2019-08-06
+Closing positions:
+We bought 165 shares of ADR at the price of 127.47734999999999 on 2019-08-07
+We sold 330 shares of underlying stock at the price of 6781.212 foreign dollars on 2019-08-07
+Opening positions:
+We sold 226 shares of ADR at the price of 136.71314999999998 on 2019-09-27
+We bought 452 shares of underlying stock at the price of 7332.324999999999 foreign dollars on 2019-09-27
+Closing positions:
+We bought 226 shares of ADR at the price of 133.68355 on 2019-09-30
+We sold 452 shares of underlying stock at the price of 7237.755 foreign dollars on 2019-09-30
+
+Hyperparameters
+
+(30.0, 2.0, 0.0, 2.5)

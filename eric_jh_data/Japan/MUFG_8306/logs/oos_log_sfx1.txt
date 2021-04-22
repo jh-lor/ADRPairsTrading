@@ -1,0 +1,30 @@
+Country: Japan
+ADR: MUFG_8306
+Return: -0.33%
+Hit Ratio: 33.33%
+Max Drawdown: 0.59%
+
+Trades
+
+Opening positions:
+We bought 2758 shares of underlying stock at the price of 776.9762 foreign dollars on 2017-11-28
+We sold 2758 shares of ADR at the price of 7.01298 on 2017-11-29
+Closing positions:
+We sold 2758 shares of underlying stock at the price of 807.192 foreign dollars on 2017-12-01
+We bought 2758 shares of ADR at the price of 7.087079999999999 on 2017-12-04
+Opening positions:
+We bought 3271 shares of underlying stock at the price of 891.7908999999999 foreign dollars on 2018-01-17
+We sold 3271 shares of ADR at the price of 7.8921 on 2018-01-18
+Closing positions:
+We sold 3271 shares of underlying stock at the price of 880.0191 foreign dollars on 2018-01-23
+We bought 3271 shares of ADR at the price of 7.927919999999999 on 2018-01-24
+Opening positions:
+We bought 4384 shares of underlying stock at the price of 815.8149999999999 foreign dollars on 2018-02-06
+We sold 4384 shares of ADR at the price of 7.41258 on 2018-02-07
+Closing positions:
+We sold 4384 shares of underlying stock at the price of 773.226 foreign dollars on 2018-02-08
+We bought 4384 shares of ADR at the price of 7.217209999999999 on 2018-02-09
+
+Hyperparameters
+
+(30.0, 2.1, -0.2, 2.8)

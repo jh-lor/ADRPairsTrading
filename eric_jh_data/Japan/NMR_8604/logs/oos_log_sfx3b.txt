@@ -1,0 +1,18 @@
+Country: Japan
+ADR: NMR_8604
+Return: -0.02%
+Hit Ratio: 0.0%
+Max Drawdown: 0.02%
+
+Trades
+
+Opening positions:
+We sold 303 shares of ADR at the price of 6.5734200000000005 on 2018-01-18
+We bought 303 shares of underlying stock at the price of 734.7339999999999 foreign dollars on 2018-01-18
+Closing positions:
+We sold 303 shares of underlying stock at the price of 743.9553000000001 foreign dollars on 2018-01-19
+We bought 303 shares of ADR at the price of 6.82682 on 2018-01-22
+
+Hyperparameters
+
+(30.0, 2.0, -0.7, 2.3)

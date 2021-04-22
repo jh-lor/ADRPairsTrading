@@ -1,0 +1,36 @@
+Country: Japan
+ADR: MFG_8411
+Return: -0.08%
+Hit Ratio: 25.0%
+Max Drawdown: 0.1%
+
+Trades
+
+Opening positions:
+We bought 232 shares of underlying stock at the price of 1739.7379999999998 foreign dollars on 2019-04-12
+We sold 1160 shares of ADR at the price of 3.10689 on 2019-04-15
+Closing positions:
+We sold 232 shares of underlying stock at the price of 1623.375 foreign dollars on 2019-05-13
+We bought 1160 shares of ADR at the price of 3.02302 on 2019-05-14
+Opening positions:
+We bought 185 shares of underlying stock at the price of 1558.5569999999998 foreign dollars on 2019-08-06
+We sold 925 shares of ADR at the price of 2.90709 on 2019-08-07
+Closing positions:
+We sold 185 shares of underlying stock at the price of 1541.457 foreign dollars on 2019-08-13
+We bought 925 shares of ADR at the price of 2.8828799999999997 on 2019-08-14
+Opening positions:
+We bought 296 shares of underlying stock at the price of 1531.5299999999997 foreign dollars on 2019-08-15
+We sold 1480 shares of ADR at the price of 2.92707 on 2019-08-16
+Closing positions:
+We sold 296 shares of underlying stock at the price of 1521.477 foreign dollars on 2019-08-23
+We bought 1480 shares of ADR at the price of 2.9429399999999997 on 2019-08-26
+Opening positions:
+We bought 59 shares of underlying stock at the price of 1693.6919999999998 foreign dollars on 2019-12-12
+We sold 295 shares of ADR at the price of 3.1468499999999997 on 2019-12-13
+Closing positions:
+We sold 59 shares of underlying stock at the price of 1708.29 foreign dollars on 2019-12-17
+We bought 295 shares of ADR at the price of 3.1231199999999997 on 2019-12-18
+
+Hyperparameters
+
+(60.0, 2.0, 0.0, 3.0)

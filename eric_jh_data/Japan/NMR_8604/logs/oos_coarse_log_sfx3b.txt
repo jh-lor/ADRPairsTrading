@@ -1,0 +1,42 @@
+Country: Japan
+ADR: NMR_8604
+Return: -0.14%
+Hit Ratio: 0.0%
+Max Drawdown: 0.14%
+
+Trades
+
+Opening positions:
+We sold 356 shares of ADR at the price of 6.03396 on 2017-06-15
+We bought 356 shares of underlying stock at the price of 670.1695 foreign dollars on 2017-06-15
+Closing positions:
+We bought 356 shares of ADR at the price of 6.176169999999999 on 2017-06-16
+We sold 356 shares of underlying stock at the price of 678.321 foreign dollars on 2017-06-16
+Opening positions:
+We sold 328 shares of ADR at the price of 5.58441 on 2017-08-24
+We bought 328 shares of underlying stock at the price of 613.6129999999999 foreign dollars on 2017-08-24
+Closing positions:
+We sold 328 shares of underlying stock at the price of 602.1972 foreign dollars on 2017-08-28
+We bought 328 shares of ADR at the price of 5.495489999999999 on 2017-08-29
+Opening positions:
+We sold 225 shares of ADR at the price of 5.81418 on 2017-12-26
+We bought 225 shares of underlying stock at the price of 663.2625999999999 foreign dollars on 2017-12-26
+Closing positions:
+We bought 225 shares of ADR at the price of 5.855849999999999 on 2017-12-27
+We sold 225 shares of underlying stock at the price of 667.9314 foreign dollars on 2017-12-27
+Opening positions:
+We sold 303 shares of ADR at the price of 6.5734200000000005 on 2018-01-18
+We bought 303 shares of underlying stock at the price of 734.7339999999999 foreign dollars on 2018-01-18
+Closing positions:
+We sold 303 shares of underlying stock at the price of 743.9553000000001 foreign dollars on 2018-01-19
+We bought 303 shares of ADR at the price of 6.82682 on 2018-01-22
+Opening positions:
+We bought 1034 shares of underlying stock at the price of 678.3777 foreign dollars on 2018-02-06
+We sold 1034 shares of ADR at the price of 6.12387 on 2018-02-07
+Closing positions:
+We sold 1034 shares of underlying stock at the price of 641.4579 foreign dollars on 2018-02-08
+We bought 1034 shares of ADR at the price of 6.036029999999999 on 2018-02-09
+
+Hyperparameters
+
+(30.0, 2.0, -0.5, 2.5)

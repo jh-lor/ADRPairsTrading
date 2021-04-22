@@ -1,0 +1,24 @@
+Country: Japan
+ADR: HMC_7267
+Return: -0.02%
+Hit Ratio: 50.0%
+Max Drawdown: 0.07%
+
+Trades
+
+Opening positions:
+We sold 654 shares of ADR at the price of 28.40157 on 2019-04-22
+We bought 654 shares of underlying stock at the price of 3183.18 foreign dollars on 2019-04-22
+Closing positions:
+We bought 654 shares of ADR at the price of 28.478449999999995 on 2019-04-23
+We sold 654 shares of underlying stock at the price of 3168.828 foreign dollars on 2019-04-23
+Opening positions:
+We bought 768 shares of underlying stock at the price of 3181.1779999999994 foreign dollars on 2019-12-12
+We sold 768 shares of ADR at the price of 29.26071 on 2019-12-13
+Closing positions:
+We sold 768 shares of underlying stock at the price of 3202.794 foreign dollars on 2019-12-13
+We bought 768 shares of ADR at the price of 29.339309999999994 on 2019-12-16
+
+Hyperparameters
+
+(60.0, 2.0, 0.0, 2.5)
