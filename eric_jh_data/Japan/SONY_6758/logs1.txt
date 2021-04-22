@@ -1,6 +1,6 @@
-The return of ADR_underlying pairs trading for SONY_6758 from Japan is -6.33%
+The return of ADR_underlying pairs trading for SONY_6758 from Japan is -25.18%
 The hit ratio is 43.01%
-The max drawdown is 7.26%
+The max drawdown is 28.48%
 Opening positions:
 We bought 1219 shares of underlying stock at the price of 3016.0129999999995 foreign dollars on 2016-01-05
 We sold 1219 shares of ADR at the price of 24.21576 on 2016-01-06
@@ -308,11 +308,11 @@ Closing positions:
 We sold 2529 shares of underlying stock at the price of 5729.265 foreign dollars on 2018-10-29
 We bought 2529 shares of ADR at the price of 54.053999999999995 on 2018-10-30
 Opening positions:
-We bought 4226 shares of underlying stock at the price of 6236.23 foreign dollars on 2018-10-30
-We sold 4226 shares of ADR at the price of 54.22572 on 2018-10-31
+We bought 4123 shares of underlying stock at the price of 6236.23 foreign dollars on 2018-10-30
+We sold 4123 shares of ADR at the price of 54.22572 on 2018-10-31
 Closing positions:
-We sold 4226 shares of underlying stock at the price of 6243.75 foreign dollars on 2018-10-31
-We bought 4226 shares of ADR at the price of 55.545489999999994 on 2018-11-01
+We sold 4123 shares of underlying stock at the price of 6243.75 foreign dollars on 2018-10-31
+We bought 4123 shares of ADR at the price of 55.545489999999994 on 2018-11-01
 Opening positions:
 We bought 2491 shares of underlying stock at the price of 6286.28 foreign dollars on 2018-11-07
 We sold 2491 shares of ADR at the price of 54.885059999999996 on 2018-11-08
@@ -434,11 +434,11 @@ Closing positions:
 We sold 2378 shares of underlying stock at the price of 6726.267 foreign dollars on 2020-03-03
 We bought 2378 shares of ADR at the price of 63.843779999999995 on 2020-03-04
 Opening positions:
-We bought 3040 shares of underlying stock at the price of 6917.910999999999 foreign dollars on 2020-03-04
-We sold 3040 shares of ADR at the price of 63.78615 on 2020-03-05
+We bought 3038 shares of underlying stock at the price of 6917.910999999999 foreign dollars on 2020-03-04
+We sold 3038 shares of ADR at the price of 63.78615 on 2020-03-05
 Closing positions:
-We sold 3040 shares of underlying stock at the price of 6789.204 foreign dollars on 2020-03-05
-We bought 3040 shares of ADR at the price of 62.86279999999999 on 2020-03-06
+We sold 3038 shares of underlying stock at the price of 6789.204 foreign dollars on 2020-03-05
+We bought 3038 shares of ADR at the price of 62.86279999999999 on 2020-03-06
 Opening positions:
 We bought 3390 shares of underlying stock at the price of 5805.799999999999 foreign dollars on 2020-03-13
 We sold 3390 shares of ADR at the price of 51.948 on 2020-03-16
@@ -452,11 +452,11 @@ Closing positions:
 We sold 2726 shares of underlying stock at the price of 6126.867 foreign dollars on 2020-03-18
 We bought 2726 shares of ADR at the price of 54.91485999999999 on 2020-03-19
 Opening positions:
-We bought 3418 shares of underlying stock at the price of 5799.793999999999 foreign dollars on 2020-03-19
-We sold 3418 shares of ADR at the price of 53.88606 on 2020-03-23
+We bought 3360 shares of underlying stock at the price of 5799.793999999999 foreign dollars on 2020-03-19
+We sold 3360 shares of ADR at the price of 53.88606 on 2020-03-23
 Closing positions:
-We sold 3418 shares of underlying stock at the price of 6393.6 foreign dollars on 2020-03-25
-We bought 3418 shares of ADR at the price of 58.71865999999999 on 2020-03-26
+We sold 3360 shares of underlying stock at the price of 6393.6 foreign dollars on 2020-03-25
+We bought 3360 shares of ADR at the price of 58.71865999999999 on 2020-03-26
 Opening positions:
 We bought 2607 shares of underlying stock at the price of 6606.599999999999 foreign dollars on 2020-03-26
 We sold 2607 shares of ADR at the price of 59.5404 on 2020-03-27
@@ -482,11 +482,11 @@ Closing positions:
 We sold 2253 shares of underlying stock at the price of 7142.85 foreign dollars on 2020-06-04
 We bought 2253 shares of ADR at the price of 66.64657999999999 on 2020-06-05
 Opening positions:
-We bought 2669 shares of underlying stock at the price of 7468.460999999999 foreign dollars on 2020-06-15
-We sold 2669 shares of ADR at the price of 70.41950999999999 on 2020-06-16
+We bought 2645 shares of underlying stock at the price of 7468.460999999999 foreign dollars on 2020-06-15
+We sold 2645 shares of ADR at the price of 70.41950999999999 on 2020-06-16
 Closing positions:
-We sold 2669 shares of underlying stock at the price of 7592.4 foreign dollars on 2020-06-16
-We bought 2669 shares of ADR at the price of 71.03095999999998 on 2020-06-17
+We sold 2645 shares of underlying stock at the price of 7592.4 foreign dollars on 2020-06-16
+We bought 2645 shares of ADR at the price of 71.03095999999998 on 2020-06-17
 Opening positions:
 We bought 1212 shares of underlying stock at the price of 7563.556 foreign dollars on 2020-07-01
 We sold 1212 shares of ADR at the price of 70.4295 on 2020-07-02
@@ -530,11 +530,11 @@ Closing positions:
 We sold 1184 shares of underlying stock at the price of 8691.3 foreign dollars on 2020-10-29
 We bought 1184 shares of ADR at the price of 83.33324999999999 on 2020-10-30
 Opening positions:
-We bought 2856 shares of underlying stock at the price of 8939.930999999999 foreign dollars on 2020-11-02
-We sold 2856 shares of ADR at the price of 85.29462 on 2020-11-04
+We bought 2233 shares of underlying stock at the price of 8939.930999999999 foreign dollars on 2020-11-02
+We sold 2233 shares of ADR at the price of 85.29462 on 2020-11-04
 Closing positions:
-We sold 2856 shares of underlying stock at the price of 8991.0 foreign dollars on 2020-11-09
-We bought 2856 shares of ADR at the price of 86.13604999999998 on 2020-11-10
+We sold 2233 shares of underlying stock at the price of 8991.0 foreign dollars on 2020-11-09
+We bought 2233 shares of ADR at the price of 86.13604999999998 on 2020-11-10
 Opening positions:
 We bought 1966 shares of underlying stock at the price of 8946.937999999998 foreign dollars on 2020-11-10
 We sold 1966 shares of ADR at the price of 86.39352000000001 on 2020-11-11
