@@ -1,56 +1,28 @@
-Country: China, ADR_Stock: BGNE_6160, HPs: (100, 1, -0.5, 3.5), Return: 25.12%
-Country: Australia, ADR_Stock: IMMP_IMM, HPs: (100, 1.5, 0.5, 3.5), Return: 1.82%
-Country: Australia, ADR_Stock: PLL_PLL, HPs: (60, 2, 0.5, 3), Return: 25.13%
-Country: Australia, ADR_Stock: IMRN_IMC, HPs: (60, 1, 0, 2.5), Return: 1.08%
-Country: Australia, ADR_Stock: ATHE_ATH, HPs: (100, 1, -0.5, 2.5), Return: 0.51%
-Country: Australia, ADR_Stock: GENE_GTG, HPs: (100, 1.5, -0.5, 3.5), Return: 5.94%
-Country: Australia, ADR_Stock: KZIA_KZA, HPs: (100, 1, -0.5, 3.5), Return: 1.72%
-Country: Australia, ADR_Stock: MESO_MSB, HPs: (30, 1, -0.5, 3.5), Return: 3.15%
-Country: China, ADR_Stock: HNP_902, HPs: (100, 1, 0.5, 2.5), Return: 0.71%
-Country: Australia, ADR_Stock: JHX_JHX, HPs: (100, 1, 0, 3.5), Return: 0.22%
-Country: Australia, ADR_Stock: WBK_WBC, HPs: (100, 1.5, 0.5, 3.5), Return: 1.91%
-Country: China, ADR_Stock: CEA_670, HPs: (100, 1, -0.5, 2.5), Return: 0.27%
-Country: China, ADR_Stock: SHI_338, HPs: (30, 1, -0.5, 3), Return: 0.47%
-Country: China, ADR_Stock: PTR_857, HPs: (30, 2, -0.5, 3), Return: 0.44%
-Country: China, ADR_Stock: LFC_2628, HPs: (100, 2, -0.5, 3), Return: 0.64%
-Country: China, ADR_Stock: ACH_2600, HPs: (30, 1.5, -0.5, 2.5), Return: 0.42%
-Country: China, ADR_Stock: SNP_386, HPs: (60, 1, 0, 2.5), Return: 2.37%
-Country: China, ADR_Stock: ZNH_1055, HPs: (100, 1, 0.5, 3), Return: 0.56%
-Country: Japan, ADR_Stock: CAJ_7751, HPs: (60, 1.5, -0.5, 2.5), Return: 0.14%
-Country: Japan, ADR_Stock: HMC_7267, HPs: (60, 2, 0.5, 2.5), Return: 1.58%
-Country: Japan, ADR_Stock: IX_8591, HPs: (30, 2, -0.5, 3.5), Return: 1.04%
-Country: Japan, ADR_Stock: MFG_8411, HPs: (60, 1.5, -0.5, 3.5), Return: 0.4%
-Country: Japan, ADR_Stock: NMR_8604, HPs: (60, 1.5, -0.5, 2.5), Return: 0.23%
-Country: Japan, ADR_Stock: MUFG_8306, HPs: (100, 1.5, -0.5, 2.5), Return: 1.3%
-Country: Japan, ADR_Stock: SMFG_8316, HPs: (60, 1.5, 0, 2.5), Return: 1.93%
-Country: Japan, ADR_Stock: TAK_4502, HPs: (60, 1, 0, 2.5), Return: 8.7%
-Country: Japan, ADR_Stock: SONY_6758, HPs: (60, 2, 0.5, 3), Return: 2.17%
-Country: Japan, ADR_Stock: TM_7203, HPs: (30, 2, 0.5, 2.5), Return: 5.01%
-Country: Australia, ADR_Stock: IMMP_IMM, HPs: (100, 1, 0.5, 3.5), Return: 72.25%, Hit Ratio: 77.27%, Max Drawdown: 3.64%
-Country: Australia, ADR_Stock: IMRN_IMC, HPs: (60, 1, 0, 2.5), Return: 15.49%, Hit Ratio: 77.27%, Max Drawdown: 0.66%
-Country: Australia, ADR_Stock: ATHE_ATH, HPs: (30, 1, 0.5, 3), Return: 8.2%, Hit Ratio: 65.82%, Max Drawdown: 0.75%
-Country: Australia, ADR_Stock: GENE_GTG, HPs: (30, 1, 0.5, 3.5), Return: 16.48%, Hit Ratio: 74.26%, Max Drawdown: 1.03%
-Country: Australia, ADR_Stock: PLL_PLL, HPs: (100, 1.5, 0.5, 3), Return: 30.84%, Hit Ratio: 82.61%, Max Drawdown: 3.52%
-Country: Australia, ADR_Stock: KZIA_KZA, HPs: (60, 1, -0.5, 3.5), Return: 21.19%, Hit Ratio: 80.0%, Max Drawdown: 1.43%
-Country: Australia, ADR_Stock: JHX_JHX, HPs: (100, 1, 0, 3.5), Return: 17.53%, Hit Ratio: 46.09%, Max Drawdown: 9.21%
-Country: Australia, ADR_Stock: MESO_MSB, HPs: (30, 1, 0.5, 3.5), Return: 123.24%, Hit Ratio: 73.91%, Max Drawdown: 24.33%
-Country: China, ADR_Stock: BGNE_6160, HPs: (30, 1, -0.5, 3.5), Return: 80.89%, Hit Ratio: 70.73%, Max Drawdown: 7.65%
-Country: Australia, ADR_Stock: WBK_WBC, HPs: (30, 2, 0.5, 3.5), Return: 19.3%, Hit Ratio: 47.06%, Max Drawdown: 11.58%
-Country: China, ADR_Stock: ACH_2600, HPs: (30, 1.5, -0.5, 2.5), Return: 36.56%, Hit Ratio: 64.1%, Max Drawdown: 6.97%
-Country: China, ADR_Stock: CEA_670, HPs: (100, 1, -0.5, 3.5), Return: 27.2%, Hit Ratio: 61.4%, Max Drawdown: 5.31%
-Country: China, ADR_Stock: HNP_902, HPs: (30, 1, 0.5, 3.5), Return: 52.44%, Hit Ratio: 56.67%, Max Drawdown: 8.12%
+Country: China, ADR_Stock: BGNE_6160, HPs: (100, 1, -0.5, 3.5), Return: 67.69%, Hit Ratio: 73.53%, Max Drawdown: 7.55%
+Country: Australia, ADR_Stock: IMMP_IMM, HPs: (100, 1, 0.5, 3.5), Return: 38.08%, Hit Ratio: 77.27%, Max Drawdown: 1.91%
+Country: Australia, ADR_Stock: PLL_PLL, HPs: (60, 2, 0.5, 3), Return: 28.98%, Hit Ratio: 76.92%, Max Drawdown: 3.53%
+Country: Australia, ADR_Stock: IMRN_IMC, HPs: (60, 1, 0, 2.5), Return: 8.36%, Hit Ratio: 77.27%, Max Drawdown: 0.53%
+Country: Australia, ADR_Stock: ATHE_ATH, HPs: (30, 1, 0.5, 3), Return: 5.08%, Hit Ratio: 65.82%, Max Drawdown: 0.74%
+Country: Australia, ADR_Stock: GENE_GTG, HPs: (30, 1, 0.5, 3.5), Return: 8.24%, Hit Ratio: 74.26%, Max Drawdown: 0.53%
+Country: Australia, ADR_Stock: KZIA_KZA, HPs: (60, 1, -0.5, 3.5), Return: 13.05%, Hit Ratio: 80.0%, Max Drawdown: 0.77%
+Country: Australia, ADR_Stock: MESO_MSB, HPs: (30, 1, -0.5, 3.5), Return: 80.5%, Hit Ratio: 79.38%, Max Drawdown: 24.59%
+Country: China, ADR_Stock: HNP_902, HPs: (100, 1, 0.5, 2.5), Return: 34.82%, Hit Ratio: 54.69%, Max Drawdown: 4.56%
+Country: China, ADR_Stock: CEA_670, HPs: (100, 1, -0.5, 3.5), Return: 13.5%, Hit Ratio: 61.4%, Max Drawdown: 2.82%
+Country: Australia, ADR_Stock: WBK_WBC, HPs: (30, 2, 0.5, 3.5), Return: 19.69%, Hit Ratio: 47.06%, Max Drawdown: 11.0%
+Country: Australia, ADR_Stock: JHX_JHX, HPs: (100, 1, 0, 3.5), Return: 10.93%, Hit Ratio: 46.09%, Max Drawdown: 4.68%
+Country: China, ADR_Stock: ACH_2600, HPs: (30, 1.5, -0.5, 2.5), Return: 20.77%, Hit Ratio: 64.1%, Max Drawdown: 4.03%
 Country: China, ADR_Stock: LFC_2628, HPs: (60, 2, -0.5, 2.5), Return: 3.14%, Hit Ratio: 45.0%, Max Drawdown: 10.2%
-Country: China, ADR_Stock: PTR_857, HPs: (100, 1.5, -0.5, 2.5), Return: 3.25%, Hit Ratio: 60.66%, Max Drawdown: 23.14%
-Country: China, ADR_Stock: SHI_338, HPs: (30, 1, -0.5, 3), Return: 39.57%, Hit Ratio: 56.12%, Max Drawdown: 10.57%
+Country: China, ADR_Stock: PTR_857, HPs: (100, 1.5, -0.5, 2.5), Return: 2.99%, Hit Ratio: 60.66%, Max Drawdown: 23.14%
+Country: China, ADR_Stock: SHI_338, HPs: (30, 1, -0.5, 3), Return: 23.21%, Hit Ratio: 56.12%, Max Drawdown: 7.93%
 Country: China, ADR_Stock: SNP_386, HPs: (60, 1, 0.5, 2.5), Return: 15.43%, Hit Ratio: 53.7%, Max Drawdown: 24.23%
-Country: China, ADR_Stock: ZNH_1055, HPs: (100, 1, 0.5, 3), Return: 34.27%, Hit Ratio: 56.58%, Max Drawdown: 15.46%
-Country: Japan, ADR_Stock: CAJ_7751, HPs: (100, 1.5, -0.5, 3), Return: 5.75%, Hit Ratio: 50.88%, Max Drawdown: 18.94%
+Country: China, ADR_Stock: ZNH_1055, HPs: (100, 1, 0.5, 3), Return: 24.15%, Hit Ratio: 56.58%, Max Drawdown: 10.81%
+Country: Japan, ADR_Stock: CAJ_7751, HPs: (100, 1.5, -0.5, 3), Return: 5.74%, Hit Ratio: 50.88%, Max Drawdown: 18.94%
 Country: Japan, ADR_Stock: HMC_7267, HPs: (60, 2, 0.5, 2.5), Return: 13.01%, Hit Ratio: 50.0%, Max Drawdown: 8.0%
-Country: Japan, ADR_Stock: IX_8591, HPs: (30, 2, -0.5, 3.5), Return: 48.77%, Hit Ratio: 54.29%, Max Drawdown: 13.38%
-Country: Japan, ADR_Stock: MFG_8411, HPs: (60, 1.5, -0.5, 3.5), Return: 33.25%, Hit Ratio: 58.18%, Max Drawdown: 11.07%
+Country: Japan, ADR_Stock: IX_8591, HPs: (30, 2, -0.5, 3.5), Return: 38.85%, Hit Ratio: 54.29%, Max Drawdown: 12.37%
+Country: Japan, ADR_Stock: MFG_8411, HPs: (60, 1.5, -0.5, 3.5), Return: 20.16%, Hit Ratio: 58.18%, Max Drawdown: 7.39%
 Country: Japan, ADR_Stock: MUFG_8306, HPs: (100, 1.5, -0.5, 2.5), Return: 30.1%, Hit Ratio: 48.33%, Max Drawdown: 9.95%
-Country: Japan, ADR_Stock: NMR_8604, HPs: (60, 1.5, -0.5, 2.5), Return: 13.19%, Hit Ratio: 47.54%, Max Drawdown: 17.08%
-Country: Japan, ADR_Stock: SMFG_8316, HPs: (60, 1.5, 0, 3), Return: 26.43%, Hit Ratio: 55.56%, Max Drawdown: 18.94%
+Country: Japan, ADR_Stock: NMR_8604, HPs: (60, 1.5, -0.5, 2.5), Return: 10.95%, Hit Ratio: 47.54%, Max Drawdown: 14.93%
+Country: Japan, ADR_Stock: SMFG_8316, HPs: (60, 1.5, 0, 3), Return: 26.82%, Hit Ratio: 55.56%, Max Drawdown: 18.93%
 Country: Japan, ADR_Stock: SONY_6758, HPs: (60, 2, 0.5, 3), Return: 19.06%, Hit Ratio: 54.55%, Max Drawdown: 9.48%
-Country: Japan, ADR_Stock: TAK_4502, HPs: (60, 1.5, 0, 2.5), Return: 24.51%, Hit Ratio: 45.95%, Max Drawdown: 6.96%
+Country: Japan, ADR_Stock: TAK_4502, HPs: (60, 1.5, 0, 2.5), Return: 26.66%, Hit Ratio: 45.95%, Max Drawdown: 5.62%
 Country: Japan, ADR_Stock: TM_7203, HPs: (30, 2, 0.5, 2.5), Return: 24.25%, Hit Ratio: 80.0%, Max Drawdown: 3.47%

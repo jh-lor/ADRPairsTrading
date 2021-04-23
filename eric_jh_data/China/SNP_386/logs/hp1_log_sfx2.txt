@@ -1,16 +1,16 @@
 (Lookback, Entry, Exit, Stop-loss)
-Best HPs: (100, 1, 0, 3.5), Return: 49.66%, Hit Ratio: 67.44%, Max Drawdown: 11.08%
-(100, 1, 0, 3.5): Return: 49.66%, Hit Ratio: 67.44%, Max Drawdown: 11.08%
-(100, 1, 0.5, 3.5): Return: 48.04%, Hit Ratio: 57.61%, Max Drawdown: 14.26%
-(100, 1, 0, 3): Return: 46.73%, Hit Ratio: 65.88%, Max Drawdown: 11.08%
-(100, 1, 0.5, 3): Return: 45.14%, Hit Ratio: 56.04%, Max Drawdown: 14.64%
-(100, 1, 0, 2.5): Return: 41.79%, Hit Ratio: 65.06%, Max Drawdown: 10.96%
-(100, 1, 0.5, 2.5): Return: 41.0%, Hit Ratio: 54.55%, Max Drawdown: 13.69%
-(100, 1, -0.5, 3): Return: 36.87%, Hit Ratio: 57.89%, Max Drawdown: 11.94%
-(100, 1, -0.5, 3.5): Return: 36.05%, Hit Ratio: 56.58%, Max Drawdown: 11.94%
-(60, 1, 0.5, 2.5): Return: 33.84%, Hit Ratio: 56.52%, Max Drawdown: 11.35%
-(60, 1, 0, 2.5): Return: 31.79%, Hit Ratio: 61.18%, Max Drawdown: 11.45%
-(100, 1, -0.5, 2.5): Return: 29.1%, Hit Ratio: 57.33%, Max Drawdown: 11.94%
+Best HPs: (100, 1, 0, 3.5), Return: 49.17%, Hit Ratio: 67.44%, Max Drawdown: 11.08%
+(100, 1, 0, 3.5): Return: 49.17%, Hit Ratio: 67.44%, Max Drawdown: 11.08%
+(100, 1, 0.5, 3.5): Return: 47.49%, Hit Ratio: 57.61%, Max Drawdown: 14.26%
+(100, 1, 0, 3): Return: 46.31%, Hit Ratio: 65.88%, Max Drawdown: 11.08%
+(100, 1, 0.5, 3): Return: 44.68%, Hit Ratio: 56.04%, Max Drawdown: 14.64%
+(100, 1, 0, 2.5): Return: 41.53%, Hit Ratio: 65.06%, Max Drawdown: 10.96%
+(100, 1, 0.5, 2.5): Return: 40.72%, Hit Ratio: 54.55%, Max Drawdown: 13.69%
+(100, 1, -0.5, 3): Return: 36.71%, Hit Ratio: 57.89%, Max Drawdown: 11.94%
+(100, 1, -0.5, 3.5): Return: 35.91%, Hit Ratio: 56.58%, Max Drawdown: 11.94%
+(60, 1, 0.5, 2.5): Return: 33.65%, Hit Ratio: 56.52%, Max Drawdown: 11.35%
+(60, 1, 0, 2.5): Return: 31.7%, Hit Ratio: 61.18%, Max Drawdown: 11.45%
+(100, 1, -0.5, 2.5): Return: 29.09%, Hit Ratio: 57.33%, Max Drawdown: 11.94%
 (60, 1, 0, 3.5): Return: 24.41%, Hit Ratio: 61.54%, Max Drawdown: 12.22%
 (60, 1, 0.5, 3.5): Return: 23.7%, Hit Ratio: 55.56%, Max Drawdown: 15.87%
 (60, 1, 0, 3): Return: 23.04%, Hit Ratio: 60.92%, Max Drawdown: 14.47%
