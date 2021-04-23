@@ -81,6 +81,8 @@ def data_processing(country, adr, fx_dict, forex_bps = 10, adjust_forex_expense 
         merged_df.loc[:,merged_df.columns.str.contains("bid")] *= forex_bid_multiplier
         merged_df.loc[:,merged_df.columns.str.contains("ask")] *= forex_ask_multiplier
         
+    merged_df["adr_volume"] *= 100
+    
     return merged_df
 
 def calc_max_drawdown(portfolio_values, method = "percentage"):
