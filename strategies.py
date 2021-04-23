@@ -97,8 +97,8 @@ def pairs_trade_v1(merged_df, lookback = 100, cash = 250000, entry = 1, exit = 0
                     portfolio_value_before_entering = cash
                     # Allow ourselves to trade 20% of ADT volume over the past 5 trading days
                     # We take the median to make this estimate more robust to extreme values
-                    adr_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["adr_volume"].median()/row["adr_num_per_unit"])
-                    stock_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
+                    adr_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["adr_volume"].median()/row["adr_num_per_unit"])
+                    stock_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
                     units = int(min(cash/row['adr_close_per_unit'],
                                     cash/(row['stock_close_per_unit']/merged_df.loc[index+1,'avg_non_us_before']), 
                                     adr_volume, 
@@ -273,8 +273,8 @@ def pairs_trade_v2(merged_df, lookback = 100, cash = 250000, entry = 1, exit = 0
                     portfolio_value_before_entering = cash
                     # Allow ourselves to trade 20% of ADT volume over the past 5 trading days
                     # We take the median to make this estimate more robust to extreme values
-                    adr_volume = 0.2*(merged_df.loc[index-volume_lookback:index - 1,:]["adr_volume"].median()/row["adr_num_per_unit"])
-                    stock_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
+                    adr_volume = 0.1*(merged_df.loc[index-volume_lookback:index - 1,:]["adr_volume"].median()/row["adr_num_per_unit"])
+                    stock_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
                     units = int(min(cash/merged_df.loc[index-1,'adr_close_per_unit'],
                                     cash/(row['stock_close_per_unit']/row['avg_us_before']), 
                                     adr_volume, 
@@ -458,8 +458,8 @@ def pairs_trade_v3a(merged_df, lookback = 100, cash = 250000, entry_cond1_val = 
                     portfolio_value_before_entering = cash
                     # Allow ourselves to trade 20% of ADT volume over the past 5 trading days
                     # We take the median to make this estimate more robust to extreme values
-                    adr_volume = 0.2*(merged_df.loc[index-volume_lookback:index - 1,:]["adr_volume"].median()/row["adr_num_per_unit"])
-                    stock_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
+                    adr_volume = 0.1*(merged_df.loc[index-volume_lookback:index - 1,:]["adr_volume"].median()/row["adr_num_per_unit"])
+                    stock_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
                     units = int(min(cash/row['adr_close_per_unit'],
                                     cash/(row['stock_close_per_unit']/merged_df.loc[index+1,'avg_non_us_before']), 
                                     adr_volume, 
@@ -548,8 +548,8 @@ def pairs_trade_v3a(merged_df, lookback = 100, cash = 250000, entry_cond1_val = 
                     portfolio_value_before_entering = cash
                     # Allow ourselves to trade 20% of ADT volume over the past 5 trading days
                     # We take the median to make this estimate more robust to extreme values
-                    adr_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["adr_volume"].median()/row["adr_num_per_unit"])
-                    stock_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
+                    adr_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["adr_volume"].median()/row["adr_num_per_unit"])
+                    stock_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
                     units = int(min(cash/merged_df.loc[index-1,'adr_close_per_unit'],
                                     cash/(row['stock_close_per_unit']/row['avg_us_before']), 
                                     adr_volume, 
@@ -732,8 +732,8 @@ def pairs_trade_v3b(merged_df, lookback = 100, cash = 250000, entry_cond1_val = 
                         portfolio_value_before_entering = cash
                         # Allow ourselves to trade 20% of ADT volume over the past 5 trading days
                         # We take the median to make this estimate more robust to extreme values
-                        adr_volume = 0.2*(merged_df.loc[index-volume_lookback:index - 1,:]["adr_volume"].median()/row["adr_num_per_unit"])
-                        stock_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
+                        adr_volume = 0.1*(merged_df.loc[index-volume_lookback:index - 1,:]["adr_volume"].median()/row["adr_num_per_unit"])
+                        stock_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
                         units = int(min(cash/row['adr_close_per_unit'],
                                         cash/(row['stock_close_per_unit']/merged_df.loc[index+1,'avg_non_us_before']), 
                                         adr_volume, 
@@ -825,8 +825,8 @@ def pairs_trade_v3b(merged_df, lookback = 100, cash = 250000, entry_cond1_val = 
                         portfolio_value_before_entering = cash
                         # Allow ourselves to trade 20% of ADT volume over the past 5 trading days
                         # We take the median to make this estimate more robust to extreme values
-                        adr_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["adr_volume"].median()/row["adr_num_per_unit"])
-                        stock_volume = 0.2*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
+                        adr_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["adr_volume"].median()/row["adr_num_per_unit"])
+                        stock_volume = 0.1*(merged_df.loc[index-volume_lookback+1:index,:]["stock_volume"].median()/row["stock_num_per_unit"])
                         units = int(min(cash/merged_df.loc[index-1,'adr_close_per_unit'],
                                         cash/(row['stock_close_per_unit']/row['avg_us_before']), 
                                         adr_volume, 
