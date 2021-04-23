@@ -1,24 +1,24 @@
 Country: China
 ADR: LFC_2628
-Return: 0.18%
+Return: 4.96%
 Hit Ratio: 100.0%
-Max Drawdown: 0.07%
+Max Drawdown: 0.75%
 
 Trades
 
 Opening positions:
-We sold 784 shares of ADR at the price of 13.56642 on 2019-03-07
-We bought 3920 shares of underlying stock at the price of 20.6206 foreign dollars on 2019-03-07
+We sold 17717 shares of ADR at the price of 13.56642 on 2019-03-07
+We bought 88585 shares of underlying stock at the price of 20.6206 foreign dollars on 2019-03-07
 Closing positions:
-We bought 784 shares of ADR at the price of 13.303289999999997 on 2019-03-11
-We sold 3920 shares of underlying stock at the price of 21.0789 foreign dollars on 2019-03-11
+We bought 17717 shares of ADR at the price of 13.303289999999997 on 2019-03-11
+We sold 88585 shares of underlying stock at the price of 21.0789 foreign dollars on 2019-03-11
 Opening positions:
-We sold 772 shares of ADR at the price of 12.54744 on 2020-02-13
-We bought 3860 shares of underlying stock at the price of 19.399379999999997 foreign dollars on 2020-02-13
+We sold 20149 shares of ADR at the price of 12.54744 on 2020-02-13
+We bought 100745 shares of underlying stock at the price of 19.399379999999997 foreign dollars on 2020-02-13
 Closing positions:
-We bought 772 shares of ADR at the price of 12.552539999999997 on 2020-02-19
-We sold 3860 shares of underlying stock at the price of 19.440540000000002 foreign dollars on 2020-02-19
+We bought 20149 shares of ADR at the price of 12.372359999999999 on 2020-02-18
+We sold 100745 shares of underlying stock at the price of 19.34064 foreign dollars on 2020-02-18
 
 Hyperparameters
 
-(100.0, 2.0, -0.5, 2.5)
+(100.0, 2.0, 0.0, 2.5)

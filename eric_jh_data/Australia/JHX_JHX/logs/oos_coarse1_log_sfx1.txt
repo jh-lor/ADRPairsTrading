@@ -2,28 +2,28 @@ Country: Australia
 ADR: JHX_JHX
 Return: -0.0%
 Hit Ratio: 33.33%
-Max Drawdown: 0.02%
+Max Drawdown: 0.79%
 
 Trades
 
 Opening positions:
-We bought 12 shares of underlying stock at the price of 18.54853 foreign dollars on 2019-07-09
-We sold 12 shares of ADR at the price of 13.046940000000001 on 2019-07-10
+We bought 600 shares of underlying stock at the price of 18.54853 foreign dollars on 2019-07-09
+We sold 600 shares of ADR at the price of 13.046940000000001 on 2019-07-10
 Closing positions:
-We sold 12 shares of underlying stock at the price of 18.59139 foreign dollars on 2019-07-11
-We bought 12 shares of ADR at the price of 13.193179999999998 on 2019-07-12
+We sold 600 shares of underlying stock at the price of 18.59139 foreign dollars on 2019-07-11
+We bought 600 shares of ADR at the price of 13.193179999999998 on 2019-07-12
 Opening positions:
-We bought 33 shares of underlying stock at the price of 18.978959999999997 foreign dollars on 2019-08-07
-We sold 33 shares of ADR at the price of 12.957030000000001 on 2019-08-08
+We bought 1650 shares of underlying stock at the price of 18.978959999999997 foreign dollars on 2019-08-07
+We sold 1650 shares of ADR at the price of 12.957030000000001 on 2019-08-08
 Closing positions:
-We sold 33 shares of underlying stock at the price of 21.978 foreign dollars on 2019-08-12
-We bought 33 shares of ADR at the price of 15.055039999999998 on 2019-08-13
+We sold 1650 shares of underlying stock at the price of 21.978 foreign dollars on 2019-08-12
+We bought 1650 shares of ADR at the price of 15.055039999999998 on 2019-08-13
 Opening positions:
-We bought 11 shares of underlying stock at the price of 27.37735 foreign dollars on 2019-11-07
-We sold 11 shares of ADR at the price of 19.07091 on 2019-11-08
+We bought 570 shares of underlying stock at the price of 27.37735 foreign dollars on 2019-11-07
+We sold 570 shares of ADR at the price of 19.07091 on 2019-11-08
 Closing positions:
-We sold 11 shares of underlying stock at the price of 28.911060000000003 foreign dollars on 2019-11-11
-We bought 11 shares of ADR at the price of 19.759739999999997 on 2019-11-12
+We sold 570 shares of underlying stock at the price of 28.911060000000003 foreign dollars on 2019-11-11
+We bought 570 shares of ADR at the price of 19.759739999999997 on 2019-11-12
 
 Hyperparameters
 
