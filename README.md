@@ -1,7 +1,7 @@
 # ADRPairsTrading
 
 ## Data Pulling and Engineering
-- Stock and Forex Data used in backtesting is stored in eric/jh_data.
+- `eric/jh_data` contains the stock and forex data used in backtesting.
 - `eric_jh_data/pull_data.ipynb` is used to extract historical stock and forex data of interest.
 - `eric_jh_data/filter_forex.ipynb` is used to filter the forex data pulled, for backtesting.
 
