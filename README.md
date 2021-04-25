@@ -12,3 +12,5 @@
 - `final_strategy.ipynb` selects the optimal variant, selects the pairs we wish to trade, defines the strategy that trades multiple pairs at once, incorporates global risk measures for the entire portfolio, conducts hyperparameter tuning for portfolio allocation, and reports final results. 
 
 ## Live Trading
+- `Live Trading Implementation.ipynb` updates data, decides what trades to do and places trades.
+- `Live-trading-monitoring.ipynb` contains useful code

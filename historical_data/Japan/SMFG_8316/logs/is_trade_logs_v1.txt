@@ -1,0 +1,48 @@
+Country: Japan
+ADR: SMFG_8316
+Return: 0.33%
+Hit Ratio: 33.33%
+Max Drawdown: 8.21%
+
+Trades
+
+Opening positions:
+We bought 8756 shares of underlying stock at the price of 2927.9249999999997 foreign dollars on 2016-07-11
+We sold 43780 shares of ADR at the price of 5.87412 on 2016-07-12
+Closing positions:
+We sold 8756 shares of underlying stock at the price of 3136.86 foreign dollars on 2016-07-12
+We bought 43780 shares of ADR at the price of 6.005999999999999 on 2016-07-13
+Opening positions:
+We bought 7178 shares of underlying stock at the price of 3883.8799999999997 foreign dollars on 2016-11-14
+We sold 35890 shares of ADR at the price of 7.302689999999999 on 2016-11-15
+Closing positions:
+We sold 7178 shares of underlying stock at the price of 4094.901 foreign dollars on 2016-11-16
+We bought 35890 shares of ADR at the price of 7.547539999999999 on 2016-11-17
+Opening positions:
+We bought 7084 shares of underlying stock at the price of 4334.33 foreign dollars on 2016-11-30
+We sold 35420 shares of ADR at the price of 7.5924 on 2016-12-01
+Closing positions:
+We sold 7084 shares of underlying stock at the price of 4408.587 foreign dollars on 2016-12-02
+We bought 35420 shares of ADR at the price of 7.857849999999999 on 2016-12-05
+Opening positions:
+We bought 6664 shares of underlying stock at the price of 4431.427 foreign dollars on 2017-06-28
+We sold 33320 shares of ADR at the price of 7.85214 on 2017-06-29
+Closing positions:
+We sold 6664 shares of underlying stock at the price of 4345.65 foreign dollars on 2017-07-11
+We bought 33320 shares of ADR at the price of 7.69769 on 2017-07-12
+Opening positions:
+We bought 6809 shares of underlying stock at the price of 4304.299999999999 foreign dollars on 2018-10-25
+We sold 34045 shares of ADR at the price of 7.56243 on 2018-10-26
+Closing positions:
+We sold 6809 shares of underlying stock at the price of 4228.767 foreign dollars on 2018-10-29
+We bought 34045 shares of ADR at the price of 7.597589999999999 on 2018-10-30
+Opening positions:
+We bought 9883 shares of underlying stock at the price of 2918.9159999999997 foreign dollars on 2020-03-24
+We sold 49415 shares of ADR at the price of 5.15484 on 2020-03-25
+Closing positions:
+We sold 9883 shares of underlying stock at the price of 2878.119 foreign dollars on 2020-03-25
+We bought 49415 shares of ADR at the price of 5.185179999999999 on 2020-03-26
+
+Hyperparameters
+
+(100.0, 2.0, 0.0, 2.5)
