@@ -7,8 +7,8 @@ def get_ratio(country, adr, fx_dict):
     """
     Convert stock price to USD and estimate the number of stocks each ADR share represents.
     """
-    adr_path = f'eric_jh_data/{country}/{adr}/adr.csv'
-    stock_path =  f'eric_jh_data/{country}/{adr}/underlying.csv'
+    adr_path = f'historical_data/{country}/{adr}/adr.csv'
+    stock_path =  f'historical_data/{country}/{adr}/underlying.csv'
     fx_path = fx_dict[country][0]
     fx_type =  fx_dict[country][1]
 
@@ -36,9 +36,9 @@ def data_processing(country, adr, fx_dict, forex_bps = 10, adjust_forex_expense 
     """
     Return a consolidated dataframe for each adr-stock pair.
     """
-    adr_path = f'eric_jh_data/{country}/{adr}/adr.csv'
-    stock_path =  f'eric_jh_data/{country}/{adr}/underlying.csv'
-    ratio_path = f'eric_jh_data/{country}/{adr}/ratio.csv'
+    adr_path = f'historical_data/{country}/{adr}/adr.csv'
+    stock_path =  f'historical_data/{country}/{adr}/underlying.csv'
+    ratio_path = f'historical_data/{country}/{adr}/ratio.csv'
     fx_path = fx_dict[country][0]
     fx_type =  fx_dict[country][1]
 
@@ -149,7 +149,7 @@ def report_and_store_statistics(pairs_trade_strategy, filename, list_pairs, fx_d
         else:
             print("Country: {}, ADR_Stock: {}, Return: {}%, Hit Ratio: None, Max Drawdown: 0.00%".format(country, adr, ret))
         logs = logs + trade_records 
-        fname = f'eric_jh_data/{country}/{adr}/logs/' + filename
+        fname = f'historical_data/{country}/{adr}/logs/' + filename
         f = open(fname, 'w')
         f.writelines(logs)
         f.close()

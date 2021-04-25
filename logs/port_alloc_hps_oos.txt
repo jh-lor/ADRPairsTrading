@@ -1,210 +1,60 @@
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.35, 0.45)
-IS: Return = 207.73%, Sharpe Ratio = 2.55
-OOS: Return = 23.16%, Sharpe Ratio = 2.59
-Stress Testing: Return = 3.96%, Sharpe Ratio = 1.67
-Total Period: Return = 204.85%, Sharpe Ratio = 2.44
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.45, 0.35, 0.2)
-IS: Return = 203.56%, Sharpe Ratio = 2.84
-OOS: Return = 23.35%, Sharpe Ratio = 3.12
-Stress Testing: Return = 12.18%, Sharpe Ratio = 5.24
-Total Period: Return = 202.51%, Sharpe Ratio = 2.89
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.3, 0.35, 0.35)
-IS: Return = 203.01%, Sharpe Ratio = 2.84
-OOS: Return = 22.77%, Sharpe Ratio = 2.8
-Stress Testing: Return = 11.31%, Sharpe Ratio = 4.75
-Total Period: Return = 210.89%, Sharpe Ratio = 2.63
-
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.3, 0.5)
-IS: Return = 206.66%, Sharpe Ratio = 2.51
-OOS: Return = 23.18%, Sharpe Ratio = 2.55
-Stress Testing: Return = 3.9%, Sharpe Ratio = 1.62
-Total Period: Return = 204.03%, Sharpe Ratio = 2.38
-
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.4, 0.4)
-IS: Return = 206.89%, Sharpe Ratio = 2.57
-OOS: Return = 23.1%, Sharpe Ratio = 2.63
-Stress Testing: Return = 4.02%, Sharpe Ratio = 1.69
-Total Period: Return = 202.72%, Sharpe Ratio = 2.47
+Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.4, 0.35)
+IS: Return = 231.78%, Sharpe Ratio = 2.56
+OOS: Return = 24.93%, Sharpe Ratio = 2.87
+Stress Testing: Return = 8.4%, Sharpe Ratio = 2.74
+Total Period: Return = 231.93%, Sharpe Ratio = 2.63
 
 Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.45, 0.3)
-IS: Return = 208.34%, Sharpe Ratio = 2.52
-OOS: Return = 24.0%, Sharpe Ratio = 2.78
-Stress Testing: Return = 4.57%, Sharpe Ratio = 1.88
-Total Period: Return = 196.88%, Sharpe Ratio = 2.54
+IS: Return = 231.31%, Sharpe Ratio = 2.55
+OOS: Return = 24.88%, Sharpe Ratio = 2.86
+Stress Testing: Return = 9.09%, Sharpe Ratio = 2.86
+Total Period: Return = 232.22%, Sharpe Ratio = 2.64
 
 Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.35, 0.4)
-IS: Return = 210.36%, Sharpe Ratio = 2.52
-OOS: Return = 23.89%, Sharpe Ratio = 2.73
-Stress Testing: Return = 4.45%, Sharpe Ratio = 1.86
-Total Period: Return = 198.65%, Sharpe Ratio = 2.5
-
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.3, 0.45)
-IS: Return = 209.56%, Sharpe Ratio = 2.51
-OOS: Return = 23.82%, Sharpe Ratio = 2.7
-Stress Testing: Return = 4.38%, Sharpe Ratio = 1.87
-Total Period: Return = 197.96%, Sharpe Ratio = 2.45
-
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.3, 0.25, 0.45)
-IS: Return = 209.11%, Sharpe Ratio = 2.4
-OOS: Return = 23.71%, Sharpe Ratio = 2.76
-Stress Testing: Return = 4.75%, Sharpe Ratio = 2.03
-Total Period: Return = 191.64%, Sharpe Ratio = 2.47
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.4, 0.35, 0.25)
-IS: Return = 203.61%, Sharpe Ratio = 2.87
-OOS: Return = 23.42%, Sharpe Ratio = 3.05
-Stress Testing: Return = 11.85%, Sharpe Ratio = 5.04
-Total Period: Return = 205.31%, Sharpe Ratio = 2.81
-
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.45, 0.35)
-IS: Return = 205.41%, Sharpe Ratio = 2.57
-OOS: Return = 23.04%, Sharpe Ratio = 2.64
-Stress Testing: Return = 4.05%, Sharpe Ratio = 1.69
-Total Period: Return = 201.56%, Sharpe Ratio = 2.49
+IS: Return = 231.1%, Sharpe Ratio = 2.55
+OOS: Return = 24.92%, Sharpe Ratio = 2.85
+Stress Testing: Return = 7.85%, Sharpe Ratio = 2.56
+Total Period: Return = 229.49%, Sharpe Ratio = 2.59
 
 Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.5, 0.25)
-IS: Return = 206.78%, Sharpe Ratio = 2.51
-OOS: Return = 24.04%, Sharpe Ratio = 2.78
-Stress Testing: Return = 4.78%, Sharpe Ratio = 1.96
-Total Period: Return = 195.18%, Sharpe Ratio = 2.53
+IS: Return = 230.83%, Sharpe Ratio = 2.53
+OOS: Return = 24.82%, Sharpe Ratio = 2.84
+Stress Testing: Return = 9.74%, Sharpe Ratio = 3.02
+Total Period: Return = 230.05%, Sharpe Ratio = 2.61
+
+Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.3, 0.45)
+IS: Return = 229.13%, Sharpe Ratio = 2.52
+OOS: Return = 24.84%, Sharpe Ratio = 2.82
+Stress Testing: Return = 2.84%, Sharpe Ratio = 1.17
+Total Period: Return = 226.42%, Sharpe Ratio = 2.54
+
+Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.3, 0.5)
+IS: Return = 226.95%, Sharpe Ratio = 2.5
+OOS: Return = 24.18%, Sharpe Ratio = 2.69
+Stress Testing: Return = 1.97%, Sharpe Ratio = 0.84
+Total Period: Return = 220.37%, Sharpe Ratio = 2.45
+
+Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.4, 0.4)
+IS: Return = 226.55%, Sharpe Ratio = 2.56
+OOS: Return = 24.04%, Sharpe Ratio = 2.75
+Stress Testing: Return = 3.55%, Sharpe Ratio = 1.4
+Total Period: Return = 233.23%, Sharpe Ratio = 2.53
+
+Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.45, 0.35)
+IS: Return = 225.63%, Sharpe Ratio = 2.56
+OOS: Return = 23.89%, Sharpe Ratio = 2.75
+Stress Testing: Return = 8.6%, Sharpe Ratio = 2.67
+Total Period: Return = 234.01%, Sharpe Ratio = 2.56
+
+Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.2, 0.35, 0.45)
+IS: Return = 225.37%, Sharpe Ratio = 2.52
+OOS: Return = 24.13%, Sharpe Ratio = 2.73
+Stress Testing: Return = 2.81%, Sharpe Ratio = 1.14
+Total Period: Return = 218.84%, Sharpe Ratio = 2.47
 
 Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.25, 0.5)
-IS: Return = 206.0%, Sharpe Ratio = 2.44
-OOS: Return = 23.87%, Sharpe Ratio = 2.67
-Stress Testing: Return = 4.39%, Sharpe Ratio = 1.85
-Total Period: Return = 196.89%, Sharpe Ratio = 2.39
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.35, 0.35, 0.3)
-IS: Return = 203.26%, Sharpe Ratio = 2.86
-OOS: Return = 23.36%, Sharpe Ratio = 2.95
-Stress Testing: Return = 11.52%, Sharpe Ratio = 4.88
-Total Period: Return = 208.42%, Sharpe Ratio = 2.72
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.4, 0.4, 0.2)
-IS: Return = 203.37%, Sharpe Ratio = 2.86
-OOS: Return = 23.42%, Sharpe Ratio = 3.03
-Stress Testing: Return = 12.06%, Sharpe Ratio = 5.11
-Total Period: Return = 204.89%, Sharpe Ratio = 2.82
-
-Trading Limits: (2.0, 2.0, 2.0), Allocation: (0.25, 0.4, 0.35)
-IS: Return = 210.15%, Sharpe Ratio = 2.53
-OOS: Return = 23.95%, Sharpe Ratio = 2.77
-Stress Testing: Return = 4.53%, Sharpe Ratio = 1.88
-Total Period: Return = 198.56%, Sharpe Ratio = 2.53
-
-Trading Limits: (2.0, 3.0, 2.0), Allocation: (0.25, 0.4, 0.35)
-IS: Return = 202.55%, Sharpe Ratio = 2.65
-OOS: Return = 24.14%, Sharpe Ratio = 2.7
-Stress Testing: Return = 6.77%, Sharpe Ratio = 3.16
-Total Period: Return = 193.29%, Sharpe Ratio = 2.68
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.35, 0.4, 0.25)
-IS: Return = 202.96%, Sharpe Ratio = 2.87
-OOS: Return = 23.32%, Sharpe Ratio = 2.95
-Stress Testing: Return = 11.77%, Sharpe Ratio = 4.89
-Total Period: Return = 208.27%, Sharpe Ratio = 2.75
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.4, 0.3, 0.3)
-IS: Return = 202.2%, Sharpe Ratio = 2.88
-OOS: Return = 23.38%, Sharpe Ratio = 3.04
-Stress Testing: Return = 11.76%, Sharpe Ratio = 4.95
-Total Period: Return = 204.03%, Sharpe Ratio = 2.76
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.35, 0.45, 0.2)
-IS: Return = 201.99%, Sharpe Ratio = 2.85
-OOS: Return = 23.2%, Sharpe Ratio = 2.92
-Stress Testing: Return = 11.91%, Sharpe Ratio = 4.95
-Total Period: Return = 207.72%, Sharpe Ratio = 2.75
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.3, 0.4, 0.3)
-IS: Return = 201.95%, Sharpe Ratio = 2.85
-OOS: Return = 22.68%, Sharpe Ratio = 2.82
-Stress Testing: Return = 11.53%, Sharpe Ratio = 4.72
-Total Period: Return = 210.86%, Sharpe Ratio = 2.66
-
-Trading Limits: (2.0, 2.0, 3.0), Allocation: (0.25, 0.4, 0.35)
-IS: Return = 202.11%, Sharpe Ratio = 2.62
-OOS: Return = 23.36%, Sharpe Ratio = 2.87
-Stress Testing: Return = 5.07%, Sharpe Ratio = 2.2
-Total Period: Return = 191.78%, Sharpe Ratio = 2.69
-
-Trading Limits: (2.0, 2.0, 3.0), Allocation: (0.25, 0.45, 0.3)
-IS: Return = 201.9%, Sharpe Ratio = 2.59
-OOS: Return = 23.46%, Sharpe Ratio = 2.84
-Stress Testing: Return = 5.03%, Sharpe Ratio = 2.19
-Total Period: Return = 191.5%, Sharpe Ratio = 2.65
-
-Trading Limits: (2.0, 3.0, 2.0), Allocation: (0.25, 0.45, 0.3)
-IS: Return = 201.71%, Sharpe Ratio = 2.66
-OOS: Return = 24.42%, Sharpe Ratio = 2.75
-Stress Testing: Return = 7.13%, Sharpe Ratio = 3.28
-Total Period: Return = 217.82%, Sharpe Ratio = 2.72
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.35, 0.3, 0.35)
-IS: Return = 201.71%, Sharpe Ratio = 2.87
-OOS: Return = 23.35%, Sharpe Ratio = 2.93
-Stress Testing: Return = 11.43%, Sharpe Ratio = 4.87
-Total Period: Return = 206.76%, Sharpe Ratio = 2.67
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.3, 0.3, 0.4)
-IS: Return = 201.63%, Sharpe Ratio = 2.85
-OOS: Return = 22.83%, Sharpe Ratio = 2.78
-Stress Testing: Return = 11.22%, Sharpe Ratio = 4.84
-Total Period: Return = 194.09%, Sharpe Ratio = 2.56
-
-Trading Limits: (2.0, 3.0, 2.0), Allocation: (0.25, 0.35, 0.4)
-IS: Return = 202.19%, Sharpe Ratio = 2.62
-OOS: Return = 23.96%, Sharpe Ratio = 2.67
-Stress Testing: Return = 6.49%, Sharpe Ratio = 3.08
-Total Period: Return = 192.63%, Sharpe Ratio = 2.61
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.5, 0.3, 0.2)
-IS: Return = 201.5%, Sharpe Ratio = 2.81
-OOS: Return = 23.22%, Sharpe Ratio = 3.2
-Stress Testing: Return = 12.27%, Sharpe Ratio = 5.37
-Total Period: Return = 198.91%, Sharpe Ratio = 2.95
-
-Trading Limits: (2.0, 2.0, 3.0), Allocation: (0.25, 0.35, 0.4)
-IS: Return = 201.55%, Sharpe Ratio = 2.63
-OOS: Return = 23.24%, Sharpe Ratio = 2.88
-Stress Testing: Return = 5.06%, Sharpe Ratio = 2.19
-Total Period: Return = 191.64%, Sharpe Ratio = 2.7
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.25, 0.35, 0.4)
-IS: Return = 200.94%, Sharpe Ratio = 2.8
-OOS: Return = 21.97%, Sharpe Ratio = 2.63
-Stress Testing: Return = 11.04%, Sharpe Ratio = 4.61
-Total Period: Return = 212.16%, Sharpe Ratio = 2.54
-
-Trading Limits: (2.0, 2.0, 3.0), Allocation: (0.25, 0.5, 0.25)
-IS: Return = 201.43%, Sharpe Ratio = 2.56
-OOS: Return = 23.5%, Sharpe Ratio = 2.8
-Stress Testing: Return = 5.05%, Sharpe Ratio = 2.18
-Total Period: Return = 213.89%, Sharpe Ratio = 2.64
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.45, 0.3, 0.25)
-IS: Return = 201.51%, Sharpe Ratio = 2.85
-OOS: Return = 23.32%, Sharpe Ratio = 3.13
-Stress Testing: Return = 12.04%, Sharpe Ratio = 5.13
-Total Period: Return = 201.2%, Sharpe Ratio = 2.86
-
-Trading Limits: (2.0, 2.0, 3.0), Allocation: (0.25, 0.3, 0.45)
-IS: Return = 200.48%, Sharpe Ratio = 2.64
-OOS: Return = 23.1%, Sharpe Ratio = 2.88
-Stress Testing: Return = 5.03%, Sharpe Ratio = 2.12
-Total Period: Return = 189.06%, Sharpe Ratio = 2.7
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.3, 0.45, 0.25)
-IS: Return = 200.72%, Sharpe Ratio = 2.84
-OOS: Return = 22.57%, Sharpe Ratio = 2.81
-Stress Testing: Return = 11.72%, Sharpe Ratio = 4.74
-Total Period: Return = 209.58%, Sharpe Ratio = 2.67
-
-Trading Limits: (3.0, 2.0, 2.0), Allocation: (0.25, 0.4, 0.35)
-IS: Return = 200.44%, Sharpe Ratio = 2.8
-OOS: Return = 21.89%, Sharpe Ratio = 2.65
-Stress Testing: Return = 11.23%, Sharpe Ratio = 4.55
-Total Period: Return = 211.8%, Sharpe Ratio = 2.56
+IS: Return = 225.09%, Sharpe Ratio = 2.48
+OOS: Return = 24.81%, Sharpe Ratio = 2.78
+Stress Testing: Return = 2.0%, Sharpe Ratio = 0.86
+Total Period: Return = 212.89%, Sharpe Ratio = 2.49
 
