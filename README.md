@@ -16,4 +16,3 @@
 
 ## Live Trading
 - `live_trading_implementation.ipynb` updates data, decides what trades to do and places trades.
-- `live_trading_monitoring.ipynb` contains useful functions for live trading.
