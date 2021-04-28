@@ -16,3 +16,6 @@
 
 ## Live Trading
 - `live_trading_implementation.ipynb` updates data periodically, decides what trades to make and is used to place trades.
+
+## Visualizations
+- `Visualizations.ipynb` generates all the graphs that we use in our final report, which are stored in the `visualizations` folder.
