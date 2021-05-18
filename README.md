@@ -1,5 +1,8 @@
 # ADRPairsTrading
 
+## Report
+- `report.pdf` is the final report of our stock-ADR pairs trading strategy.
+
 ## Data Pulling and Engineering
 - `historical_data` contains the stock and forex data used in backtesting.
 - `historical_data/pull_data.ipynb` is used to select our universe of stock-ADR pairs, and to extract historical stock and forex data of interest.
